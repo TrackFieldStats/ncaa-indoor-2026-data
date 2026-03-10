@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-10T03:15:58Z",
+    "last_updated": "2026-03-10T03:40:40Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/02-26_SEC",
     "scrape_ok": true,
     "status": "live"
@@ -12,38 +12,38 @@
     "2026-03-14"
   ],
   "_known_finals": [
-    "Women:Women Pole Vault",
-    "Women:Women 3000m",
-    "Women:Women 400m",
-    "Men:Men 400m",
-    "Women:Women 4x400m Relay",
-    "Men:Men Pole Vault",
-    "Women:Women 800m",
-    "Men:Men 200m",
-    "Men:Men 60m",
-    "Women:Women 60m",
-    "Women:Women DMR",
-    "Men:Men Triple Jump",
-    "Men:Men Weight",
-    "Women:Women Weight",
-    "Men:Men High Jump",
-    "Men:Men 5000m",
-    "Men:Men 60m Hurdles",
-    "Men:Men Long Jump",
-    "Men:Men DMR",
-    "Women:Women Shot Put",
-    "Women:Women 200m",
-    "Men:Men 800m",
-    "Women:Women Long Jump",
     "Women:Women 5000m",
-    "Men:Men 3000m",
-    "Women:Women Triple Jump",
     "Men:Men 4x400m Relay",
-    "Women:Women 60m Hurdles",
-    "Women:Women High Jump",
+    "Women:Women Shot Put",
     "Men:Men Shot Put",
-    "Men:Men 1 Mile",
-    "Women:Women 1 Mile"
+    "Women:Women 800m",
+    "Men:Men 5000m",
+    "Women:Women 200m",
+    "Women:Women High Jump",
+    "Men:Men High Jump",
+    "Men:Men Long Jump",
+    "Women:Women Weight",
+    "Women:Women 60m Hurdles",
+    "Women:Women Triple Jump",
+    "Women:Women 400m",
+    "Women:Women Pole Vault",
+    "Men:Men 60m Hurdles",
+    "Men:Men Weight",
+    "Men:Men 60m",
+    "Men:Men DMR",
+    "Men:Men 400m",
+    "Women:Women 3000m",
+    "Women:Women 4x400m Relay",
+    "Women:Women 1 Mile",
+    "Men:Men Pole Vault",
+    "Men:Men 800m",
+    "Men:Men 3000m",
+    "Men:Men 200m",
+    "Men:Men Triple Jump",
+    "Women:Women Long Jump",
+    "Women:Women DMR",
+    "Women:Women 60m",
+    "Men:Men 1 Mile"
   ],
   "women": {
     "team_scores": [
@@ -5546,20 +5546,6 @@
       }
     },
     "variance": {
-      "Salma ELBADRASouth Carolina [JR]": {
-        "W 1 Mile": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        }
-      },
-      "Claire STEGALLFlorida [FR]": {
-        "W 1 Mile": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        }
-      },
       "Milicent WAFULAAlabama [SO]": {
         "W 1 Mile": {
           "actual": 3.0,
@@ -5567,18 +5553,11 @@
           "variance": 3.0
         }
       },
-      "Doricah Minsari ISOEKentucky [FR]": {
+      "Salma ELBADRASouth Carolina [JR]": {
         "W 1 Mile": {
-          "actual": 4.0,
+          "actual": 10.0,
           "expected": 0,
-          "variance": 4.0
-        }
-      },
-      "Elise SMOOTTexas A&M [SR]": {
-        "W 1 Mile": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
+          "variance": 10.0
         }
       },
       "Sophia BENDETTexas A&M [FR]": {
@@ -5588,11 +5567,18 @@
           "variance": 2.0
         }
       },
-      "Mary OGWOKATennessee [FR]": {
+      "Elise SMOOTTexas A&M [SR]": {
         "W 1 Mile": {
-          "actual": 6.0,
+          "actual": 1.0,
           "expected": 0,
-          "variance": 6.0
+          "variance": 1.0
+        }
+      },
+      "Doricah Minsari ISOEKentucky [FR]": {
+        "W 1 Mile": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
         }
       },
       "Tia WILSONFlorida [SR]": {
@@ -5607,23 +5593,18 @@
           "variance": 1.0
         }
       },
-      "Adaejah HODGEGeorgia [FR]": {
-        "W 60m": {
-          "actual": 5.0,
+      "Claire STEGALLFlorida [FR]": {
+        "W 1 Mile": {
+          "actual": 8.0,
           "expected": 0,
-          "variance": 5.0
-        },
-        "W 200m": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
+          "variance": 8.0
         }
       },
-      "Reign REDMONDGeorgia [SO]": {
-        "W 60m": {
-          "actual": 2.0,
+      "Mary OGWOKATennessee [FR]": {
+        "W 1 Mile": {
+          "actual": 6.0,
           "expected": 0,
-          "variance": 2.0
+          "variance": 6.0
         }
       },
       "Sharmelle HOLMESKentucky [SO]": {
@@ -5640,20 +5621,6 @@
           "variance": 6.0
         }
       },
-      "Alicia BURNETTOle Miss [SR]": {
-        "W 60m": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        }
-      },
-      "Kaila JACKSONGeorgia [SR]": {
-        "W 60m": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        }
-      },
       "Carleta BERNARDTexas [SO]": {
         "W 60m": {
           "actual": 1.0,
@@ -5666,8 +5633,62 @@
           "variance": 2.0
         }
       },
+      "Kaila JACKSONGeorgia [SR]": {
+        "W 60m": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        }
+      },
       "Alexis BROWNSouth Carolina [SR]": {
         "W 60m": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        }
+      },
+      "Reign REDMONDGeorgia [SO]": {
+        "W 60m": {
+          "actual": 2.0,
+          "expected": 0,
+          "variance": 2.0
+        }
+      },
+      "Adaejah HODGEGeorgia [FR]": {
+        "W 60m": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        },
+        "W 200m": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        }
+      },
+      "Alicia BURNETTOle Miss [SR]": {
+        "W 60m": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        }
+      },
+      "Ella ONOJUVWEVWOLSU [SR]": {
+        "W 400m": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        }
+      },
+      "A'Laji BRADLEYKentucky [SO]": {
+        "W 400m": {
+          "actual": 2.0,
+          "expected": 0,
+          "variance": 2.0
+        }
+      },
+      "Javonya VALCOURTTennessee [SR]": {
+        "W 400m": {
           "actual": 3.0,
           "expected": 0,
           "variance": 3.0
@@ -5678,6 +5699,18 @@
           "actual": 8.0,
           "expected": 0,
           "variance": 8.0
+        }
+      },
+      "Sydney SUTTONFlorida [FR]": {
+        "W 400m": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        },
+        "W 200m": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
         }
       },
       "Hannah DOUGLASKentucky [SR]": {
@@ -5694,32 +5727,6 @@
           "variance": 1.0
         }
       },
-      "Javonya VALCOURTTennessee [SR]": {
-        "W 400m": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        }
-      },
-      "Ella ONOJUVWEVWOLSU [SR]": {
-        "W 400m": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        }
-      },
-      "Sydney SUTTONFlorida [FR]": {
-        "W 400m": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        },
-        "W 200m": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        }
-      },
       "Kaylyn BROWNArkansas [SO]": {
         "W 400m": {
           "actual": 4.0,
@@ -5727,32 +5734,11 @@
           "variance": 4.0
         }
       },
-      "A'Laji BRADLEYKentucky [SO]": {
-        "W 400m": {
-          "actual": 2.0,
-          "expected": 0,
-          "variance": 2.0
-        }
-      },
       "Sanu JALLOWArkansas [JR]": {
         "W 800m": {
           "actual": 8.0,
           "expected": 0,
           "variance": 8.0
-        }
-      },
-      "Makenna HERBSTArkansas [FR]": {
-        "W 800m": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        }
-      },
-      "Layla HAYNESFlorida [JR]": {
-        "W 800m": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
         }
       },
       "Analisse BATISTAArkansas [JR]": {
@@ -5769,6 +5755,20 @@
           "variance": 2.0
         }
       },
+      "Makenna HERBSTArkansas [FR]": {
+        "W 800m": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        }
+      },
+      "Layla HAYNESFlorida [JR]": {
+        "W 800m": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        }
+      },
       "Michelle SMITHGeorgia [SO]": {
         "W 800m": {
           "actual": 1.0,
@@ -5776,18 +5776,18 @@
           "variance": 1.0
         }
       },
-      "Vanice Kerubo NYAGISERAKentucky [FR]": {
-        "W 800m": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        }
-      },
       "Ka'Myya HAYWOODTennessee [JR]": {
         "W 800m": {
           "actual": 3.0,
           "expected": 0,
           "variance": 3.0
+        }
+      },
+      "Vanice Kerubo NYAGISERAKentucky [FR]": {
+        "W 800m": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
         }
       },
       "Ana-Liese TORIANAuburn [JR]": {
@@ -5804,11 +5804,11 @@
           "variance": 10.0
         }
       },
-      "Maddi COOPERGeorgia [FR]": {
+      "Danae NEMBHARDAuburn [SR]": {
         "W 60m Hurdles": {
-          "actual": 2.0,
+          "actual": 8.0,
           "expected": 0,
-          "variance": 2.0
+          "variance": 8.0
         }
       },
       "Joslyn HAMILTONSouth Carolina [SO]": {
@@ -5825,6 +5825,13 @@
           "variance": 6.0
         }
       },
+      "Maddi COOPERGeorgia [FR]": {
+        "W 60m Hurdles": {
+          "actual": 2.0,
+          "expected": 0,
+          "variance": 2.0
+        }
+      },
       "Akala GARRETTSouth Carolina [JR]": {
         "W 60m Hurdles": {
           "actual": 5.0,
@@ -5839,8 +5846,15 @@
           "variance": 4.0
         }
       },
-      "Danae NEMBHARDAuburn [SR]": {
-        "W 60m Hurdles": {
+      "Gabrielle MATTHEWSFlorida [SR]": {
+        "W 200m": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        }
+      },
+      "JaMeesia FORDSouth Carolina [JR]": {
+        "W 200m": {
           "actual": 8.0,
           "expected": 0,
           "variance": 8.0
@@ -5853,13 +5867,6 @@
           "variance": 6.0
         }
       },
-      "Elise COOPERTexas [FR]": {
-        "W 200m": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        }
-      },
       "Keliza SMITHLSU [JR]": {
         "W 200m": {
           "actual": 3.0,
@@ -5867,30 +5874,18 @@
           "variance": 3.0
         }
       },
-      "JaMeesia FORDSouth Carolina [JR]": {
+      "Elise COOPERTexas [FR]": {
         "W 200m": {
-          "actual": 8.0,
+          "actual": 5.0,
           "expected": 0,
-          "variance": 8.0
+          "variance": 5.0
         }
       },
-      "Gabrielle MATTHEWSFlorida [SR]": {
-        "W 200m": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
-      "Hilda OLEMOMOIFlorida [SR]": {
+      "Doris LEMNGOLEAlabama [JR]": {
         "W 3000m": {
-          "actual": 8.0,
+          "actual": 10.0,
           "expected": 0,
-          "variance": 8.0
-        },
-        "W 5000m": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
+          "variance": 10.0
         }
       },
       "Caren KIPLAGATAlabama [FR]": {
@@ -5917,20 +5912,6 @@
           "variance": 4.0
         }
       },
-      "Cynthia JEMUTAIAlabama [FR]": {
-        "W 3000m": {
-          "actual": 2.0,
-          "expected": 0,
-          "variance": 2.0
-        }
-      },
-      "Doris LEMNGOLEAlabama [JR]": {
-        "W 3000m": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        }
-      },
       "Judy CHEPKOECHFlorida [SO]": {
         "W 3000m": {
           "actual": 3.0,
@@ -5943,6 +5924,18 @@
           "variance": 5.0
         }
       },
+      "Hilda OLEMOMOIFlorida [SR]": {
+        "W 3000m": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        },
+        "W 5000m": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        }
+      },
       "Sydney VAUGHTArkansas [SR]": {
         "W 3000m": {
           "actual": 6.0,
@@ -5953,6 +5946,32 @@
           "actual": 10.0,
           "expected": 0,
           "variance": 10.0
+        }
+      },
+      "Cynthia JEMUTAIAlabama [FR]": {
+        "W 3000m": {
+          "actual": 2.0,
+          "expected": 0,
+          "variance": 2.0
+        }
+      },
+      "SOUTH CAROLINASouth Carolina": {
+        "W 4x400m Relay": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        }
+      },
+      "TEXAS A&MTexas A&M": {
+        "W 4x400m Relay": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        },
+        "W DMR": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
         }
       },
       "ARKANSASArkansas": {
@@ -5979,11 +5998,11 @@
           "variance": 4.0
         }
       },
-      "SOUTH CAROLINASouth Carolina": {
+      "VANDERBILTVanderbilt": {
         "W 4x400m Relay": {
-          "actual": 8.0,
+          "actual": 2.0,
           "expected": 0,
-          "variance": 8.0
+          "variance": 2.0
         }
       },
       "GEORGIAGeorgia": {
@@ -6000,18 +6019,6 @@
           "variance": 3.0
         }
       },
-      "TEXAS A&MTexas A&M": {
-        "W 4x400m Relay": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        },
-        "W DMR": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        }
-      },
       "MISS STATEMiss State": {
         "W 4x400m Relay": {
           "actual": 1.0,
@@ -6019,60 +6026,6 @@
           "variance": 1.0
         },
         "W DMR": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
-      "VANDERBILTVanderbilt": {
-        "W 4x400m Relay": {
-          "actual": 2.0,
-          "expected": 0,
-          "variance": 2.0
-        }
-      },
-      "Auburn": {
-        "W Shot Put": {
-          "actual": 0,
-          "expected": 8.0,
-          "variance": -8.0
-        }
-      },
-      "Alida VAN DAALENFlorida [JR]": {
-        "W Shot Put": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        }
-      },
-      "Ole Miss": {
-        "W Shot Put": {
-          "actual": 0,
-          "expected": 6.0,
-          "variance": -6.0
-        }
-      },
-      "Florida": {
-        "W Shot Put": {
-          "actual": 0,
-          "expected": 3.0,
-          "variance": -3.0
-        }
-      },
-      "Georgia": {
-        "W Shot Put": {
-          "actual": 0,
-          "expected": 1.0,
-          "variance": -1.0
-        },
-        "W Triple Jump": {
-          "actual": 0,
-          "expected": 1.5,
-          "variance": -1.5
-        }
-      },
-      "Carlie WEISERTexas A&M [JR]": {
-        "W Shot Put": {
           "actual": 1.0,
           "expected": 0,
           "variance": 1.0
@@ -6090,11 +6043,72 @@
           "variance": -5.5
         }
       },
-      "Tyley DOTSONOklahoma [FR]": {
+      "Penn": {
         "W Shot Put": {
-          "actual": 2.0,
+          "actual": 0,
+          "expected": 5.0,
+          "variance": -5.0
+        }
+      },
+      "Megan HAGUEAuburn [SR]": {
+        "W Shot Put": {
+          "actual": 10.0,
           "expected": 0,
-          "variance": 2.0
+          "variance": 10.0
+        }
+      },
+      "Alida VAN DAALENFlorida [JR]": {
+        "W Shot Put": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
+        }
+      },
+      "Georgia": {
+        "W Shot Put": {
+          "actual": 0,
+          "expected": 1.0,
+          "variance": -1.0
+        },
+        "W Triple Jump": {
+          "actual": 0,
+          "expected": 1.5,
+          "variance": -1.5
+        }
+      },
+      "Kelsie MURRELL-ROSSGeorgia [SR]": {
+        "W Shot Put": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        }
+      },
+      "Carlie WEISERTexas A&M [JR]": {
+        "W Shot Put": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        }
+      },
+      "Auburn": {
+        "W Shot Put": {
+          "actual": 0,
+          "expected": 8.0,
+          "variance": -8.0
+        }
+      },
+      "USC": {
+        "W Shot Put": {
+          "actual": 0,
+          "expected": 2.0,
+          "variance": -2.0
+        }
+      },
+      "Nina NDUBUISIGeorgia [JR]": {
+        "W Shot Put": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
         }
       },
       "Akaoma ODELUGAOle Miss [JR]": {
@@ -6109,32 +6123,18 @@
           "variance": 8.0
         }
       },
-      "USC": {
+      "Tyley DOTSONOklahoma [FR]": {
+        "W Shot Put": {
+          "actual": 2.0,
+          "expected": 0,
+          "variance": 2.0
+        }
+      },
+      "Florida": {
         "W Shot Put": {
           "actual": 0,
-          "expected": 2.0,
-          "variance": -2.0
-        }
-      },
-      "Kelsie MURRELL-ROSSGeorgia [SR]": {
-        "W Shot Put": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        }
-      },
-      "Nina NDUBUISIGeorgia [JR]": {
-        "W Shot Put": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        }
-      },
-      "Megan HAGUEAuburn [SR]": {
-        "W Shot Put": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
+          "expected": 3.0,
+          "variance": -3.0
         }
       },
       "Camryn MASSEYAuburn [SO]": {
@@ -6144,18 +6144,11 @@
           "variance": 4.0
         }
       },
-      "Penn": {
+      "Ole Miss": {
         "W Shot Put": {
           "actual": 0,
-          "expected": 5.0,
-          "variance": -5.0
-        }
-      },
-      "Manie MEVOMiss State [SR]": {
-        "W Triple Jump": {
-          "actual": 2.0,
-          "expected": 0,
-          "variance": 2.0
+          "expected": 6.0,
+          "variance": -6.0
         }
       },
       "Machaeda LINTONTexas A&M [SR]": {
@@ -6168,67 +6161,6 @@
           "actual": 8.0,
           "expected": 0,
           "variance": 8.0
-        }
-      },
-      "Riley AMMENHAUSEROklahoma [SR]": {
-        "W Triple Jump": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
-      "Endia SMITHTennessee [FR]": {
-        "W Triple Jump": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        }
-      },
-      "Skylynn TOWNSENDGeorgia [SO]": {
-        "W Triple Jump": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        }
-      },
-      "Danah NEMBHARDGeorgia [SO]": {
-        "W Triple Jump": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        }
-      },
-      "TX Tech": {
-        "W Triple Jump": {
-          "actual": 0,
-          "expected": 13.5,
-          "variance": -13.5
-        },
-        "W High Jump": {
-          "actual": 0,
-          "expected": 13.0,
-          "variance": -13.0
-        }
-      },
-      "Asia PHILLIPSFlorida [SO]": {
-        "W Triple Jump": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        }
-      },
-      "Jeanne LE GOFFTexas [SO]": {
-        "W Triple Jump": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        }
-      },
-      "Clemson": {
-        "W Triple Jump": {
-          "actual": 0,
-          "expected": 10.0,
-          "variance": -10.0
         }
       },
       "KS State": {
@@ -6248,6 +6180,46 @@
           "variance": -4.0
         }
       },
+      "Skylynn TOWNSENDGeorgia [SO]": {
+        "W Triple Jump": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        }
+      },
+      "Riley AMMENHAUSEROklahoma [SR]": {
+        "W Triple Jump": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        }
+      },
+      "Danah NEMBHARDGeorgia [SO]": {
+        "W Triple Jump": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        }
+      },
+      "Manie MEVOMiss State [SR]": {
+        "W Triple Jump": {
+          "actual": 2.0,
+          "expected": 0,
+          "variance": 2.0
+        }
+      },
+      "TX Tech": {
+        "W Triple Jump": {
+          "actual": 0,
+          "expected": 13.5,
+          "variance": -13.5
+        },
+        "W High Jump": {
+          "actual": 0,
+          "expected": 13.0,
+          "variance": -13.0
+        }
+      },
       "Illinois": {
         "W Triple Jump": {
           "actual": 0,
@@ -6265,25 +6237,32 @@
           "variance": -15.0
         }
       },
-      "Nyah EDWARDSOle Miss [SR]": {
-        "W Weight": {
-          "actual": 2.0,
-          "expected": 0,
-          "variance": 2.0
-        }
-      },
-      "Kate POWERSKentucky [JR]": {
-        "W Weight": {
+      "Endia SMITHTennessee [FR]": {
+        "W Triple Jump": {
           "actual": 4.0,
           "expected": 0,
           "variance": 4.0
         }
       },
-      "Meagan EWERSKentucky [FR]": {
-        "W Weight": {
-          "actual": 1.0,
+      "Jeanne LE GOFFTexas [SO]": {
+        "W Triple Jump": {
+          "actual": 3.0,
           "expected": 0,
-          "variance": 1.0
+          "variance": 3.0
+        }
+      },
+      "Asia PHILLIPSFlorida [SO]": {
+        "W Triple Jump": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
+        }
+      },
+      "Clemson": {
+        "W Triple Jump": {
+          "actual": 0,
+          "expected": 10.0,
+          "variance": -10.0
         }
       },
       "Skylar SOLIOle Miss [JR]": {
@@ -6293,6 +6272,13 @@
           "variance": 6.0
         }
       },
+      "Meagan EWERSKentucky [FR]": {
+        "W Weight": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        }
+      },
       "Kennedy CLARKEOklahoma [SR]": {
         "W Weight": {
           "actual": 5.0,
@@ -6300,11 +6286,11 @@
           "variance": 5.0
         }
       },
-      "Imani WASHINGTONFlorida [SR]": {
+      "Kate POWERSKentucky [JR]": {
         "W Weight": {
-          "actual": 3.0,
+          "actual": 4.0,
           "expected": 0,
-          "variance": 3.0
+          "variance": 4.0
         }
       },
       "Giavonna MEEKSTexas [JR]": {
@@ -6314,11 +6300,91 @@
           "variance": 10.0
         }
       },
+      "Imani WASHINGTONFlorida [SR]": {
+        "W Weight": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        }
+      },
+      "Nyah EDWARDSOle Miss [SR]": {
+        "W Weight": {
+          "actual": 2.0,
+          "expected": 0,
+          "variance": 2.0
+        }
+      },
+      "Kemarah HOWARDKentucky [FR]": {
+        "W High Jump": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        }
+      },
+      "Hannah PFIFFNEROklahoma [JR]": {
+        "W High Jump": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        }
+      },
+      "Oklahoma": {
+        "W High Jump": {
+          "actual": 0,
+          "expected": 1.0,
+          "variance": -1.0
+        }
+      },
+      "Miracle AILESAlabama [SR]": {
+        "W High Jump": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        }
+      },
+      "Brianna RIVERSOklahoma [FR]": {
+        "W High Jump": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        }
+      },
       "Zoe PEACOCKLSU [FR]": {
         "W High Jump": {
           "actual": 1.0,
           "expected": 0,
           "variance": 1.0
+        }
+      },
+      "Heidi HUDSONArkansas [SO]": {
+        "W High Jump": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        },
+        "W Long Jump": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
+        }
+      },
+      "Bradie MENEGATTITexas A&M [FR]": {
+        "W High Jump": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        }
+      },
+      "Stanford": {
+        "W High Jump": {
+          "actual": 0,
+          "expected": 4.5,
+          "variance": -4.5
+        },
+        "W Long Jump": {
+          "actual": 0,
+          "expected": 6.0,
+          "variance": -6.0
         }
       },
       "Arizona": {
@@ -6335,73 +6401,7 @@
           "variance": 6.0
         }
       },
-      "Heidi HUDSONArkansas [SO]": {
-        "W High Jump": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        },
-        "W Long Jump": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        }
-      },
-      "Stanford": {
-        "W High Jump": {
-          "actual": 0,
-          "expected": 4.5,
-          "variance": -4.5
-        },
-        "W Long Jump": {
-          "actual": 0,
-          "expected": 6.0,
-          "variance": -6.0
-        }
-      },
-      "Hannah PFIFFNEROklahoma [JR]": {
-        "W High Jump": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        }
-      },
-      "Bradie MENEGATTITexas A&M [FR]": {
-        "W High Jump": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        }
-      },
-      "Oklahoma": {
-        "W High Jump": {
-          "actual": 0,
-          "expected": 1.0,
-          "variance": -1.0
-        }
-      },
       "Milena CHEVALLIERTexas A&M [SO]": {
-        "W High Jump": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
-      "Miracle AILESAlabama [SR]": {
-        "W High Jump": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        }
-      },
-      "Kemarah HOWARDKentucky [FR]": {
-        "W High Jump": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        }
-      },
-      "Brianna RIVERSOklahoma [FR]": {
         "W High Jump": {
           "actual": 1.0,
           "expected": 0,
@@ -6415,13 +6415,6 @@
           "variance": 2.0
         }
       },
-      "Edna CHEPKEMOILSU [SO]": {
-        "W 5000m": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        }
-      },
       "Brenda TUWEIAlabama [SR]": {
         "W 5000m": {
           "actual": 1.0,
@@ -6429,11 +6422,11 @@
           "variance": 1.0
         }
       },
-      "ALABAMAAlabama": {
-        "W DMR": {
-          "actual": 5.0,
+      "Edna CHEPKEMOILSU [SO]": {
+        "W 5000m": {
+          "actual": 3.0,
           "expected": 0,
-          "variance": 5.0
+          "variance": 3.0
         }
       },
       "S. CAROLINASouth Carolina": {
@@ -6441,6 +6434,13 @@
           "actual": 10.0,
           "expected": 0,
           "variance": 10.0
+        }
+      },
+      "ALABAMAAlabama": {
+        "W DMR": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
         }
       },
       "KENTUCKYKentucky": {
@@ -6457,88 +6457,11 @@
           "variance": 8.0
         }
       },
-      "Kendall FORDTennessee [SR]": {
-        "W Pole Vault": {
-          "actual": 1.5,
-          "expected": 0,
-          "variance": 1.5
-        }
-      },
       "South Dakota": {
         "W Pole Vault": {
           "actual": 0,
           "expected": 14.0,
           "variance": -14.0
-        }
-      },
-      "Duke": {
-        "W Pole Vault": {
-          "actual": 0,
-          "expected": 4.0,
-          "variance": -4.0
-        }
-      },
-      "Jathiyah MUHAMMADSouth Carolina [SO]": {
-        "W Pole Vault": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        }
-      },
-      "Baylor": {
-        "W Pole Vault": {
-          "actual": 0,
-          "expected": 5.0,
-          "variance": -5.0
-        }
-      },
-      "Skye TOLBERTTennessee [SO]": {
-        "W Pole Vault": {
-          "actual": 1.5,
-          "expected": 0,
-          "variance": 1.5
-        }
-      },
-      "Alla PARNOVMiss State [JR]": {
-        "W Pole Vault": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        }
-      },
-      "South Carolina": {
-        "W Pole Vault": {
-          "actual": 0,
-          "expected": 1.5,
-          "variance": -1.5
-        }
-      },
-      "Jacelyn NEIGHBORSOklahoma [SO]": {
-        "W Pole Vault": {
-          "actual": 4.5,
-          "expected": 0,
-          "variance": 4.5
-        }
-      },
-      "Cal Poly": {
-        "W Pole Vault": {
-          "actual": 0,
-          "expected": 3.0,
-          "variance": -3.0
-        }
-      },
-      "Alyssa QUINONES-MIXONAuburn [SR]": {
-        "W Pole Vault": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        }
-      },
-      "Anne MURPHYKentucky [SR]": {
-        "W Pole Vault": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
         }
       },
       "Washington": {
@@ -6548,11 +6471,116 @@
           "variance": -11.5
         }
       },
+      "Cal Poly": {
+        "W Pole Vault": {
+          "actual": 0,
+          "expected": 3.0,
+          "variance": -3.0
+        }
+      },
+      "Skye TOLBERTTennessee [SO]": {
+        "W Pole Vault": {
+          "actual": 1.5,
+          "expected": 0,
+          "variance": 1.5
+        }
+      },
+      "South Carolina": {
+        "W Pole Vault": {
+          "actual": 0,
+          "expected": 1.5,
+          "variance": -1.5
+        }
+      },
+      "Jathiyah MUHAMMADSouth Carolina [SO]": {
+        "W Pole Vault": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        }
+      },
+      "Alyssa QUINONES-MIXONAuburn [SR]": {
+        "W Pole Vault": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        }
+      },
       "Lily BEATTIEOle Miss [SO]": {
         "W Pole Vault": {
           "actual": 4.5,
           "expected": 0,
           "variance": 4.5
+        }
+      },
+      "Jacelyn NEIGHBORSOklahoma [SO]": {
+        "W Pole Vault": {
+          "actual": 4.5,
+          "expected": 0,
+          "variance": 4.5
+        }
+      },
+      "Baylor": {
+        "W Pole Vault": {
+          "actual": 0,
+          "expected": 5.0,
+          "variance": -5.0
+        }
+      },
+      "Duke": {
+        "W Pole Vault": {
+          "actual": 0,
+          "expected": 4.0,
+          "variance": -4.0
+        }
+      },
+      "Alla PARNOVMiss State [JR]": {
+        "W Pole Vault": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        }
+      },
+      "Anne MURPHYKentucky [SR]": {
+        "W Pole Vault": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
+        }
+      },
+      "Kendall FORDTennessee [SR]": {
+        "W Pole Vault": {
+          "actual": 1.5,
+          "expected": 0,
+          "variance": 1.5
+        }
+      },
+      "Caelyn HARRISAlabama [SR]": {
+        "W Long Jump": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        }
+      },
+      "MT State": {
+        "W Long Jump": {
+          "actual": 0,
+          "expected": 2.0,
+          "variance": -2.0
+        }
+      },
+      "Tristen HARRISSouth Carolina [FR]": {
+        "W Long Jump": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        }
+      },
+      "Duquesne": {
+        "W Long Jump": {
+          "actual": 0,
+          "expected": 1.0,
+          "variance": -1.0
         }
       },
       "Ava KITCHINGSGeorgia [FR]": {
@@ -6569,39 +6597,18 @@
           "variance": 2.0
         }
       },
+      "TX A&M": {
+        "W Long Jump": {
+          "actual": 0,
+          "expected": 3.0,
+          "variance": -3.0
+        }
+      },
       "Morgan DAVISTexas A&M [JR]": {
         "W Long Jump": {
           "actual": 10.0,
           "expected": 0,
           "variance": 10.0
-        }
-      },
-      "Lena GOODENVanderbilt [SO]": {
-        "W Long Jump": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
-      "Duquesne": {
-        "W Long Jump": {
-          "actual": 0,
-          "expected": 1.0,
-          "variance": -1.0
-        }
-      },
-      "MT State": {
-        "W Long Jump": {
-          "actual": 0,
-          "expected": 2.0,
-          "variance": -2.0
-        }
-      },
-      "Caelyn HARRISAlabama [SR]": {
-        "W Long Jump": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
         }
       },
       "Tarleton State": {
@@ -6611,18 +6618,11 @@
           "variance": -8.0
         }
       },
-      "TX A&M": {
+      "Lena GOODENVanderbilt [SO]": {
         "W Long Jump": {
-          "actual": 0,
-          "expected": 3.0,
-          "variance": -3.0
-        }
-      },
-      "Tristen HARRISSouth Carolina [FR]": {
-        "W Long Jump": {
-          "actual": 4.0,
+          "actual": 1.0,
           "expected": 0,
-          "variance": 4.0
+          "variance": 1.0
         }
       }
     }
@@ -12171,11 +12171,11 @@
       }
     },
     "variance": {
-      "Jaouad KHCHINASouth Carolina [JR]": {
+      "Ryan OLREEGeorgia [JR]": {
         "M 1 Mile": {
-          "actual": 6.0,
+          "actual": 5.0,
           "expected": 0,
-          "variance": 6.0
+          "variance": 5.0
         }
       },
       "John SHOEMAKEROle Miss [FR]": {
@@ -12185,32 +12185,18 @@
           "variance": 2.0
         }
       },
-      "Lucas BONSTexas [SR]": {
+      "Oussama ALLAOUIFlorida [FR]": {
         "M 1 Mile": {
-          "actual": 3.0,
+          "actual": 8.0,
           "expected": 0,
-          "variance": 3.0
+          "variance": 8.0
         }
       },
-      "Ryan OLREEGeorgia [JR]": {
+      "Jaouad KHCHINASouth Carolina [JR]": {
         "M 1 Mile": {
-          "actual": 5.0,
+          "actual": 6.0,
           "expected": 0,
-          "variance": 5.0
-        }
-      },
-      "Gavin GENISIOTennessee [SO]": {
-        "M 1 Mile": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
-      "Evan THORNTON-SHERMANOle Miss [JR]": {
-        "M 1 Mile": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
+          "variance": 6.0
         }
       },
       "Drew ROGERSMissouri [JR]": {
@@ -12220,23 +12206,25 @@
           "variance": 10.0
         }
       },
-      "Oussama ALLAOUIFlorida [FR]": {
+      "Lucas BONSTexas [SR]": {
         "M 1 Mile": {
-          "actual": 8.0,
+          "actual": 3.0,
           "expected": 0,
-          "variance": 8.0
+          "variance": 3.0
         }
       },
-      "Jelani WATKINSArkansas [SO]": {
-        "M 60m": {
-          "actual": 8.0,
+      "Evan THORNTON-SHERMANOle Miss [JR]": {
+        "M 1 Mile": {
+          "actual": 4.0,
           "expected": 0,
-          "variance": 8.0
-        },
-        "M 200m": {
-          "actual": 10.0,
+          "variance": 4.0
+        }
+      },
+      "Gavin GENISIOTennessee [SO]": {
+        "M 1 Mile": {
+          "actual": 1.0,
           "expected": 0,
-          "variance": 10.0
+          "variance": 1.0
         }
       },
       "Israel OKONAuburn [SO]": {
@@ -12246,18 +12234,11 @@
           "variance": 6.0
         }
       },
-      "Omari LEWISAuburn [SR]": {
+      "Kanyinsola AJAYIAuburn [JR]": {
         "M 60m": {
-          "actual": 3.0,
+          "actual": 10.0,
           "expected": 0,
-          "variance": 3.0
-        }
-      },
-      "Traunard FOLSONTennessee [JR]": {
-        "M 60m": {
-          "actual": 2.0,
-          "expected": 0,
-          "variance": 2.0
+          "variance": 10.0
         }
       },
       "Adekalu FAKOREDEMiss State [SO]": {
@@ -12281,15 +12262,27 @@
           "variance": 4.0
         }
       },
-      "Kanyinsola AJAYIAuburn [JR]": {
+      "Traunard FOLSONTennessee [JR]": {
         "M 60m": {
-          "actual": 10.0,
+          "actual": 2.0,
           "expected": 0,
-          "variance": 10.0
+          "variance": 2.0
         }
       },
-      "Samuel OGAZIAlabama [JR]": {
-        "M 400m": {
+      "Omari LEWISAuburn [SR]": {
+        "M 60m": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        }
+      },
+      "Jelani WATKINSArkansas [SO]": {
+        "M 60m": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        },
+        "M 200m": {
           "actual": 10.0,
           "expected": 0,
           "variance": 10.0
@@ -12302,6 +12295,13 @@
           "variance": 5.0
         }
       },
+      "Jasauna DENNISSouth Carolina [JR]": {
+        "M 400m": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        }
+      },
       "Jayden HORTON-MIMSFlorida [FR]": {
         "M 400m": {
           "actual": 2.0,
@@ -12309,18 +12309,11 @@
           "variance": 2.0
         }
       },
-      "Jordan PIERREArkansas [JR]": {
+      "Samuel OGAZIAlabama [JR]": {
         "M 400m": {
-          "actual": 8.0,
+          "actual": 10.0,
           "expected": 0,
-          "variance": 8.0
-        }
-      },
-      "Jasauna DENNISSouth Carolina [JR]": {
-        "M 400m": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
+          "variance": 10.0
         }
       },
       "Justin BRAUNFlorida [JR]": {
@@ -12330,13 +12323,6 @@
           "variance": 4.0
         }
       },
-      "Jonathan SIMMSGeorgia [FR]": {
-        "M 400m": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        }
-      },
       "Sidi NJIEGeorgia [FR]": {
         "M 400m": {
           "actual": 1.0,
@@ -12344,18 +12330,18 @@
           "variance": 1.0
         }
       },
-      "Rivaldo MARSHALLArkansas [SR]": {
-        "M 800m": {
+      "Jordan PIERREArkansas [JR]": {
+        "M 400m": {
           "actual": 8.0,
           "expected": 0,
           "variance": 8.0
         }
       },
-      "Peter NARUMBETexas A&M [FR]": {
-        "M 800m": {
-          "actual": 10.0,
+      "Jonathan SIMMSGeorgia [FR]": {
+        "M 400m": {
+          "actual": 6.0,
           "expected": 0,
-          "variance": 10.0
+          "variance": 6.0
         }
       },
       "Miguel PANTOJASFlorida [JR]": {
@@ -12372,18 +12358,11 @@
           "variance": 2.0
         }
       },
-      "Max ARMSTRONGOle Miss [SO]": {
+      "Rivaldo MARSHALLArkansas [SR]": {
         "M 800m": {
-          "actual": 4.0,
+          "actual": 8.0,
           "expected": 0,
-          "variance": 4.0
-        }
-      },
-      "Patrick FAUSTKentucky [JR]": {
-        "M 800m": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
+          "variance": 8.0
         }
       },
       "Chase ROSEOle Miss [SR]": {
@@ -12393,11 +12372,32 @@
           "variance": 5.0
         }
       },
+      "Peter NARUMBETexas A&M [FR]": {
+        "M 800m": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        }
+      },
+      "Patrick FAUSTKentucky [JR]": {
+        "M 800m": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        }
+      },
       "Tyrice TAYLORArkansas [SR]": {
         "M 800m": {
           "actual": 6.0,
           "expected": 0,
           "variance": 6.0
+        }
+      },
+      "Max ARMSTRONGOle Miss [SO]": {
+        "M 800m": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
         }
       },
       "Vashaun VASCIANNAArkansas [SR]": {
@@ -12407,18 +12407,25 @@
           "variance": 5.0
         }
       },
+      "Matthew SOPHIALSU [SR]": {
+        "M 60m Hurdles": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        }
+      },
+      "Ja'Qualon SCOTTTexas A&M [SR]": {
+        "M 60m Hurdles": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        }
+      },
       "Jerome CAMPBELLArkansas [SR]": {
         "M 60m Hurdles": {
           "actual": 4.0,
           "expected": 0,
           "variance": 4.0
-        }
-      },
-      "Ja'Kobe THARPAuburn [JR]": {
-        "M 60m Hurdles": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
         }
       },
       "Kendrick SMALLWOODTexas [SR]": {
@@ -12442,32 +12449,11 @@
           "variance": 2.0
         }
       },
-      "Ja'Qualon SCOTTTexas A&M [SR]": {
+      "Ja'Kobe THARPAuburn [JR]": {
         "M 60m Hurdles": {
-          "actual": 8.0,
+          "actual": 10.0,
           "expected": 0,
-          "variance": 8.0
-        }
-      },
-      "Matthew SOPHIALSU [SR]": {
-        "M 60m Hurdles": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
-      "Dapriest HOGANSArkansas [SR]": {
-        "M 200m": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        }
-      },
-      "Wanya MCCOYFlorida [SR]": {
-        "M 200m": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
+          "variance": 10.0
         }
       },
       "Auhmad ROBINSONTexas A&M [SR]": {
@@ -12491,49 +12477,18 @@
           "variance": 5.0
         }
       },
-      "Brian MASAIArkansas [SR]": {
-        "M 3000m": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        }
-      },
-      "Nick BUSIENEIArkansas [FR]": {
-        "M 3000m": {
-          "actual": 2.0,
-          "expected": 0,
-          "variance": 2.0
-        },
-        "M 5000m": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        }
-      },
-      "Zouhair REDOUANETennessee [SO]": {
-        "M 3000m": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        }
-      },
-      "Aiden BRITTOle Miss [SR]": {
-        "M 3000m": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        },
-        "M 5000m": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        }
-      },
-      "Ethan EDGEWORTHTennessee [SO]": {
-        "M 3000m": {
+      "Dapriest HOGANSArkansas [SR]": {
+        "M 200m": {
           "actual": 4.0,
           "expected": 0,
           "variance": 4.0
+        }
+      },
+      "Wanya MCCOYFlorida [SR]": {
+        "M 200m": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
         }
       },
       "Ernest CHERUIYOTArkansas [JR]": {
@@ -12543,16 +12498,18 @@
           "variance": 8.0
         }
       },
-      "Dismus LOKIRAAlabama [SO]": {
+      "Ethan EDGEWORTHTennessee [SO]": {
         "M 3000m": {
-          "actual": 3.0,
+          "actual": 4.0,
           "expected": 0,
-          "variance": 3.0
-        },
-        "M 5000m": {
-          "actual": 8.0,
+          "variance": 4.0
+        }
+      },
+      "Zouhair REDOUANETennessee [SO]": {
+        "M 3000m": {
+          "actual": 5.0,
           "expected": 0,
-          "variance": 8.0
+          "variance": 5.0
         }
       },
       "Kelvin CHERUIYOTFlorida [FR]": {
@@ -12567,23 +12524,47 @@
           "variance": 6.0
         }
       },
-      "ARKANSASArkansas": {
-        "M 4x400m Relay": {
+      "Brian MASAIArkansas [SR]": {
+        "M 3000m": {
           "actual": 10.0,
           "expected": 0,
           "variance": 10.0
-        },
-        "M DMR": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
         }
       },
-      "LSULSU": {
-        "M 4x400m Relay": {
-          "actual": 6.0,
+      "Aiden BRITTOle Miss [SR]": {
+        "M 3000m": {
+          "actual": 1.0,
           "expected": 0,
-          "variance": 6.0
+          "variance": 1.0
+        },
+        "M 5000m": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        }
+      },
+      "Dismus LOKIRAAlabama [SO]": {
+        "M 3000m": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        },
+        "M 5000m": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        }
+      },
+      "Nick BUSIENEIArkansas [FR]": {
+        "M 3000m": {
+          "actual": 2.0,
+          "expected": 0,
+          "variance": 2.0
+        },
+        "M 5000m": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
         }
       },
       "ALABAMAAlabama": {
@@ -12605,16 +12586,16 @@
           "variance": 4.0
         }
       },
-      "GEORGIAGeorgia": {
+      "ARKANSASArkansas": {
         "M 4x400m Relay": {
-          "actual": 8.0,
+          "actual": 10.0,
           "expected": 0,
-          "variance": 8.0
+          "variance": 10.0
         },
         "M DMR": {
-          "actual": 4.0,
+          "actual": 6.0,
           "expected": 0,
-          "variance": 4.0
+          "variance": 6.0
         }
       },
       "OLE MISSOle Miss": {
@@ -12629,11 +12610,16 @@
           "variance": 8.0
         }
       },
-      "MISS STATEMiss State": {
+      "GEORGIAGeorgia": {
         "M 4x400m Relay": {
-          "actual": 2.0,
+          "actual": 8.0,
           "expected": 0,
-          "variance": 2.0
+          "variance": 8.0
+        },
+        "M DMR": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
         }
       },
       "FLORIDAFlorida": {
@@ -12643,25 +12629,18 @@
           "variance": 5.0
         }
       },
-      "Arvesta TROUPEOle Miss [SR]": {
-        "M High Jump": {
-          "actual": 4.0,
+      "LSULSU": {
+        "M 4x400m Relay": {
+          "actual": 6.0,
           "expected": 0,
-          "variance": 4.0
+          "variance": 6.0
         }
       },
-      "Tyson RITZOklahoma [JR]": {
-        "M High Jump": {
-          "actual": 8.0,
+      "MISS STATEMiss State": {
+        "M 4x400m Relay": {
+          "actual": 2.0,
           "expected": 0,
-          "variance": 8.0
-        }
-      },
-      "Kimani JACKGeorgia [JR]": {
-        "M High Jump": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
+          "variance": 2.0
         }
       },
       "Kyren WASHINGTONOklahoma [JR]": {
@@ -12672,91 +12651,6 @@
         }
       },
       "Etoro BASSEYTexas A&M [FR]": {
-        "M High Jump": {
-          "actual": 1.2,
-          "expected": 0,
-          "variance": 1.2
-        }
-      },
-      "Grant CAMPBELLTennessee [JR]": {
-        "M High Jump": {
-          "actual": 1.2,
-          "expected": 0,
-          "variance": 1.2
-        }
-      },
-      "TX State": {
-        "M High Jump": {
-          "actual": 0,
-          "expected": 1.5,
-          "variance": -1.5
-        }
-      },
-      "Miami (Fla.)": {
-        "M High Jump": {
-          "actual": 0,
-          "expected": 1.5,
-          "variance": -1.5
-        }
-      },
-      "My'Kell BECKAlabama [SR]": {
-        "M High Jump": {
-          "actual": 1.2,
-          "expected": 0,
-          "variance": 1.2
-        }
-      },
-      "Scottie VINESArkansas [SO]": {
-        "M High Jump": {
-          "actual": 1.2,
-          "expected": 0,
-          "variance": 1.2
-        }
-      },
-      "Ole Miss": {
-        "M High Jump": {
-          "actual": 0,
-          "expected": 3.0,
-          "variance": -3.0
-        },
-        "M Shot Put": {
-          "actual": 0,
-          "expected": 10.0,
-          "variance": -10.0
-        }
-      },
-      "Georgia": {
-        "M High Jump": {
-          "actual": 0,
-          "expected": 10.0,
-          "variance": -10.0
-        }
-      },
-      "Oklahoma": {
-        "M High Jump": {
-          "actual": 0,
-          "expected": 11.5,
-          "variance": -11.5
-        },
-        "M Triple Jump": {
-          "actual": 0,
-          "expected": 9.0,
-          "variance": -9.0
-        },
-        "M Long Jump": {
-          "actual": 0,
-          "expected": 10.0,
-          "variance": -10.0
-        }
-      },
-      "Brion STEPHENSGeorgia [SR]": {
-        "M High Jump": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        }
-      },
-      "Khristian WATSONAlabama [JR]": {
         "M High Jump": {
           "actual": 1.2,
           "expected": 0,
@@ -12780,11 +12674,136 @@
           "variance": -2.0
         }
       },
-      "Hilton GREENOklahoma [JR]": {
-        "M Pole Vault": {
-          "actual": 3.5,
+      "Miami (Fla.)": {
+        "M High Jump": {
+          "actual": 0,
+          "expected": 1.5,
+          "variance": -1.5
+        }
+      },
+      "TX State": {
+        "M High Jump": {
+          "actual": 0,
+          "expected": 1.5,
+          "variance": -1.5
+        }
+      },
+      "Oklahoma": {
+        "M High Jump": {
+          "actual": 0,
+          "expected": 11.5,
+          "variance": -11.5
+        },
+        "M Triple Jump": {
+          "actual": 0,
+          "expected": 9.0,
+          "variance": -9.0
+        },
+        "M Long Jump": {
+          "actual": 0,
+          "expected": 10.0,
+          "variance": -10.0
+        }
+      },
+      "Tyson RITZOklahoma [JR]": {
+        "M High Jump": {
+          "actual": 8.0,
           "expected": 0,
-          "variance": 3.5
+          "variance": 8.0
+        }
+      },
+      "Scottie VINESArkansas [SO]": {
+        "M High Jump": {
+          "actual": 1.2,
+          "expected": 0,
+          "variance": 1.2
+        }
+      },
+      "Arvesta TROUPEOle Miss [SR]": {
+        "M High Jump": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        }
+      },
+      "Georgia": {
+        "M High Jump": {
+          "actual": 0,
+          "expected": 10.0,
+          "variance": -10.0
+        }
+      },
+      "Brion STEPHENSGeorgia [SR]": {
+        "M High Jump": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        }
+      },
+      "Kimani JACKGeorgia [JR]": {
+        "M High Jump": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        }
+      },
+      "Khristian WATSONAlabama [JR]": {
+        "M High Jump": {
+          "actual": 1.2,
+          "expected": 0,
+          "variance": 1.2
+        }
+      },
+      "My'Kell BECKAlabama [SR]": {
+        "M High Jump": {
+          "actual": 1.2,
+          "expected": 0,
+          "variance": 1.2
+        }
+      },
+      "Grant CAMPBELLTennessee [JR]": {
+        "M High Jump": {
+          "actual": 1.2,
+          "expected": 0,
+          "variance": 1.2
+        }
+      },
+      "Ole Miss": {
+        "M High Jump": {
+          "actual": 0,
+          "expected": 3.0,
+          "variance": -3.0
+        },
+        "M Shot Put": {
+          "actual": 0,
+          "expected": 10.0,
+          "variance": -10.0
+        }
+      },
+      "Washington": {
+        "M Pole Vault": {
+          "actual": 0,
+          "expected": 10.0,
+          "variance": -10.0
+        }
+      },
+      "Cade GRAYTennessee [SR]": {
+        "M Pole Vault": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        },
+        "M Long Jump": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        }
+      },
+      "TX A&M": {
+        "M Pole Vault": {
+          "actual": 0,
+          "expected": 3.5,
+          "variance": -3.5
         }
       },
       "Aleksandr SOLOVEVTexas A&M [SR]": {
@@ -12801,6 +12820,39 @@
           "variance": 2.0
         }
       },
+      "Illinois": {
+        "M Pole Vault": {
+          "actual": 0,
+          "expected": 2.0,
+          "variance": -2.0
+        },
+        "M Triple Jump": {
+          "actual": 0,
+          "expected": 2.0,
+          "variance": -2.0
+        }
+      },
+      "Hilton GREENOklahoma [JR]": {
+        "M Pole Vault": {
+          "actual": 3.5,
+          "expected": 0,
+          "variance": 3.5
+        }
+      },
+      "Oleg ANANEVTexas A&M [SO]": {
+        "M Pole Vault": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        }
+      },
+      "High Point": {
+        "M Pole Vault": {
+          "actual": 0,
+          "expected": 1.0,
+          "variance": -1.0
+        }
+      },
       "Ismaila SAWANEHTennessee [JR]": {
         "M Pole Vault": {
           "actual": 10.0,
@@ -12808,11 +12860,25 @@
           "variance": 10.0
         }
       },
-      "Kansas": {
+      "Evan PUCKETTTennessee [SR]": {
+        "M Pole Vault": {
+          "actual": 3.5,
+          "expected": 0,
+          "variance": 3.5
+        }
+      },
+      "Tennessee": {
         "M Pole Vault": {
           "actual": 0,
-          "expected": 3.5,
-          "variance": -3.5
+          "expected": 11.0,
+          "variance": -11.0
+        }
+      },
+      "Samuel ABATITexas [SO]": {
+        "M Pole Vault": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
         }
       },
       "Nebraska": {
@@ -12827,91 +12893,25 @@
           "variance": -3.0
         }
       },
-      "Samuel ABATITexas [SO]": {
-        "M Pole Vault": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
-      "Evan PUCKETTTennessee [SR]": {
-        "M Pole Vault": {
-          "actual": 3.5,
-          "expected": 0,
-          "variance": 3.5
-        }
-      },
-      "Cade GRAYTennessee [SR]": {
-        "M Pole Vault": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        },
-        "M Long Jump": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        }
-      },
-      "Tennessee": {
-        "M Pole Vault": {
-          "actual": 0,
-          "expected": 11.0,
-          "variance": -11.0
-        }
-      },
-      "High Point": {
-        "M Pole Vault": {
-          "actual": 0,
-          "expected": 1.0,
-          "variance": -1.0
-        }
-      },
-      "Oleg ANANEVTexas A&M [SO]": {
-        "M Pole Vault": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        }
-      },
-      "Washington": {
-        "M Pole Vault": {
-          "actual": 0,
-          "expected": 10.0,
-          "variance": -10.0
-        }
-      },
-      "TX A&M": {
+      "Kansas": {
         "M Pole Vault": {
           "actual": 0,
           "expected": 3.5,
           "variance": -3.5
         }
       },
-      "Illinois": {
-        "M Pole Vault": {
-          "actual": 0,
-          "expected": 2.0,
-          "variance": -2.0
-        },
+      "Kentucky": {
         "M Triple Jump": {
           "actual": 0,
-          "expected": 2.0,
-          "variance": -2.0
+          "expected": 6.0,
+          "variance": -6.0
         }
       },
-      "Kyle JOHNSONOle Miss [JR]": {
+      "Brandon GREEN JROklahoma [SR]": {
         "M Triple Jump": {
-          "actual": 1.0,
+          "actual": 8.0,
           "expected": 0,
-          "variance": 1.0
-        }
-      },
-      "Floyd WHITAKEROklahoma [SR]": {
-        "M Triple Jump": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
+          "variance": 8.0
         }
       },
       "Abraham JOHNSONArkansas [SO]": {
@@ -12933,11 +12933,44 @@
           "variance": -5.0
         }
       },
+      "Temoso MASIKANEFlorida [FR]": {
+        "M Triple Jump": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        },
+        "M Long Jump": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        }
+      },
+      "Floyd WHITAKEROklahoma [SR]": {
+        "M Triple Jump": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        }
+      },
       "Sterling SCOTTOle Miss [JR]": {
         "M Triple Jump": {
           "actual": 3.0,
           "expected": 0,
           "variance": 3.0
+        }
+      },
+      "TX Tech": {
+        "M Triple Jump": {
+          "actual": 0,
+          "expected": 10.0,
+          "variance": -10.0
+        }
+      },
+      "Kyle JOHNSONOle Miss [JR]": {
+        "M Triple Jump": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
         }
       },
       "Kelsey DANIELTexas [SR]": {
@@ -12952,39 +12985,6 @@
           "variance": 10.0
         }
       },
-      "Temoso MASIKANEFlorida [FR]": {
-        "M Triple Jump": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        },
-        "M Long Jump": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        }
-      },
-      "TX Tech": {
-        "M Triple Jump": {
-          "actual": 0,
-          "expected": 10.0,
-          "variance": -10.0
-        }
-      },
-      "Brandon GREEN JROklahoma [SR]": {
-        "M Triple Jump": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        }
-      },
-      "Kentucky": {
-        "M Triple Jump": {
-          "actual": 0,
-          "expected": 6.0,
-          "variance": -6.0
-        }
-      },
       "Theo MUDZENGEREREKentucky [SR]": {
         "M Triple Jump": {
           "actual": 10.0,
@@ -12992,11 +12992,11 @@
           "variance": 10.0
         }
       },
-      "Miss State": {
+      "Jarno VAN DAALANFlorida [FR]": {
         "M Shot Put": {
-          "actual": 0,
-          "expected": 5.0,
-          "variance": -5.0
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
         }
       },
       "Penn State": {
@@ -13006,39 +13006,6 @@
           "variance": -2.0
         }
       },
-      "Roury MCCLOYENMiss State [JR]": {
-        "M Shot Put": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        }
-      },
-      "Florida": {
-        "M Shot Put": {
-          "actual": 0,
-          "expected": 6.0,
-          "variance": -6.0
-        },
-        "M Long Jump": {
-          "actual": 0,
-          "expected": 3.5,
-          "variance": -3.5
-        }
-      },
-      "Michael PINONESTexas [JR]": {
-        "M Shot Put": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        }
-      },
-      "Logan MONTGOMERYSouth Carolina [JR]": {
-        "M Shot Put": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
       "Tucker SMITHOklahoma [JR]": {
         "M Shot Put": {
           "actual": 2.0,
@@ -13046,11 +13013,11 @@
           "variance": 2.0
         }
       },
-      "Jarno VAN DAALANFlorida [FR]": {
+      "Logan MONTGOMERYSouth Carolina [JR]": {
         "M Shot Put": {
-          "actual": 8.0,
+          "actual": 1.0,
           "expected": 0,
-          "variance": 8.0
+          "variance": 1.0
         }
       },
       "Tarik ROBINSON-O'HAGANOle Miss [SR]": {
@@ -13065,11 +13032,18 @@
           "variance": 10.0
         }
       },
-      "JL VAN RENSBURGTennessee [SO]": {
+      "Roury MCCLOYENMiss State [JR]": {
         "M Shot Put": {
-          "actual": 5.0,
+          "actual": 6.0,
           "expected": 0,
-          "variance": 5.0
+          "variance": 6.0
+        }
+      },
+      "Michael PINONESTexas [JR]": {
+        "M Shot Put": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
         }
       },
       "Oregon": {
@@ -13086,6 +13060,13 @@
           "variance": 3.0
         }
       },
+      "JL VAN RENSBURGTennessee [SO]": {
+        "M Shot Put": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        }
+      },
       "Gardner-Webb": {
         "M Shot Put": {
           "actual": 0,
@@ -13093,11 +13074,37 @@
           "variance": -4.0
         }
       },
-      "Henry ZIMMERMANTexas A&M [SR]": {
+      "Florida": {
+        "M Shot Put": {
+          "actual": 0,
+          "expected": 6.0,
+          "variance": -6.0
+        },
+        "M Long Jump": {
+          "actual": 0,
+          "expected": 3.5,
+          "variance": -3.5
+        }
+      },
+      "Miss State": {
+        "M Shot Put": {
+          "actual": 0,
+          "expected": 5.0,
+          "variance": -5.0
+        }
+      },
+      "Johnathan WITTEFlorida [SR]": {
         "M Weight": {
-          "actual": 8.0,
+          "actual": 1.0,
           "expected": 0,
-          "variance": 8.0
+          "variance": 1.0
+        }
+      },
+      "Sam INNESMissouri [SR]": {
+        "M Weight": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
         }
       },
       "Bryson SMITHOle Miss [SR]": {
@@ -13114,20 +13121,6 @@
           "variance": 3.0
         }
       },
-      "Aidan IFKOVITSTennessee [SO]": {
-        "M Weight": {
-          "actual": 2.0,
-          "expected": 0,
-          "variance": 2.0
-        }
-      },
-      "Johnathan WITTEFlorida [SR]": {
-        "M Weight": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
       "John LEONARDAuburn [JR]": {
         "M Weight": {
           "actual": 4.0,
@@ -13135,25 +13128,18 @@
           "variance": 4.0
         }
       },
-      "Sam INNESMissouri [SR]": {
+      "Aidan IFKOVITSTennessee [SO]": {
         "M Weight": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        }
-      },
-      "James SANKEIArkansas [FR]": {
-        "M 5000m": {
           "actual": 2.0,
           "expected": 0,
           "variance": 2.0
         }
       },
-      "Nelson PARIKENAlabama [FR]": {
-        "M 5000m": {
-          "actual": 4.0,
+      "Henry ZIMMERMANTexas A&M [SR]": {
+        "M Weight": {
+          "actual": 8.0,
           "expected": 0,
-          "variance": 4.0
+          "variance": 8.0
         }
       },
       "Kidus MISGINAOle Miss [SR]": {
@@ -13170,11 +13156,18 @@
           "variance": 1.0
         }
       },
-      "TEXASTexas": {
-        "M DMR": {
-          "actual": 1.0,
+      "James SANKEIArkansas [FR]": {
+        "M 5000m": {
+          "actual": 2.0,
           "expected": 0,
-          "variance": 1.0
+          "variance": 2.0
+        }
+      },
+      "Nelson PARIKENAlabama [FR]": {
+        "M 5000m": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
         }
       },
       "S. CAROLINASouth Carolina": {
@@ -13198,18 +13191,11 @@
           "variance": 2.0
         }
       },
-      "Jordan TURNERLSU [SR]": {
-        "M Long Jump": {
-          "actual": 8.0,
+      "TEXASTexas": {
+        "M DMR": {
+          "actual": 1.0,
           "expected": 0,
-          "variance": 8.0
-        }
-      },
-      "Princeton": {
-        "M Long Jump": {
-          "actual": 0,
-          "expected": 8.0,
-          "variance": -8.0
+          "variance": 1.0
         }
       },
       "Mathis VAITULUKINATexas [FR]": {
@@ -13217,27 +13203,6 @@
           "actual": 2.0,
           "expected": 0,
           "variance": 2.0
-        }
-      },
-      "Kennedy STRINGFELLOWOklahoma [JR]": {
-        "M Long Jump": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        }
-      },
-      "Asande MTHEMBUAuburn [SO]": {
-        "M Long Jump": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
-      "Ohio State": {
-        "M Long Jump": {
-          "actual": 0,
-          "expected": 6.0,
-          "variance": -6.0
         }
       },
       "Tarleton State": {
@@ -13254,11 +13219,46 @@
           "variance": -3.5
         }
       },
+      "Ohio State": {
+        "M Long Jump": {
+          "actual": 0,
+          "expected": 6.0,
+          "variance": -6.0
+        }
+      },
       "Jayden KEYSGeorgia [SO]": {
         "M Long Jump": {
           "actual": 6.0,
           "expected": 0,
           "variance": 6.0
+        }
+      },
+      "Kennedy STRINGFELLOWOklahoma [JR]": {
+        "M Long Jump": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        }
+      },
+      "Princeton": {
+        "M Long Jump": {
+          "actual": 0,
+          "expected": 8.0,
+          "variance": -8.0
+        }
+      },
+      "Asande MTHEMBUAuburn [SO]": {
+        "M Long Jump": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        }
+      },
+      "Jordan TURNERLSU [SR]": {
+        "M Long Jump": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
         }
       }
     }
