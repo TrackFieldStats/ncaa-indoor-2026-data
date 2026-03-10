@@ -1,1 +1,15 @@
-{}
+{
+  "meta": {
+    "last_updated": "2026-03-10T02:02:00Z",
+    "meet_url": "https://flashresults.com/2026_Meets/Indoor/02-26_SEC/index.htm",
+    "scrape_ok": false,
+    "status": "meet_not_started",
+    "message": "Meet URL not yet configured. Check back closer to race day."
+  },
+  "meet_name": "NCAA Division I 2026 Indoor Championships",
+  "venue": "Randal Tyson Track Center",
+  "dates": [
+    "2026-03-13",
+    "2026-03-14"
+  ]
+}
