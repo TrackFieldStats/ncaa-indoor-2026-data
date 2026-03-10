@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-10T05:17:07Z",
+    "last_updated": "2026-03-10T05:31:30Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/02-26_SEC",
     "scrape_ok": true,
     "status": "live"
@@ -12,38 +12,38 @@
     "2026-03-14"
   ],
   "_known_finals": [
-    "Women:Women Long Jump",
-    "Men:Men 800m",
-    "Men:Men Weight",
-    "Men:Men Triple Jump",
-    "Women:Women 60m",
-    "Men:Men 60m Hurdles",
-    "Women:Women 200m",
-    "Men:Men DMR",
-    "Men:Men 4x400m Relay",
-    "Men:Men 400m",
-    "Men:Men Long Jump",
-    "Women:Women Shot Put",
-    "Women:Women 800m",
-    "Men:Men 60m",
     "Women:Women 5000m",
-    "Men:Men High Jump",
-    "Men:Men Shot Put",
-    "Women:Women Weight",
-    "Men:Men 200m",
-    "Men:Men 5000m",
-    "Women:Women 3000m",
-    "Women:Women Triple Jump",
-    "Men:Men 1 Mile",
-    "Women:Women 60m Hurdles",
     "Women:Women 400m",
-    "Men:Men Pole Vault",
-    "Women:Women High Jump",
+    "Men:Men 60m",
     "Women:Women 4x400m Relay",
+    "Men:Men 60m Hurdles",
+    "Men:Men Shot Put",
+    "Women:Women Long Jump",
+    "Men:Men DMR",
+    "Women:Women Pole Vault",
+    "Men:Men Weight",
+    "Women:Women 800m",
+    "Men:Men 800m",
+    "Women:Women 200m",
+    "Men:Men High Jump",
+    "Men:Men 4x400m Relay",
+    "Women:Women 3000m",
+    "Women:Women 60m",
+    "Men:Men Triple Jump",
+    "Men:Men 1 Mile",
+    "Men:Men 5000m",
     "Women:Women DMR",
     "Men:Men 3000m",
-    "Women:Women Pole Vault",
-    "Women:Women 1 Mile"
+    "Men:Men Pole Vault",
+    "Women:Women Shot Put",
+    "Men:Men Long Jump",
+    "Men:Men 200m",
+    "Women:Women High Jump",
+    "Women:Women Triple Jump",
+    "Women:Women Weight",
+    "Women:Women 60m Hurdles",
+    "Women:Women 1 Mile",
+    "Men:Men 400m"
   ],
   "women": {
     "team_scores": [
@@ -2721,6 +2721,53 @@
       }
     },
     "variance": {
+      "Texas A&M": {
+        "W 1 Mile": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        },
+        "W 60m Hurdles": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        },
+        "W 200m": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
+        },
+        "W 4x400m Relay": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        },
+        "W Shot Put": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        },
+        "W Triple Jump": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        },
+        "W High Jump": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        },
+        "W DMR": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
+        },
+        "W Long Jump": {
+          "actual": 18.0,
+          "expected": 0,
+          "variance": 18.0
+        }
+      },
       "Florida": {
         "W 1 Mile": {
           "actual": 13.0,
@@ -2771,6 +2818,85 @@
           "actual": 8.0,
           "expected": 0,
           "variance": 8.0
+        }
+      },
+      "Kentucky": {
+        "W 1 Mile": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        },
+        "W 60m": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        },
+        "W 400m": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        },
+        "W 800m": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
+        },
+        "W 60m Hurdles": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        },
+        "W Weight": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        },
+        "W High Jump": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        },
+        "W DMR": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        },
+        "W Pole Vault": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
+        }
+      },
+      "Alabama": {
+        "W 1 Mile": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        },
+        "W 3000m": {
+          "actual": 17.0,
+          "expected": 0,
+          "variance": 17.0
+        },
+        "W High Jump": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        },
+        "W 5000m": {
+          "actual": 7.0,
+          "expected": 0,
+          "variance": 7.0
+        },
+        "W DMR": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        },
+        "W Long Jump": {
+          "actual": 7.0,
+          "expected": 0,
+          "variance": 7.0
         }
       },
       "South Carolina": {
@@ -2862,130 +2988,31 @@
           "variance": 3.0
         }
       },
-      "Alabama": {
-        "W 1 Mile": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        },
-        "W 3000m": {
-          "actual": 17.0,
-          "expected": 0,
-          "variance": 17.0
-        },
-        "W High Jump": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        },
-        "W 5000m": {
-          "actual": 7.0,
-          "expected": 0,
-          "variance": 7.0
-        },
-        "W DMR": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        },
-        "W Long Jump": {
-          "actual": 7.0,
-          "expected": 0,
-          "variance": 7.0
-        }
-      },
-      "Kentucky": {
-        "W 1 Mile": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        },
+      "Texas": {
         "W 60m": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        },
-        "W 400m": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        },
-        "W 800m": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        },
-        "W 60m Hurdles": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        },
-        "W Weight": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        },
-        "W High Jump": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        },
-        "W DMR": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        },
-        "W Pole Vault": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        }
-      },
-      "Texas A&M": {
-        "W 1 Mile": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        },
-        "W 60m Hurdles": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        },
-        "W 200m": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        },
-        "W 4x400m Relay": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        },
-        "W Shot Put": {
           "actual": 1.0,
           "expected": 0,
           "variance": 1.0
         },
-        "W Triple Jump": {
-          "actual": 5.0,
+        "W 200m": {
+          "actual": 7.0,
           "expected": 0,
-          "variance": 5.0
+          "variance": 7.0
         },
-        "W High Jump": {
-          "actual": 4.0,
+        "W 4x400m Relay": {
+          "actual": 3.0,
           "expected": 0,
-          "variance": 4.0
+          "variance": 3.0
         },
-        "W DMR": {
-          "actual": 6.0,
+        "W Weight": {
+          "actual": 10.0,
           "expected": 0,
-          "variance": 6.0
+          "variance": 10.0
         },
-        "W Long Jump": {
-          "actual": 18.0,
+        "W 5000m": {
+          "actual": 2.0,
           "expected": 0,
-          "variance": 18.0
+          "variance": 2.0
         }
       },
       "Georgia": {
@@ -3035,6 +3062,28 @@
           "variance": 3.0
         }
       },
+      "Ole Miss": {
+        "W 60m": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        },
+        "W Shot Put": {
+          "actual": 8.0,
+          "expected": 6.0,
+          "variance": 2.0
+        },
+        "W Weight": {
+          "actual": 16.0,
+          "expected": 0,
+          "variance": 16.0
+        },
+        "W Pole Vault": {
+          "actual": 4.5,
+          "expected": 0,
+          "variance": 4.5
+        }
+      },
       "LSU": {
         "W 60m": {
           "actual": 6.0,
@@ -3060,55 +3109,6 @@
           "actual": 3.0,
           "expected": 0,
           "variance": 3.0
-        }
-      },
-      "Ole Miss": {
-        "W 60m": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        },
-        "W Shot Put": {
-          "actual": 8.0,
-          "expected": 6.0,
-          "variance": 2.0
-        },
-        "W Weight": {
-          "actual": 16.0,
-          "expected": 0,
-          "variance": 16.0
-        },
-        "W Pole Vault": {
-          "actual": 4.5,
-          "expected": 0,
-          "variance": 4.5
-        }
-      },
-      "Texas": {
-        "W 60m": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        },
-        "W 200m": {
-          "actual": 7.0,
-          "expected": 0,
-          "variance": 7.0
-        },
-        "W 4x400m Relay": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        },
-        "W Weight": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        },
-        "W 5000m": {
-          "actual": 2.0,
-          "expected": 0,
-          "variance": 2.0
         }
       },
       "Arkansas": {
@@ -3182,18 +3182,6 @@
           "variance": 4.0
         }
       },
-      "Vanderbilt": {
-        "W 4x400m Relay": {
-          "actual": 2.0,
-          "expected": 0,
-          "variance": 2.0
-        },
-        "W Long Jump": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        }
-      },
       "Miss State": {
         "W 4x400m Relay": {
           "actual": 1.0,
@@ -3216,6 +3204,32 @@
           "variance": 3.0
         }
       },
+      "Vanderbilt": {
+        "W 4x400m Relay": {
+          "actual": 2.0,
+          "expected": 0,
+          "variance": 2.0
+        },
+        "W Long Jump": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        }
+      },
+      "USC": {
+        "W Shot Put": {
+          "actual": 0,
+          "expected": 2.0,
+          "variance": -2.0
+        }
+      },
+      "Penn": {
+        "W Shot Put": {
+          "actual": 0,
+          "expected": 5.0,
+          "variance": -5.0
+        }
+      },
       "Nebraska": {
         "W Shot Put": {
           "actual": 0,
@@ -3226,20 +3240,6 @@
           "actual": 0,
           "expected": 5.5,
           "variance": -5.5
-        }
-      },
-      "Penn": {
-        "W Shot Put": {
-          "actual": 0,
-          "expected": 5.0,
-          "variance": -5.0
-        }
-      },
-      "USC": {
-        "W Shot Put": {
-          "actual": 0,
-          "expected": 2.0,
-          "variance": -2.0
         }
       },
       "Oklahoma": {
@@ -3276,25 +3276,6 @@
           "variance": 6.0
         }
       },
-      "TX Tech": {
-        "W Triple Jump": {
-          "actual": 0,
-          "expected": 13.5,
-          "variance": -13.5
-        },
-        "W High Jump": {
-          "actual": 0,
-          "expected": 13.0,
-          "variance": -13.0
-        }
-      },
-      "GOFF Texas": {
-        "W Triple Jump": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        }
-      },
       "KS State": {
         "W Triple Jump": {
           "actual": 0,
@@ -3329,11 +3310,37 @@
           "variance": -15.0
         }
       },
+      "GOFF Texas": {
+        "W Triple Jump": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        }
+      },
+      "TX Tech": {
+        "W Triple Jump": {
+          "actual": 0,
+          "expected": 13.5,
+          "variance": -13.5
+        },
+        "W High Jump": {
+          "actual": 0,
+          "expected": 13.0,
+          "variance": -13.0
+        }
+      },
       "Clemson": {
         "W Triple Jump": {
           "actual": 0,
           "expected": 10.0,
           "variance": -10.0
+        }
+      },
+      "ANGULO Arkansas": {
+        "W High Jump": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
         }
       },
       "Stanford": {
@@ -3355,25 +3362,11 @@
           "variance": -4.5
         }
       },
-      "ANGULO Arkansas": {
-        "W High Jump": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        }
-      },
-      "Duke": {
+      "Washington": {
         "W Pole Vault": {
           "actual": 0,
-          "expected": 4.0,
-          "variance": -4.0
-        }
-      },
-      "South Dakota": {
-        "W Pole Vault": {
-          "actual": 0,
-          "expected": 14.0,
-          "variance": -14.0
+          "expected": 11.5,
+          "variance": -11.5
         }
       },
       "Cal Poly": {
@@ -3390,11 +3383,25 @@
           "variance": -5.0
         }
       },
-      "Washington": {
+      "Duke": {
         "W Pole Vault": {
           "actual": 0,
-          "expected": 11.5,
-          "variance": -11.5
+          "expected": 4.0,
+          "variance": -4.0
+        }
+      },
+      "South Dakota": {
+        "W Pole Vault": {
+          "actual": 0,
+          "expected": 14.0,
+          "variance": -14.0
+        }
+      },
+      "Duquesne": {
+        "W Long Jump": {
+          "actual": 0,
+          "expected": 1.0,
+          "variance": -1.0
         }
       },
       "TX A&M": {
@@ -3416,13 +3423,6 @@
           "actual": 0,
           "expected": 8.0,
           "variance": -8.0
-        }
-      },
-      "Duquesne": {
-        "W Long Jump": {
-          "actual": 0,
-          "expected": 1.0,
-          "variance": -1.0
         }
       }
     }
@@ -6040,6 +6040,95 @@
       }
     },
     "variance": {
+      "Texas": {
+        "M 1 Mile": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        },
+        "M 60m Hurdles": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
+        },
+        "M Pole Vault": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        },
+        "M Triple Jump": {
+          "actual": 6.0,
+          "expected": 4.0,
+          "variance": 2.0
+        },
+        "M Shot Put": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        },
+        "M DMR": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        },
+        "M Long Jump": {
+          "actual": 12.0,
+          "expected": 5.0,
+          "variance": 7.0
+        }
+      },
+      "Ole Miss": {
+        "M 1 Mile": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
+        },
+        "M 800m": {
+          "actual": 9.0,
+          "expected": 0,
+          "variance": 9.0
+        },
+        "M 3000m": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        },
+        "M 4x400m Relay": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        },
+        "M High Jump": {
+          "actual": 4.0,
+          "expected": 3.0,
+          "variance": 1.0
+        },
+        "M Triple Jump": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        },
+        "M Shot Put": {
+          "actual": 10.0,
+          "expected": 10.0,
+          "variance": 0.0
+        },
+        "M Weight": {
+          "actual": 16.0,
+          "expected": 0,
+          "variance": 16.0
+        },
+        "M 5000m": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        },
+        "M DMR": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        }
+      },
       "Florida": {
         "M 1 Mile": {
           "actual": 8.0,
@@ -6097,6 +6186,45 @@
           "variance": -0.5
         }
       },
+      "South Carolina": {
+        "M 1 Mile": {
+          "actual": 6.0,
+          "expected": 0,
+          "variance": 6.0
+        },
+        "M 400m": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
+        },
+        "M 4x400m Relay": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        },
+        "M Shot Put": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        },
+        "M DMR": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        }
+      },
+      "Missouri": {
+        "M 1 Mile": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        },
+        "M Weight": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        }
+      },
       "Georgia": {
         "M 1 Mile": {
           "actual": 5.0,
@@ -6132,33 +6260,6 @@
           "actual": 6.0,
           "expected": 0,
           "variance": 6.0
-        }
-      },
-      "South Carolina": {
-        "M 1 Mile": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        },
-        "M 400m": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        },
-        "M 4x400m Relay": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        },
-        "M Shot Put": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        },
-        "M DMR": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
         }
       },
       "Tennessee": {
@@ -6201,129 +6302,6 @@
           "actual": 5.0,
           "expected": 0,
           "variance": 5.0
-        }
-      },
-      "Ole Miss": {
-        "M 1 Mile": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        },
-        "M 800m": {
-          "actual": 9.0,
-          "expected": 0,
-          "variance": 9.0
-        },
-        "M 3000m": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        },
-        "M 4x400m Relay": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        },
-        "M High Jump": {
-          "actual": 4.0,
-          "expected": 3.0,
-          "variance": 1.0
-        },
-        "M Triple Jump": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        },
-        "M Shot Put": {
-          "actual": 10.0,
-          "expected": 10.0,
-          "variance": 0.0
-        },
-        "M Weight": {
-          "actual": 16.0,
-          "expected": 0,
-          "variance": 16.0
-        },
-        "M 5000m": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        },
-        "M DMR": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        }
-      },
-      "Texas": {
-        "M 1 Mile": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        },
-        "M 60m Hurdles": {
-          "actual": 6.0,
-          "expected": 0,
-          "variance": 6.0
-        },
-        "M Pole Vault": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        },
-        "M Triple Jump": {
-          "actual": 6.0,
-          "expected": 4.0,
-          "variance": 2.0
-        },
-        "M Shot Put": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        },
-        "M DMR": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        },
-        "M Long Jump": {
-          "actual": 12.0,
-          "expected": 5.0,
-          "variance": 7.0
-        }
-      },
-      "Missouri": {
-        "M 1 Mile": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        },
-        "M Weight": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        }
-      },
-      "Auburn": {
-        "M 60m": {
-          "actual": 19.0,
-          "expected": 0,
-          "variance": 19.0
-        },
-        "M 60m Hurdles": {
-          "actual": 10.0,
-          "expected": 0,
-          "variance": 10.0
-        },
-        "M Weight": {
-          "actual": 4.0,
-          "expected": 0,
-          "variance": 4.0
-        },
-        "M Long Jump": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
         }
       },
       "Arkansas": {
@@ -6383,21 +6361,26 @@
           "variance": 6.0
         }
       },
-      "LSU": {
+      "Auburn": {
         "M 60m": {
+          "actual": 19.0,
+          "expected": 0,
+          "variance": 19.0
+        },
+        "M 60m Hurdles": {
+          "actual": 10.0,
+          "expected": 0,
+          "variance": 10.0
+        },
+        "M Weight": {
           "actual": 4.0,
           "expected": 0,
           "variance": 4.0
         },
-        "M 60m Hurdles": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        },
         "M Long Jump": {
-          "actual": 8.0,
-          "expected": 3.5,
-          "variance": 4.5
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
         }
       },
       "Miss State": {
@@ -6415,6 +6398,23 @@
           "actual": 6.0,
           "expected": 5.0,
           "variance": 1.0
+        }
+      },
+      "LSU": {
+        "M 60m": {
+          "actual": 4.0,
+          "expected": 0,
+          "variance": 4.0
+        },
+        "M 60m Hurdles": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        },
+        "M Long Jump": {
+          "actual": 8.0,
+          "expected": 3.5,
+          "variance": 4.5
         }
       },
       "Alabama": {
@@ -6447,28 +6447,6 @@
           "actual": 3.0,
           "expected": 0,
           "variance": 3.0
-        }
-      },
-      "Kentucky": {
-        "M 800m": {
-          "actual": 1.0,
-          "expected": 0,
-          "variance": 1.0
-        },
-        "M 200m": {
-          "actual": 5.0,
-          "expected": 0,
-          "variance": 5.0
-        },
-        "M Triple Jump": {
-          "actual": 10.0,
-          "expected": 6.0,
-          "variance": 4.0
-        },
-        "M DMR": {
-          "actual": 2.0,
-          "expected": 0,
-          "variance": 2.0
         }
       },
       "Texas A&M": {
@@ -6513,6 +6491,28 @@
           "variance": 5.0
         }
       },
+      "Kentucky": {
+        "M 800m": {
+          "actual": 1.0,
+          "expected": 0,
+          "variance": 1.0
+        },
+        "M 200m": {
+          "actual": 5.0,
+          "expected": 0,
+          "variance": 5.0
+        },
+        "M Triple Jump": {
+          "actual": 10.0,
+          "expected": 6.0,
+          "variance": 4.0
+        },
+        "M DMR": {
+          "actual": 2.0,
+          "expected": 0,
+          "variance": 2.0
+        }
+      },
       "LSU LSU": {
         "M 4x400m Relay": {
           "actual": 6.0,
@@ -6520,31 +6520,7 @@
           "variance": 6.0
         }
       },
-      "KS State": {
-        "M High Jump": {
-          "actual": 0,
-          "expected": 11.5,
-          "variance": -11.5
-        },
-        "M Triple Jump": {
-          "actual": 0,
-          "expected": 8.0,
-          "variance": -8.0
-        },
-        "M Long Jump": {
-          "actual": 0,
-          "expected": 2.0,
-          "variance": -2.0
-        }
-      },
       "TX State": {
-        "M High Jump": {
-          "actual": 0,
-          "expected": 1.5,
-          "variance": -1.5
-        }
-      },
-      "Miami (Fla.)": {
         "M High Jump": {
           "actual": 0,
           "expected": 1.5,
@@ -6583,16 +6559,42 @@
           "variance": -6.0
         }
       },
-      "Nebraska": {
-        "M Pole Vault": {
+      "KS State": {
+        "M High Jump": {
+          "actual": 0,
+          "expected": 11.5,
+          "variance": -11.5
+        },
+        "M Triple Jump": {
           "actual": 0,
           "expected": 8.0,
           "variance": -8.0
         },
-        "M Shot Put": {
+        "M Long Jump": {
           "actual": 0,
-          "expected": 3.0,
-          "variance": -3.0
+          "expected": 2.0,
+          "variance": -2.0
+        }
+      },
+      "Miami (Fla.)": {
+        "M High Jump": {
+          "actual": 0,
+          "expected": 1.5,
+          "variance": -1.5
+        }
+      },
+      "TX A&M": {
+        "M Pole Vault": {
+          "actual": 0,
+          "expected": 3.5,
+          "variance": -3.5
+        }
+      },
+      "Washington": {
+        "M Pole Vault": {
+          "actual": 0,
+          "expected": 10.0,
+          "variance": -10.0
         }
       },
       "Illinois": {
@@ -6607,11 +6609,11 @@
           "variance": -2.0
         }
       },
-      "TX A&M": {
+      "High Point": {
         "M Pole Vault": {
           "actual": 0,
-          "expected": 3.5,
-          "variance": -3.5
+          "expected": 1.0,
+          "variance": -1.0
         }
       },
       "Kansas": {
@@ -6621,25 +6623,16 @@
           "variance": -3.5
         }
       },
-      "High Point": {
+      "Nebraska": {
         "M Pole Vault": {
           "actual": 0,
-          "expected": 1.0,
-          "variance": -1.0
-        }
-      },
-      "Washington": {
-        "M Pole Vault": {
+          "expected": 8.0,
+          "variance": -8.0
+        },
+        "M Shot Put": {
           "actual": 0,
-          "expected": 10.0,
-          "variance": -10.0
-        }
-      },
-      "TX Tech": {
-        "M Triple Jump": {
-          "actual": 0,
-          "expected": 10.0,
-          "variance": -10.0
+          "expected": 3.0,
+          "variance": -3.0
         }
       },
       "JR Oklahoma": {
@@ -6649,11 +6642,11 @@
           "variance": 8.0
         }
       },
-      "Penn State": {
-        "M Shot Put": {
+      "TX Tech": {
+        "M Triple Jump": {
           "actual": 0,
-          "expected": 2.0,
-          "variance": -2.0
+          "expected": 10.0,
+          "variance": -10.0
         }
       },
       "Gardner-Webb": {
@@ -6675,6 +6668,13 @@
           "actual": 0,
           "expected": 9.0,
           "variance": -9.0
+        }
+      },
+      "Penn State": {
+        "M Shot Put": {
+          "actual": 0,
+          "expected": 2.0,
+          "variance": -2.0
         }
       },
       "Ohio State": {
