@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-12T04:54:15Z",
+    "last_updated": "2026-03-12T05:03:53Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -22,7 +22,7 @@
         "mc_forecast": 10.0,
         "premeet_projection": 0,
         "win_probability": 0,
-        "top4_probability": 16.8,
+        "top4_probability": 15.1,
         "events_scored": []
       },
       {
@@ -33,7 +33,7 @@
         "mc_forecast": 10.0,
         "premeet_projection": 41.0,
         "win_probability": 0,
-        "top4_probability": 16.8,
+        "top4_probability": 15.1,
         "events_scored": []
       },
       {
@@ -55,7 +55,7 @@
         "mc_forecast": 0.2,
         "premeet_projection": 4.5,
         "win_probability": 0,
-        "top4_probability": 0.1,
+        "top4_probability": 0,
         "events_scored": []
       },
       {
@@ -66,7 +66,7 @@
         "mc_forecast": 0.5,
         "premeet_projection": 29.0,
         "win_probability": 0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.2,
         "events_scored": []
       },
       {
@@ -74,10 +74,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 6.7,
+        "mc_forecast": 6.8,
         "premeet_projection": 19.0,
         "win_probability": 0,
-        "top4_probability": 4.4,
+        "top4_probability": 3.8,
         "events_scored": []
       },
       {
@@ -85,10 +85,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 4.8,
+        "mc_forecast": 5.0,
         "premeet_projection": 10.0,
         "win_probability": 0,
-        "top4_probability": 2.0,
+        "top4_probability": 2.3,
         "events_scored": []
       },
       {
@@ -118,7 +118,7 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 4,
-        "mc_forecast": 1.2,
+        "mc_forecast": 1.1,
         "premeet_projection": 0,
         "win_probability": 0,
         "top4_probability": 0.2,
@@ -132,7 +132,7 @@
         "mc_forecast": 3.1,
         "premeet_projection": 3.0,
         "win_probability": 0,
-        "top4_probability": 1.5,
+        "top4_probability": 0.8,
         "events_scored": []
       },
       {
@@ -143,7 +143,7 @@
         "mc_forecast": 0.3,
         "premeet_projection": 0,
         "win_probability": 0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.1,
         "events_scored": []
       },
       {
@@ -165,7 +165,7 @@
         "mc_forecast": 7.5,
         "premeet_projection": 20.0,
         "win_probability": 0,
-        "top4_probability": 6.3,
+        "top4_probability": 5.7,
         "events_scored": []
       },
       {
@@ -187,7 +187,7 @@
         "mc_forecast": 3.9,
         "premeet_projection": 4.0,
         "win_probability": 0,
-        "top4_probability": 1.6,
+        "top4_probability": 1.3,
         "events_scored": []
       },
       {
@@ -242,7 +242,7 @@
         "mc_forecast": 3.1,
         "premeet_projection": 9.0,
         "win_probability": 0,
-        "top4_probability": 0.8,
+        "top4_probability": 0.9,
         "events_scored": []
       },
       {
@@ -253,7 +253,7 @@
         "mc_forecast": 3.2,
         "premeet_projection": 35.5,
         "win_probability": 0.2,
-        "top4_probability": 2.8,
+        "top4_probability": 3.2,
         "events_scored": []
       },
       {
@@ -272,10 +272,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 44,
-        "mc_forecast": 18.9,
+        "mc_forecast": 18.8,
         "premeet_projection": 57.5,
-        "win_probability": 50.8,
-        "top4_probability": 80.1,
+        "win_probability": 50.7,
+        "top4_probability": 82.1,
         "events_scored": []
       },
       {
@@ -285,8 +285,8 @@
         "ceiling": 24,
         "mc_forecast": 8.3,
         "premeet_projection": 20.0,
-        "win_probability": 1.8,
-        "top4_probability": 22.1,
+        "win_probability": 1.4,
+        "top4_probability": 20.9,
         "events_scored": []
       },
       {
@@ -341,7 +341,7 @@
         "mc_forecast": 1.6,
         "premeet_projection": 0,
         "win_probability": 0,
-        "top4_probability": 0.8,
+        "top4_probability": 0.7,
         "events_scored": []
       },
       {
@@ -349,10 +349,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 14,
-        "mc_forecast": 2.6,
+        "mc_forecast": 2.5,
         "premeet_projection": 2.0,
         "win_probability": 0,
-        "top4_probability": 1.0,
+        "top4_probability": 1.2,
         "events_scored": []
       },
       {
@@ -382,10 +382,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 4,
-        "mc_forecast": 0.7,
+        "mc_forecast": 0.8,
         "premeet_projection": 0,
         "win_probability": 0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.1,
         "events_scored": []
       },
       {
@@ -393,10 +393,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 4,
-        "mc_forecast": 0.7,
+        "mc_forecast": 0.6,
         "premeet_projection": 11.0,
         "win_probability": 0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.1,
         "events_scored": []
       },
       {
@@ -417,8 +417,8 @@
         "ceiling": 28,
         "mc_forecast": 17.6,
         "premeet_projection": 19.5,
-        "win_probability": 37.7,
-        "top4_probability": 80.9,
+        "win_probability": 40.0,
+        "top4_probability": 82.2,
         "events_scored": []
       },
       {
@@ -506,7 +506,7 @@
         "mc_forecast": 4.9,
         "premeet_projection": 5.0,
         "win_probability": 0,
-        "top4_probability": 1.8,
+        "top4_probability": 1.4,
         "events_scored": []
       },
       {
@@ -525,10 +525,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 4,
-        "mc_forecast": 0.8,
+        "mc_forecast": 0.9,
         "premeet_projection": 0,
         "win_probability": 0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.4,
         "events_scored": []
       },
       {
@@ -547,10 +547,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 4,
-        "mc_forecast": 1.4,
+        "mc_forecast": 1.2,
         "premeet_projection": 0,
-        "win_probability": 0.1,
-        "top4_probability": 0.6,
+        "win_probability": 0,
+        "top4_probability": 0.3,
         "events_scored": []
       },
       {
@@ -561,7 +561,7 @@
         "mc_forecast": 2.3,
         "premeet_projection": 29.5,
         "win_probability": 0,
-        "top4_probability": 0.8,
+        "top4_probability": 0.9,
         "events_scored": []
       },
       {
@@ -569,10 +569,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 18,
-        "mc_forecast": 12.6,
+        "mc_forecast": 12.4,
         "premeet_projection": 14.0,
-        "win_probability": 3.3,
-        "top4_probability": 63.2,
+        "win_probability": 2.6,
+        "top4_probability": 64.6,
         "events_scored": []
       },
       {
@@ -580,7 +580,7 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 5.7,
+        "mc_forecast": 5.9,
         "premeet_projection": 18.0,
         "win_probability": 0,
         "top4_probability": 2.3,
@@ -602,10 +602,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 14,
-        "mc_forecast": 3.9,
+        "mc_forecast": 3.7,
         "premeet_projection": 11.0,
         "win_probability": 0.1,
-        "top4_probability": 2.5,
+        "top4_probability": 2.3,
         "events_scored": []
       },
       {
@@ -613,10 +613,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 22,
-        "mc_forecast": 12.1,
+        "mc_forecast": 12.2,
         "premeet_projection": 30.5,
-        "win_probability": 5.5,
-        "top4_probability": 57.6,
+        "win_probability": 4.7,
+        "top4_probability": 59.7,
         "events_scored": []
       },
       {
@@ -624,10 +624,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 6.6,
+        "mc_forecast": 6.7,
         "premeet_projection": 17.0,
         "win_probability": 0,
-        "top4_probability": 3.8,
+        "top4_probability": 3.4,
         "events_scored": []
       },
       {
@@ -638,7 +638,7 @@
         "mc_forecast": 0.1,
         "premeet_projection": 4.5,
         "win_probability": 0,
-        "top4_probability": 0.0,
+        "top4_probability": 0,
         "events_scored": []
       },
       {
@@ -693,7 +693,7 @@
         "mc_forecast": 1.1,
         "premeet_projection": 0,
         "win_probability": 0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.3,
         "events_scored": []
       },
       {
@@ -734,10 +734,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 18,
-        "mc_forecast": 9.1,
+        "mc_forecast": 9.2,
         "premeet_projection": 15.5,
-        "win_probability": 0.7,
-        "top4_probability": 24.6,
+        "win_probability": 0.4,
+        "top4_probability": 25.2,
         "events_scored": []
       }
     ],
@@ -2105,7 +2105,7 @@
         "mc_forecast": 10.0,
         "premeet_projection": 0,
         "win_probability": 0,
-        "top4_probability": 17.2,
+        "top4_probability": 16.9,
         "events_scored": []
       },
       {
@@ -2116,7 +2116,7 @@
         "mc_forecast": 10.0,
         "premeet_projection": 13.0,
         "win_probability": 0,
-        "top4_probability": 17.2,
+        "top4_probability": 16.9,
         "events_scored": []
       },
       {
@@ -2138,7 +2138,7 @@
         "mc_forecast": 8.8,
         "premeet_projection": 0,
         "win_probability": 0,
-        "top4_probability": 7.0,
+        "top4_probability": 6.7,
         "events_scored": []
       },
       {
@@ -2157,7 +2157,7 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 4,
-        "mc_forecast": 0.7,
+        "mc_forecast": 0.8,
         "premeet_projection": 8.0,
         "win_probability": 0,
         "top4_probability": 0.2,
@@ -2193,7 +2193,7 @@
         "mc_forecast": 0.5,
         "premeet_projection": 29.0,
         "win_probability": 0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.1,
         "events_scored": []
       },
       {
@@ -2215,7 +2215,7 @@
         "mc_forecast": 7.5,
         "premeet_projection": 6.0,
         "win_probability": 0,
-        "top4_probability": 6.0,
+        "top4_probability": 5.8,
         "events_scored": []
       },
       {
@@ -2234,10 +2234,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 4,
-        "mc_forecast": 1.5,
+        "mc_forecast": 1.6,
         "premeet_projection": 1.0,
         "win_probability": 0,
-        "top4_probability": 0.4,
+        "top4_probability": 0.2,
         "events_scored": []
       },
       {
@@ -2281,7 +2281,7 @@
         "mc_forecast": 9.0,
         "premeet_projection": 35.5,
         "win_probability": 0.1,
-        "top4_probability": 27.0,
+        "top4_probability": 26.8,
         "events_scored": []
       },
       {
@@ -2292,7 +2292,7 @@
         "mc_forecast": 4.0,
         "premeet_projection": 4.0,
         "win_probability": 0,
-        "top4_probability": 1.6,
+        "top4_probability": 1.5,
         "events_scored": []
       },
       {
@@ -2311,10 +2311,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 7.8,
+        "mc_forecast": 7.9,
         "premeet_projection": 21.0,
         "win_probability": 0,
-        "top4_probability": 7.9,
+        "top4_probability": 8.0,
         "events_scored": []
       },
       {
@@ -2358,7 +2358,7 @@
         "mc_forecast": 3.5,
         "premeet_projection": 14.0,
         "win_probability": 0,
-        "top4_probability": 2.6,
+        "top4_probability": 2.9,
         "events_scored": []
       },
       {
@@ -2380,7 +2380,7 @@
         "mc_forecast": 0.7,
         "premeet_projection": 10.0,
         "win_probability": 0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.1,
         "events_scored": []
       },
       {
@@ -2388,10 +2388,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 54,
-        "mc_forecast": 21.7,
+        "mc_forecast": 21.9,
         "premeet_projection": 25.5,
-        "win_probability": 26.4,
-        "top4_probability": 75.1,
+        "win_probability": 27.9,
+        "top4_probability": 75.5,
         "events_scored": []
       },
       {
@@ -2399,10 +2399,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 18,
-        "mc_forecast": 5.4,
+        "mc_forecast": 5.3,
         "premeet_projection": 3.5,
         "win_probability": 0,
-        "top4_probability": 6.7,
+        "top4_probability": 6.5,
         "events_scored": []
       },
       {
@@ -2410,7 +2410,7 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 5.7,
+        "mc_forecast": 5.9,
         "premeet_projection": 8.0,
         "win_probability": 0,
         "top4_probability": 2.7,
@@ -2421,10 +2421,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 14,
-        "mc_forecast": 4.7,
+        "mc_forecast": 4.6,
         "premeet_projection": 5.5,
         "win_probability": 0,
-        "top4_probability": 3.4,
+        "top4_probability": 4.0,
         "events_scored": []
       },
       {
@@ -2432,10 +2432,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 5.7,
+        "mc_forecast": 5.9,
         "premeet_projection": 0,
         "win_probability": 0,
-        "top4_probability": 2.6,
+        "top4_probability": 2.9,
         "events_scored": []
       },
       {
@@ -2446,7 +2446,7 @@
         "mc_forecast": 0.1,
         "premeet_projection": 12.0,
         "win_probability": 0,
-        "top4_probability": 0.1,
+        "top4_probability": 0,
         "events_scored": []
       },
       {
@@ -2454,10 +2454,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 20,
-        "mc_forecast": 5.6,
+        "mc_forecast": 5.7,
         "premeet_projection": 1.5,
         "win_probability": 0,
-        "top4_probability": 8.4,
+        "top4_probability": 8.0,
         "events_scored": []
       },
       {
@@ -2490,7 +2490,7 @@
         "mc_forecast": 4.9,
         "premeet_projection": 5.0,
         "win_probability": 0,
-        "top4_probability": 2.2,
+        "top4_probability": 2.6,
         "events_scored": []
       },
       {
@@ -2501,7 +2501,7 @@
         "mc_forecast": 0.8,
         "premeet_projection": 3.0,
         "win_probability": 0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.3,
         "events_scored": []
       },
       {
@@ -2509,10 +2509,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 3.2,
+        "mc_forecast": 2.9,
         "premeet_projection": 11.0,
         "win_probability": 0,
-        "top4_probability": 1.2,
+        "top4_probability": 0.7,
         "events_scored": []
       },
       {
@@ -2542,10 +2542,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 0,
-        "mc_forecast": 0.3,
+        "mc_forecast": 0.2,
         "premeet_projection": 5.0,
         "win_probability": 0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.0,
         "events_scored": []
       },
       {
@@ -2578,7 +2578,7 @@
         "mc_forecast": 5.7,
         "premeet_projection": 6.0,
         "win_probability": 0,
-        "top4_probability": 2.7,
+        "top4_probability": 2.5,
         "events_scored": []
       },
       {
@@ -2586,10 +2586,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 46,
-        "mc_forecast": 26.8,
+        "mc_forecast": 26.7,
         "premeet_projection": 30.5,
-        "win_probability": 73.3,
-        "top4_probability": 75.9,
+        "win_probability": 71.8,
+        "top4_probability": 76.2,
         "events_scored": []
       },
       {
@@ -2597,10 +2597,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 20,
-        "mc_forecast": 10.9,
+        "mc_forecast": 10.8,
         "premeet_projection": 18.0,
-        "win_probability": 0.1,
-        "top4_probability": 43.9,
+        "win_probability": 0.2,
+        "top4_probability": 43.1,
         "events_scored": []
       },
       {
@@ -2611,7 +2611,7 @@
         "mc_forecast": 8.4,
         "premeet_projection": 39.0,
         "win_probability": 0,
-        "top4_probability": 19.9,
+        "top4_probability": 21.5,
         "events_scored": []
       },
       {
@@ -2619,10 +2619,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 2.3,
+        "mc_forecast": 2.4,
         "premeet_projection": 24.5,
         "win_probability": 0,
-        "top4_probability": 0.6,
+        "top4_probability": 0.7,
         "events_scored": []
       },
       {
@@ -2630,10 +2630,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 14,
-        "mc_forecast": 7.2,
+        "mc_forecast": 7.1,
         "premeet_projection": 8.0,
         "win_probability": 0,
-        "top4_probability": 8.6,
+        "top4_probability": 8.7,
         "events_scored": []
       },
       {
@@ -2652,7 +2652,7 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 8,
-        "mc_forecast": 0.9,
+        "mc_forecast": 0.8,
         "premeet_projection": 0,
         "win_probability": 0,
         "top4_probability": 0.2,
@@ -2666,7 +2666,7 @@
         "mc_forecast": 0.2,
         "premeet_projection": 15.0,
         "win_probability": 0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.0,
         "events_scored": []
       },
       {
@@ -2674,10 +2674,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 5.0,
+        "mc_forecast": 4.9,
         "premeet_projection": 0,
         "win_probability": 0,
-        "top4_probability": 2.1,
+        "top4_probability": 1.6,
         "events_scored": []
       },
       {
@@ -2688,7 +2688,7 @@
         "mc_forecast": 1.2,
         "premeet_projection": 19.5,
         "win_probability": 0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.4,
         "events_scored": []
       },
       {
@@ -2696,9 +2696,9 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 14,
-        "mc_forecast": 3.4,
+        "mc_forecast": 3.3,
         "premeet_projection": 1.5,
-        "win_probability": 0.0,
+        "win_probability": 0,
         "top4_probability": 1.9,
         "events_scored": []
       },
@@ -2707,10 +2707,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 7.9,
+        "mc_forecast": 7.8,
         "premeet_projection": 27.0,
-        "win_probability": 0.0,
-        "top4_probability": 8.5,
+        "win_probability": 0,
+        "top4_probability": 9.3,
         "events_scored": []
       },
       {
@@ -2718,7 +2718,7 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 1.7,
+        "mc_forecast": 1.5,
         "premeet_projection": 1.0,
         "win_probability": 0,
         "top4_probability": 0.3,
@@ -2732,7 +2732,7 @@
         "mc_forecast": 2.2,
         "premeet_projection": 27.0,
         "win_probability": 0,
-        "top4_probability": 1.4,
+        "top4_probability": 1.7,
         "events_scored": []
       },
       {
@@ -2740,10 +2740,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 20,
-        "mc_forecast": 9.1,
+        "mc_forecast": 9.0,
         "premeet_projection": 14.0,
-        "win_probability": 0.1,
-        "top4_probability": 28.3,
+        "win_probability": 0.0,
+        "top4_probability": 27.7,
         "events_scored": []
       },
       {
@@ -2773,10 +2773,10 @@
         "actual": 0,
         "seed_projection": 0,
         "ceiling": 10,
-        "mc_forecast": 6.7,
+        "mc_forecast": 6.8,
         "premeet_projection": 18.0,
         "win_probability": 0,
-        "top4_probability": 4.3,
+        "top4_probability": 4.4,
         "events_scored": []
       },
       {
