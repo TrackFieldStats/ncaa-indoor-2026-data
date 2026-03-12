@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-12T03:55:06Z",
+    "last_updated": "2026-03-12T04:03:48Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -12,40 +12,40 @@
     "2026-03-14"
   ],
   "_known_finals": [
-    "Women:Women 200 M",
-    "Women:Women 5000 M",
-    "Men:Men 5000 M",
-    "Women:Women 3000 M",
-    "Men:Men 1 Mile",
-    "Men:Men Long Jump",
-    "Men:Men Heptathlon",
-    "Women:Women Triple Jump",
-    "Women:Women 1 Mile",
-    "Men:Men 200 M",
-    "Women:Women 60 M",
-    "Women:Women Pole Vault",
     "Men:Men DMR",
-    "Men:Men 60 M Hurdles",
-    "Men:Men Weight",
-    "Women:Women Weight",
-    "Women:Women 4x400 M Relay",
-    "Women:Women Long Jump",
-    "Women:Women Pentathlon",
-    "Women:Women DMR",
-    "Men:Men High Jump",
-    "Women:Women Shot Put",
-    "Men:Men 60 M",
-    "Women:Women 800 M",
-    "Men:Men 400 M",
-    "Women:Women 60 M Hurdles",
-    "Men:Men Pole Vault",
-    "Women:Women High Jump",
-    "Women:Women 400 M",
-    "Men:Men 800 M",
     "Men:Men 3000 M",
+    "Men:Men Weight",
+    "Women:Women 4x400 M Relay",
+    "Men:Men 5000 M",
+    "Men:Men 800 M",
+    "Women:Women Triple Jump",
+    "Men:Men 400 M",
+    "Women:Women 5000 M",
+    "Women:Women Long Jump",
+    "Women:Women Shot Put",
     "Men:Men Shot Put",
+    "Women:Women 400 M",
+    "Women:Women 3000 M",
+    "Women:Women 200 M",
+    "Women:Women DMR",
+    "Men:Men 1 Mile",
+    "Women:Women 1 Mile",
+    "Women:Women 60 M Hurdles",
+    "Men:Men 60 M",
+    "Women:Women Pole Vault",
+    "Women:Women 800 M",
+    "Men:Men 60 M Hurdles",
+    "Women:Women High Jump",
+    "Men:Men Long Jump",
+    "Men:Men Pole Vault",
+    "Men:Men 4x400 M Relay",
+    "Women:Women Weight",
+    "Men:Men Heptathlon",
+    "Women:Women 60 M",
+    "Men:Men High Jump",
+    "Women:Women Pentathlon",
     "Men:Men Triple Jump",
-    "Men:Men 4x400 M Relay"
+    "Men:Men 200 M"
   ],
   "women": {
     "team_scores": [
@@ -1195,61 +1195,6 @@
       }
     },
     "variance": {
-      "Illinois": {
-        "W Long Jump": {
-          "actual": 0,
-          "expected": 15.0,
-          "variance": -15.0
-        },
-        "W High Jump": {
-          "actual": 0,
-          "expected": 10.0,
-          "variance": -10.0
-        },
-        "W Triple Jump": {
-          "actual": 0,
-          "expected": 4.5,
-          "variance": -4.5
-        },
-        "W Pentathlon": {
-          "actual": 3.0,
-          "expected": 0,
-          "variance": 3.0
-        }
-      },
-      "Stanford": {
-        "W Long Jump": {
-          "actual": 0,
-          "expected": 6.0,
-          "variance": -6.0
-        },
-        "W High Jump": {
-          "actual": 0,
-          "expected": 4.5,
-          "variance": -4.5
-        }
-      },
-      "MT State": {
-        "W Long Jump": {
-          "actual": 0,
-          "expected": 2.0,
-          "variance": -2.0
-        }
-      },
-      "TX A&M": {
-        "W Long Jump": {
-          "actual": 0,
-          "expected": 3.0,
-          "variance": -3.0
-        }
-      },
-      "Tarleton State": {
-        "W Long Jump": {
-          "actual": 0,
-          "expected": 8.0,
-          "variance": -8.0
-        }
-      },
       "KS State": {
         "W Long Jump": {
           "actual": 0,
@@ -1272,6 +1217,61 @@
           "actual": 0,
           "expected": 1.0,
           "variance": -1.0
+        }
+      },
+      "TX A&M": {
+        "W Long Jump": {
+          "actual": 0,
+          "expected": 3.0,
+          "variance": -3.0
+        }
+      },
+      "Stanford": {
+        "W Long Jump": {
+          "actual": 0,
+          "expected": 6.0,
+          "variance": -6.0
+        },
+        "W High Jump": {
+          "actual": 0,
+          "expected": 4.5,
+          "variance": -4.5
+        }
+      },
+      "Tarleton State": {
+        "W Long Jump": {
+          "actual": 0,
+          "expected": 8.0,
+          "variance": -8.0
+        }
+      },
+      "Illinois": {
+        "W Long Jump": {
+          "actual": 0,
+          "expected": 15.0,
+          "variance": -15.0
+        },
+        "W High Jump": {
+          "actual": 0,
+          "expected": 10.0,
+          "variance": -10.0
+        },
+        "W Triple Jump": {
+          "actual": 0,
+          "expected": 4.5,
+          "variance": -4.5
+        },
+        "W Pentathlon": {
+          "actual": 3.0,
+          "expected": 0,
+          "variance": 3.0
+        }
+      },
+      "MT State": {
+        "W Long Jump": {
+          "actual": 0,
+          "expected": 2.0,
+          "variance": -2.0
         }
       },
       "Oklahoma": {
@@ -1300,42 +1300,11 @@
           "variance": -4.5
         }
       },
-      "Nebraska": {
-        "W Shot Put": {
-          "actual": 0,
-          "expected": 14.0,
-          "variance": -14.0
-        },
-        "W Triple Jump": {
-          "actual": 0,
-          "expected": 5.5,
-          "variance": -5.5
-        }
-      },
       "Ole Miss": {
         "W Shot Put": {
           "actual": 0,
           "expected": 6.0,
           "variance": -6.0
-        }
-      },
-      "Penn": {
-        "W Shot Put": {
-          "actual": 0,
-          "expected": 5.0,
-          "variance": -5.0
-        }
-      },
-      "Georgia": {
-        "W Shot Put": {
-          "actual": 0,
-          "expected": 1.0,
-          "variance": -1.0
-        },
-        "W Triple Jump": {
-          "actual": 0,
-          "expected": 1.5,
-          "variance": -1.5
         }
       },
       "Auburn": {
@@ -1352,11 +1321,42 @@
           "variance": -3.0
         }
       },
+      "Georgia": {
+        "W Shot Put": {
+          "actual": 0,
+          "expected": 1.0,
+          "variance": -1.0
+        },
+        "W Triple Jump": {
+          "actual": 0,
+          "expected": 1.5,
+          "variance": -1.5
+        }
+      },
+      "Nebraska": {
+        "W Shot Put": {
+          "actual": 0,
+          "expected": 14.0,
+          "variance": -14.0
+        },
+        "W Triple Jump": {
+          "actual": 0,
+          "expected": 5.5,
+          "variance": -5.5
+        }
+      },
       "USC": {
         "W Shot Put": {
           "actual": 0,
           "expected": 2.0,
           "variance": -2.0
+        }
+      },
+      "Penn": {
+        "W Shot Put": {
+          "actual": 0,
+          "expected": 5.0,
+          "variance": -5.0
         }
       },
       "Clemson": {
@@ -1373,6 +1373,13 @@
           "variance": -14.0
         }
       },
+      "Washington": {
+        "W Pole Vault": {
+          "actual": 0,
+          "expected": 11.5,
+          "variance": -11.5
+        }
+      },
       "South Carolina": {
         "W Pole Vault": {
           "actual": 0,
@@ -1387,13 +1394,6 @@
           "variance": -4.0
         }
       },
-      "Cal Poly": {
-        "W Pole Vault": {
-          "actual": 0,
-          "expected": 3.0,
-          "variance": -3.0
-        }
-      },
       "Baylor": {
         "W Pole Vault": {
           "actual": 0,
@@ -1401,18 +1401,11 @@
           "variance": -5.0
         }
       },
-      "Washington": {
+      "Cal Poly": {
         "W Pole Vault": {
           "actual": 0,
-          "expected": 11.5,
-          "variance": -11.5
-        }
-      },
-      "Alabama": {
-        "W Pentathlon": {
-          "actual": 13.0,
-          "expected": 0,
-          "variance": 13.0
+          "expected": 3.0,
+          "variance": -3.0
         }
       },
       "BYU": {
@@ -1422,6 +1415,13 @@
           "variance": 5.0
         }
       },
+      "Alabama": {
+        "W Pentathlon": {
+          "actual": 13.0,
+          "expected": 0,
+          "variance": 13.0
+        }
+      },
       "Oklahoma State": {
         "W Pentathlon": {
           "actual": 6.0,
@@ -1429,18 +1429,18 @@
           "variance": 6.0
         }
       },
-      "Cincinnati": {
-        "W Pentathlon": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        }
-      },
       "Oregon": {
         "W Pentathlon": {
           "actual": 4.0,
           "expected": 0,
           "variance": 4.0
+        }
+      },
+      "Cincinnati": {
+        "W Pentathlon": {
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
         }
       }
     }
@@ -2647,6 +2647,20 @@
       }
     },
     "variance": {
+      "TX A&M": {
+        "M Pole Vault": {
+          "actual": 0,
+          "expected": 3.5,
+          "variance": -3.5
+        }
+      },
+      "Washington": {
+        "M Pole Vault": {
+          "actual": 0,
+          "expected": 10.0,
+          "variance": -10.0
+        }
+      },
       "Nebraska": {
         "M Pole Vault": {
           "actual": 0,
@@ -2671,6 +2685,13 @@
           "variance": 3.0
         }
       },
+      "High Point": {
+        "M Pole Vault": {
+          "actual": 0,
+          "expected": 1.0,
+          "variance": -1.0
+        }
+      },
       "Illinois": {
         "M Pole Vault": {
           "actual": 0,
@@ -2688,87 +2709,11 @@
           "variance": 1.0
         }
       },
-      "TX A&M": {
-        "M Pole Vault": {
-          "actual": 0,
-          "expected": 3.5,
-          "variance": -3.5
-        }
-      },
       "Tennessee": {
         "M Pole Vault": {
           "actual": 0,
           "expected": 11.0,
           "variance": -11.0
-        }
-      },
-      "High Point": {
-        "M Pole Vault": {
-          "actual": 0,
-          "expected": 1.0,
-          "variance": -1.0
-        }
-      },
-      "Washington": {
-        "M Pole Vault": {
-          "actual": 0,
-          "expected": 10.0,
-          "variance": -10.0
-        }
-      },
-      "Florida": {
-        "M Long Jump": {
-          "actual": 0,
-          "expected": 3.5,
-          "variance": -3.5
-        },
-        "M Shot Put": {
-          "actual": 0,
-          "expected": 6.0,
-          "variance": -6.0
-        }
-      },
-      "KS State": {
-        "M Long Jump": {
-          "actual": 0,
-          "expected": 2.0,
-          "variance": -2.0
-        },
-        "M High Jump": {
-          "actual": 0,
-          "expected": 11.5,
-          "variance": -11.5
-        },
-        "M Triple Jump": {
-          "actual": 0,
-          "expected": 8.0,
-          "variance": -8.0
-        }
-      },
-      "Texas": {
-        "M Long Jump": {
-          "actual": 0,
-          "expected": 5.0,
-          "variance": -5.0
-        },
-        "M Triple Jump": {
-          "actual": 0,
-          "expected": 4.0,
-          "variance": -4.0
-        }
-      },
-      "Ohio State": {
-        "M Long Jump": {
-          "actual": 0,
-          "expected": 6.0,
-          "variance": -6.0
-        }
-      },
-      "Princeton": {
-        "M Long Jump": {
-          "actual": 0,
-          "expected": 8.0,
-          "variance": -8.0
         }
       },
       "LSU": {
@@ -2778,11 +2723,11 @@
           "variance": -3.5
         }
       },
-      "Tarleton State": {
+      "Ohio State": {
         "M Long Jump": {
           "actual": 0,
-          "expected": 1.0,
-          "variance": -1.0
+          "expected": 6.0,
+          "variance": -6.0
         }
       },
       "Oklahoma": {
@@ -2802,6 +2747,61 @@
           "variance": -9.0
         }
       },
+      "KS State": {
+        "M Long Jump": {
+          "actual": 0,
+          "expected": 2.0,
+          "variance": -2.0
+        },
+        "M High Jump": {
+          "actual": 0,
+          "expected": 11.5,
+          "variance": -11.5
+        },
+        "M Triple Jump": {
+          "actual": 0,
+          "expected": 8.0,
+          "variance": -8.0
+        }
+      },
+      "Florida": {
+        "M Long Jump": {
+          "actual": 0,
+          "expected": 3.5,
+          "variance": -3.5
+        },
+        "M Shot Put": {
+          "actual": 0,
+          "expected": 6.0,
+          "variance": -6.0
+        }
+      },
+      "Texas": {
+        "M Long Jump": {
+          "actual": 0,
+          "expected": 5.0,
+          "variance": -5.0
+        },
+        "M Triple Jump": {
+          "actual": 0,
+          "expected": 4.0,
+          "variance": -4.0
+        }
+      },
+      "Princeton": {
+        "M Long Jump": {
+          "actual": 0,
+          "expected": 8.0,
+          "variance": -8.0
+        }
+      },
+      "Tarleton State": {
+        "M Long Jump": {
+          "actual": 0,
+          "expected": 1.0,
+          "variance": -1.0
+        }
+      },
       "Ole Miss": {
         "M Shot Put": {
           "actual": 0,
@@ -2814,13 +2814,6 @@
           "variance": -3.0
         }
       },
-      "Miss State": {
-        "M Shot Put": {
-          "actual": 0,
-          "expected": 5.0,
-          "variance": -5.0
-        }
-      },
       "Penn State": {
         "M Shot Put": {
           "actual": 0,
@@ -2828,11 +2821,11 @@
           "variance": -2.0
         }
       },
-      "Gardner-Webb": {
+      "Miss State": {
         "M Shot Put": {
           "actual": 0,
-          "expected": 4.0,
-          "variance": -4.0
+          "expected": 5.0,
+          "variance": -5.0
         }
       },
       "Oregon": {
@@ -2845,6 +2838,20 @@
           "actual": 10.0,
           "expected": 10.0,
           "variance": 0.0
+        }
+      },
+      "Gardner-Webb": {
+        "M Shot Put": {
+          "actual": 0,
+          "expected": 4.0,
+          "variance": -4.0
+        }
+      },
+      "TX State": {
+        "M High Jump": {
+          "actual": 0,
+          "expected": 1.5,
+          "variance": -1.5
         }
       },
       "Georgia": {
@@ -2866,13 +2873,6 @@
           "variance": 0.0
         }
       },
-      "TX State": {
-        "M High Jump": {
-          "actual": 0,
-          "expected": 1.5,
-          "variance": -1.5
-        }
-      },
       "Kentucky": {
         "M Triple Jump": {
           "actual": 0,
@@ -2885,6 +2885,20 @@
           "actual": 0,
           "expected": 10.0,
           "variance": -10.0
+        }
+      },
+      "BYU": {
+        "M Heptathlon": {
+          "actual": 0,
+          "expected": 8.0,
+          "variance": -8.0
+        }
+      },
+      "Long Beach St": {
+        "M Heptathlon": {
+          "actual": 0,
+          "expected": 5.0,
+          "variance": -5.0
         }
       },
       "Boise State": {
@@ -2901,11 +2915,11 @@
           "variance": -6.0
         }
       },
-      "BYU": {
+      "Virginia Tech": {
         "M Heptathlon": {
-          "actual": 0,
-          "expected": 8.0,
-          "variance": -8.0
+          "actual": 8.0,
+          "expected": 0,
+          "variance": 8.0
         }
       },
       "TCU": {
@@ -2920,20 +2934,6 @@
           "actual": 5.0,
           "expected": 0,
           "variance": 5.0
-        }
-      },
-      "Virginia Tech": {
-        "M Heptathlon": {
-          "actual": 8.0,
-          "expected": 0,
-          "variance": 8.0
-        }
-      },
-      "Long Beach St": {
-        "M Heptathlon": {
-          "actual": 0,
-          "expected": 5.0,
-          "variance": -5.0
         }
       }
     }
