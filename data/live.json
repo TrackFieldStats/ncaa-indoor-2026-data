@@ -1,0 +1,5166 @@
+{
+  "meta": {
+    "last_updated": "2026-03-13T22:04:26Z",
+    "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
+    "scrape_ok": true,
+    "status": "live"
+  },
+  "meet_name": "NCAA Division I 2026 Indoor Championships",
+  "venue": "Randal Tyson Track Center",
+  "dates": [
+    "2026-03-13",
+    "2026-03-14"
+  ],
+  "_known_finals": [
+    "Women Long Jump",
+    "Men Pole Vault",
+    "Men Weight Throw"
+  ],
+  "women": {
+    "team_scores": [
+      {
+        "team": "BYU",
+        "actual": 0.0,
+        "seed_projection": 43.0,
+        "ceiling": 44.0,
+        "mc_forecast": 37.6,
+        "premeet_projection": 46,
+        "win_probability": 35.6,
+        "top4_probability": 93.2,
+        "events_scored": []
+      },
+      {
+        "team": "Illinois",
+        "actual": 9.8,
+        "seed_projection": 36.8,
+        "ceiling": 38.8,
+        "mc_forecast": 37.4,
+        "premeet_projection": 56,
+        "win_probability": 31.4,
+        "top4_probability": 91.6,
+        "events_scored": [
+          "Women Long Jump (9.75pt)"
+        ]
+      },
+      {
+        "team": "Arkansas",
+        "actual": 4.9,
+        "seed_projection": 34.9,
+        "ceiling": 35.9,
+        "mc_forecast": 35.0,
+        "premeet_projection": 25,
+        "win_probability": 16.2,
+        "top4_probability": 80.5,
+        "events_scored": [
+          "Women Long Jump (4.875pt)"
+        ]
+      },
+      {
+        "team": "Georgia",
+        "actual": 0.0,
+        "seed_projection": 34.0,
+        "ceiling": 34.0,
+        "mc_forecast": 33.8,
+        "premeet_projection": 34,
+        "win_probability": 13.7,
+        "top4_probability": 71.5,
+        "events_scored": []
+      },
+      {
+        "team": "Texas Tech",
+        "actual": 0.0,
+        "seed_projection": 31.5,
+        "ceiling": 33.0,
+        "mc_forecast": 29.3,
+        "premeet_projection": 32,
+        "win_probability": 2.2,
+        "top4_probability": 35.6,
+        "events_scored": []
+      },
+      {
+        "team": "South Carolina",
+        "actual": 0.0,
+        "seed_projection": 27.0,
+        "ceiling": 29.0,
+        "mc_forecast": 27.0,
+        "premeet_projection": 26,
+        "win_probability": 0.8,
+        "top4_probability": 20.5,
+        "events_scored": []
+      },
+      {
+        "team": "Oregon",
+        "actual": 0.0,
+        "seed_projection": 23.0,
+        "ceiling": 25.0,
+        "mc_forecast": 22.4,
+        "premeet_projection": 25,
+        "win_probability": 0.0,
+        "top4_probability": 2.5,
+        "events_scored": []
+      },
+      {
+        "team": "USC",
+        "actual": 0.0,
+        "seed_projection": 22.5,
+        "ceiling": 25.0,
+        "mc_forecast": 22.6,
+        "premeet_projection": 18,
+        "win_probability": 0.1,
+        "top4_probability": 4.0,
+        "events_scored": []
+      },
+      {
+        "team": "Clemson",
+        "actual": 0.0,
+        "seed_projection": 20.0,
+        "ceiling": 21.0,
+        "mc_forecast": 17.3,
+        "premeet_projection": 19,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Nebraska",
+        "actual": 0.0,
+        "seed_projection": 19.5,
+        "ceiling": 21.0,
+        "mc_forecast": 18.7,
+        "premeet_projection": 18,
+        "win_probability": 0.0,
+        "top4_probability": 0.1,
+        "events_scored": []
+      },
+      {
+        "team": "Ole Miss",
+        "actual": 0.0,
+        "seed_projection": 19.0,
+        "ceiling": 21.0,
+        "mc_forecast": 19.3,
+        "premeet_projection": 19,
+        "win_probability": 0.0,
+        "top4_probability": 0.3,
+        "events_scored": []
+      },
+      {
+        "team": "Alabama",
+        "actual": 0.0,
+        "seed_projection": 18.0,
+        "ceiling": 20.0,
+        "mc_forecast": 16.0,
+        "premeet_projection": 19,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Auburn",
+        "actual": 0.0,
+        "seed_projection": 18.0,
+        "ceiling": 18.0,
+        "mc_forecast": 17.5,
+        "premeet_projection": 17,
+        "win_probability": 0.0,
+        "top4_probability": 0.1,
+        "events_scored": []
+      },
+      {
+        "team": "Oklahoma State",
+        "actual": 0.0,
+        "seed_projection": 17.0,
+        "ceiling": 18.0,
+        "mc_forecast": 16.6,
+        "premeet_projection": 16,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Stanford",
+        "actual": 4.9,
+        "seed_projection": 16.9,
+        "ceiling": 15.9,
+        "mc_forecast": 16.1,
+        "premeet_projection": 19,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Long Jump (4.875pt)"
+        ]
+      },
+      {
+        "team": "Washington",
+        "actual": 0.0,
+        "seed_projection": 16.5,
+        "ceiling": 17.0,
+        "mc_forecast": 15.9,
+        "premeet_projection": 16,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Kentucky",
+        "actual": 0.0,
+        "seed_projection": 15.5,
+        "ceiling": 19.0,
+        "mc_forecast": 16.5,
+        "premeet_projection": 16,
+        "win_probability": 0.0,
+        "top4_probability": 0.1,
+        "events_scored": []
+      },
+      {
+        "team": "Kansas State",
+        "actual": 4.9,
+        "seed_projection": 14.9,
+        "ceiling": 14.9,
+        "mc_forecast": 15.2,
+        "premeet_projection": 18,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Long Jump (4.875pt)"
+        ]
+      },
+      {
+        "team": "South Dakota",
+        "actual": 0.0,
+        "seed_projection": 14.0,
+        "ceiling": 14.0,
+        "mc_forecast": 13.7,
+        "premeet_projection": 13,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Tarleton State",
+        "actual": 4.9,
+        "seed_projection": 13.9,
+        "ceiling": 12.9,
+        "mc_forecast": 12.3,
+        "premeet_projection": 14,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Long Jump (4.875pt)"
+        ]
+      },
+      {
+        "team": "Texas",
+        "actual": 0.0,
+        "seed_projection": 12.0,
+        "ceiling": 12.0,
+        "mc_forecast": 11.9,
+        "premeet_projection": 13,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Texas A&M",
+        "actual": 4.9,
+        "seed_projection": 11.9,
+        "ceiling": 11.9,
+        "mc_forecast": 12.0,
+        "premeet_projection": 26,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Long Jump (4.875pt)"
+        ]
+      },
+      {
+        "team": "Baylor",
+        "actual": 0.0,
+        "seed_projection": 11.0,
+        "ceiling": 11.0,
+        "mc_forecast": 11.3,
+        "premeet_projection": 12,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Minnesota",
+        "actual": 0.0,
+        "seed_projection": 11.0,
+        "ceiling": 13.0,
+        "mc_forecast": 10.0,
+        "premeet_projection": 10,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Florida",
+        "actual": 0.0,
+        "seed_projection": 10.0,
+        "ceiling": 13.0,
+        "mc_forecast": 12.0,
+        "premeet_projection": 17,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Iowa State",
+        "actual": 0.0,
+        "seed_projection": 10.0,
+        "ceiling": 11.0,
+        "mc_forecast": 11.5,
+        "premeet_projection": 10,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "LSU",
+        "actual": 0.0,
+        "seed_projection": 8.0,
+        "ceiling": 9.0,
+        "mc_forecast": 8.0,
+        "premeet_projection": 8,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Penn State",
+        "actual": 0.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 7.4,
+        "premeet_projection": 10,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "TCU",
+        "actual": 0.0,
+        "seed_projection": 8.0,
+        "ceiling": 9.0,
+        "mc_forecast": 7.4,
+        "premeet_projection": 8,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "NC State",
+        "actual": 0.0,
+        "seed_projection": 7.0,
+        "ceiling": 7.0,
+        "mc_forecast": 7.3,
+        "premeet_projection": 6,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Florida State",
+        "actual": 0.0,
+        "seed_projection": 6.0,
+        "ceiling": 6.0,
+        "mc_forecast": 6.2,
+        "premeet_projection": 6,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "North Carolina",
+        "actual": 0.0,
+        "seed_projection": 5.5,
+        "ceiling": 7.0,
+        "mc_forecast": 6.9,
+        "premeet_projection": 6,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Eastern Kentucky",
+        "actual": 0.0,
+        "seed_projection": 5.0,
+        "ceiling": 5.0,
+        "mc_forecast": 5.1,
+        "premeet_projection": 3,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Penn",
+        "actual": 0.0,
+        "seed_projection": 5.0,
+        "ceiling": 5.0,
+        "mc_forecast": 5.0,
+        "premeet_projection": 4,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "UTSA",
+        "actual": 4.9,
+        "seed_projection": 4.9,
+        "ceiling": 4.9,
+        "mc_forecast": 4.9,
+        "premeet_projection": 2,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Long Jump (4.875pt)"
+        ]
+      },
+      {
+        "team": "Arizona",
+        "actual": 0.0,
+        "seed_projection": 4.5,
+        "ceiling": 5.0,
+        "mc_forecast": 5.1,
+        "premeet_projection": 5,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Boise State",
+        "actual": 0.0,
+        "seed_projection": 4.0,
+        "ceiling": 4.0,
+        "mc_forecast": 4.1,
+        "premeet_projection": 3,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Duke",
+        "actual": 0.0,
+        "seed_projection": 4.0,
+        "ceiling": 5.0,
+        "mc_forecast": 4.0,
+        "premeet_projection": 3,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "New Mexico",
+        "actual": 0.0,
+        "seed_projection": 4.0,
+        "ceiling": 5.0,
+        "mc_forecast": 4.6,
+        "premeet_projection": 5,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Providence",
+        "actual": 0.0,
+        "seed_projection": 4.0,
+        "ceiling": 4.0,
+        "mc_forecast": 4.1,
+        "premeet_projection": 4,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "East Carolina",
+        "actual": 0.0,
+        "seed_projection": 3.5,
+        "ceiling": 4.0,
+        "mc_forecast": 3.1,
+        "premeet_projection": 3,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Tennessee",
+        "actual": 0.0,
+        "seed_projection": 3.5,
+        "ceiling": 4.0,
+        "mc_forecast": 4.3,
+        "premeet_projection": 4,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Cal Poly",
+        "actual": 0.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.0,
+        "premeet_projection": 2,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Colorado",
+        "actual": 0.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.1,
+        "premeet_projection": 2,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Washington St.",
+        "actual": 0.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.1,
+        "premeet_projection": 2,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Kennesaw State",
+        "actual": 0.0,
+        "seed_projection": 2.5,
+        "ceiling": 2.0,
+        "mc_forecast": 2.1,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Michigan State",
+        "actual": 0.0,
+        "seed_projection": 2.5,
+        "ceiling": 3.0,
+        "mc_forecast": 3.0,
+        "premeet_projection": 2,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "UCLA",
+        "actual": 0.0,
+        "seed_projection": 1.5,
+        "ceiling": 3.0,
+        "mc_forecast": 2.5,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Boston College",
+        "actual": 0.0,
+        "seed_projection": 1.0,
+        "ceiling": 2.0,
+        "mc_forecast": 1.8,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "UCF",
+        "actual": 0.0,
+        "seed_projection": 1.0,
+        "ceiling": 1.0,
+        "mc_forecast": 1.3,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Cincinnati",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 6,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Harvard",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 1.0,
+        "mc_forecast": 0.7,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Kansas",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 4,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Michigan",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 1.0,
+        "mc_forecast": 0.4,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Utah",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 2.0,
+        "mc_forecast": 0.9,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Vanderbilt",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Wisconsin",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 1.0,
+        "mc_forecast": 0.4,
+        "premeet_projection": 4,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      }
+    ],
+    "completed_finals": 1,
+    "total_finals": 17,
+    "events": [
+      {
+        "event_name": "Women 1 Mile Run",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/021-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/021-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "5:05 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Hayley Burns",
+            "team": "Northern Arizona",
+            "year": "JR",
+            "seed": "4:35.77"
+          },
+          {
+            "name": "Tatiana Cornejo",
+            "team": "Cal Poly",
+            "year": "JR",
+            "seed": "4:29.90"
+          },
+          {
+            "name": "Kaiya Robertson",
+            "team": "Boise State",
+            "year": "SR",
+            "seed": "4:24.51"
+          },
+          {
+            "name": "Sadie Engelhardt",
+            "team": "NC State",
+            "year": "FR",
+            "seed": "4:23.84"
+          },
+          {
+            "name": "Chloe Foerster",
+            "team": "Washington",
+            "year": "SR",
+            "seed": "4:25.79"
+          },
+          {
+            "name": "Billah Jepkirui",
+            "team": "Oklahoma State",
+            "year": "JR",
+            "seed": "4:23.40"
+          },
+          {
+            "name": "Tatum David",
+            "team": "Virginia",
+            "year": "JR",
+            "seed": "4:28.10"
+          },
+          {
+            "name": "Berlyn Schutz",
+            "team": "Nebraska",
+            "year": "JR",
+            "seed": "4:27.71"
+          },
+          {
+            "name": "Silan Ayyildiz",
+            "team": "Oregon",
+            "year": "SR",
+            "seed": "4:25.11"
+          },
+          {
+            "name": "Brianna Rinn",
+            "team": "Utah",
+            "year": "JR",
+            "seed": "4:28.44"
+          },
+          {
+            "name": "Riley Chamberlain",
+            "team": "BYU",
+            "year": "SR",
+            "seed": "4:20.61"
+          },
+          {
+            "name": "Rosemary Longisa",
+            "team": "Washington St.",
+            "year": "SO",
+            "seed": "4:24.59"
+          },
+          {
+            "name": "Claire Stegall",
+            "team": "Florida",
+            "year": "FR",
+            "seed": "4:25.91"
+          },
+          {
+            "name": "Mia Cochran",
+            "team": "Washington",
+            "year": "JR",
+            "seed": "4:29.10"
+          },
+          {
+            "name": "Wilma Nielsen",
+            "team": "Oregon",
+            "year": "SR",
+            "seed": "4:21.04"
+          },
+          {
+            "name": "Juliet Cherubet",
+            "team": "Oregon",
+            "year": "JR",
+            "seed": "4:27.46"
+          }
+        ],
+        "seed_projection": {
+          "BYU": 10.0,
+          "Oregon": 10.0,
+          "Oklahoma State": 6.0,
+          "NC State": 5.0,
+          "Boise State": 4.0,
+          "Washington St.": 3.0,
+          "Washington": 1.0
+        }
+      },
+      {
+        "event_name": "Women 200 Meter Dash",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/018-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/018-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "7:45 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Carleta Bernard",
+            "team": "Texas",
+            "year": "SO",
+            "seed": "22.94"
+          },
+          {
+            "name": "Chelsea Amoah",
+            "team": "Utah",
+            "year": "SO",
+            "seed": "22.84"
+          },
+          {
+            "name": "Dajaz Defrand",
+            "team": "USC",
+            "year": "SR",
+            "seed": "22.79"
+          },
+          {
+            "name": "Elise Cooper",
+            "team": "Texas",
+            "year": "FR",
+            "seed": "22.80"
+          },
+          {
+            "name": "Keliza Smith",
+            "team": "LSU",
+            "year": "JR",
+            "seed": "22.91"
+          },
+          {
+            "name": "Esther Joseph",
+            "team": "Tennessee",
+            "year": "SO",
+            "seed": "22.94"
+          },
+          {
+            "name": "Camryn Dickson",
+            "team": "Texas A&M",
+            "year": "SR",
+            "seed": "22.62"
+          },
+          {
+            "name": "Christine Mallard",
+            "team": "USC",
+            "year": "SR",
+            "seed": "22.77"
+          },
+          {
+            "name": "Kelly Ufodiama",
+            "team": "East Carolina",
+            "year": "SO",
+            "seed": "22.89"
+          },
+          {
+            "name": "Lauren Roy",
+            "team": "Tarleton State",
+            "year": "SR",
+            "seed": "22.94"
+          },
+          {
+            "name": "Tiriah Kelley",
+            "team": "Baylor",
+            "year": "SR",
+            "seed": "22.53"
+          },
+          {
+            "name": "JaMeesia Ford",
+            "team": "South Carolina",
+            "year": "JR",
+            "seed": "22.58"
+          },
+          {
+            "name": "Gabrielle Matthews",
+            "team": "Florida",
+            "year": "SR",
+            "seed": "22.87"
+          },
+          {
+            "name": "Mia Brahe-Pedersen",
+            "team": "USC",
+            "year": "SO",
+            "seed": "22.85"
+          },
+          {
+            "name": "Adaejah Hodge",
+            "team": "Georgia",
+            "year": "FR",
+            "seed": "22.32"
+          },
+          {
+            "name": "Indya Mayberry",
+            "team": "TCU",
+            "year": "SO",
+            "seed": "22.50"
+          }
+        ],
+        "seed_projection": {
+          "Georgia": 10.0,
+          "TCU": 8.0,
+          "Baylor": 6.0,
+          "South Carolina": 5.0,
+          "Texas A&M": 4.0,
+          "USC": 5.0,
+          "Texas": 1.0
+        }
+      },
+      {
+        "event_name": "Women 3000 Meter Run",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/022-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/022-1_start.htm",
+        "scores_url": null,
+        "day": "Saturday",
+        "start_time": "6:10 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Silan Ayyildiz",
+            "team": "Oregon",
+            "year": "SR",
+            "seed": "8:42.66"
+          },
+          {
+            "name": "Hayley Burns",
+            "team": "Northern Arizona",
+            "year": "JR",
+            "seed": "8:48.10"
+          },
+          {
+            "name": "Marion Jepngetich",
+            "team": "New Mexico",
+            "year": "SO",
+            "seed": "8:45.20"
+          },
+          {
+            "name": "Allie Zealand",
+            "team": "Liberty",
+            "year": "SO",
+            "seed": "8:44.71"
+          },
+          {
+            "name": "Salma Elbadra",
+            "team": "South Carolina",
+            "year": "JR",
+            "seed": "8:41.76"
+          },
+          {
+            "name": "Jane Hedengren",
+            "team": "BYU",
+            "year": "FR",
+            "seed": "8:34.98"
+          },
+          {
+            "name": "Doris Lemngole",
+            "team": "Alabama",
+            "year": "JR",
+            "seed": "8:31.39"
+          },
+          {
+            "name": "Hilda Olemomoi",
+            "team": "Florida",
+            "year": "SR",
+            "seed": "8:46.33"
+          },
+          {
+            "name": "Angelina Napoleon",
+            "team": "NC State",
+            "year": "JR",
+            "seed": "8:46.15"
+          },
+          {
+            "name": "Betty Kipkore",
+            "team": "Iowa State",
+            "year": "FR",
+            "seed": "8:44.09"
+          },
+          {
+            "name": "Jenna Hutchins",
+            "team": "BYU",
+            "year": "SR",
+            "seed": "8:44.04"
+          },
+          {
+            "name": "Vera Sjoberg",
+            "team": "North Carolina",
+            "year": "SR",
+            "seed": "8:43.06"
+          },
+          {
+            "name": "Billah Jepkirui",
+            "team": "Oklahoma State",
+            "year": "JR",
+            "seed": "8:45.22"
+          },
+          {
+            "name": "Erin Vringer",
+            "team": "Utah",
+            "year": "JR",
+            "seed": "8:48.26"
+          },
+          {
+            "name": "Pamela Kosgei",
+            "team": "New Mexico",
+            "year": "SO",
+            "seed": "8:44.91"
+          },
+          {
+            "name": "Riley Chamberlain",
+            "team": "BYU",
+            "year": "SR",
+            "seed": "8:43.16"
+          }
+        ],
+        "seed_projection": {
+          "Alabama": 10.0,
+          "BYU": 13.0,
+          "South Carolina": 6.0,
+          "Oregon": 5.0,
+          "North Carolina": 4.0,
+          "Iowa State": 1.0
+        }
+      },
+      {
+        "event_name": "Women 400 Meter Dash",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/019-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/019-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "5:55 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Javonya Valcourt",
+            "team": "Tennessee",
+            "year": "SR",
+            "seed": "51.73"
+          },
+          {
+            "name": "Kaelyaah Liburd",
+            "team": "Florida State",
+            "year": "JR",
+            "seed": "51.58"
+          },
+          {
+            "name": "Sydney Segalla",
+            "team": "Boston College",
+            "year": "SO",
+            "seed": "51.40"
+          },
+          {
+            "name": "Rachel Joseph",
+            "team": "Iowa State",
+            "year": "SR",
+            "seed": "51.25"
+          },
+          {
+            "name": "Sydney Sutton",
+            "team": "Florida",
+            "year": "FR",
+            "seed": "51.46"
+          },
+          {
+            "name": "Kaylyn Brown",
+            "team": "Arkansas",
+            "year": "SO",
+            "seed": "51.72"
+          },
+          {
+            "name": "Esther Joseph",
+            "team": "Tennessee",
+            "year": "SO",
+            "seed": "51.36"
+          },
+          {
+            "name": "Shaquena Foote",
+            "team": "Georgia",
+            "year": "SR",
+            "seed": "51.27"
+          },
+          {
+            "name": "Hannah Douglas",
+            "team": "Kentucky",
+            "year": "SR",
+            "seed": "51.41"
+          },
+          {
+            "name": "Chioma Nwachukwu",
+            "team": "Iowa",
+            "year": "SO",
+            "seed": "51.67"
+          },
+          {
+            "name": "Dejanea Oakley",
+            "team": "Georgia",
+            "year": "SR",
+            "seed": "51.11"
+          },
+          {
+            "name": "Zaya Akins",
+            "team": "South Carolina",
+            "year": "JR",
+            "seed": "51.15"
+          },
+          {
+            "name": "Sami Oblad",
+            "team": "BYU",
+            "year": "SR",
+            "seed": "51.48"
+          },
+          {
+            "name": "Sanaria Butler",
+            "team": "Arkansas",
+            "year": "SR",
+            "seed": "51.41"
+          },
+          {
+            "name": "Ella Onojuvwevwo",
+            "team": "LSU",
+            "year": "SR",
+            "seed": "50.96"
+          },
+          {
+            "name": "Madison Whyte",
+            "team": "USC",
+            "year": "JR",
+            "seed": "50.82"
+          }
+        ],
+        "seed_projection": {
+          "USC": 10.0,
+          "LSU": 8.0,
+          "Georgia": 9.0,
+          "South Carolina": 5.0,
+          "Iowa State": 4.0,
+          "Tennessee": 2.0,
+          "Boston College": 1.0
+        }
+      },
+      {
+        "event_name": "Women 4x400 Meter Relay",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/025-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/025-1_start.htm",
+        "scores_url": null,
+        "day": "Saturday",
+        "start_time": "6:40 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "team": "Duke",
+            "seed": "3:30.35"
+          },
+          {
+            "team": "UCLA",
+            "seed": "3:29.43"
+          },
+          {
+            "team": "Tennessee",
+            "seed": "3:29.31"
+          },
+          {
+            "team": "Iowa",
+            "seed": "3:29.69"
+          },
+          {
+            "team": "UCF",
+            "seed": "3:29.21"
+          },
+          {
+            "team": "Kentucky",
+            "seed": "3:29.14"
+          },
+          {
+            "team": "USC",
+            "seed": "3:28.89"
+          },
+          {
+            "team": "Texas",
+            "seed": "3:28.97"
+          },
+          {
+            "team": "Florida",
+            "seed": "3:28.37"
+          },
+          {
+            "team": "Georgia",
+            "seed": "3:26.88"
+          },
+          {
+            "team": "Arkansas",
+            "seed": "3:25.82"
+          },
+          {
+            "team": "South Carolina",
+            "seed": "3:26.85"
+          }
+        ],
+        "seed_projection": {
+          "Arkansas": 10.0,
+          "South Carolina": 8.0,
+          "Georgia": 6.0,
+          "Florida": 5.0,
+          "USC": 4.0,
+          "Texas": 3.0,
+          "Kentucky": 2.0,
+          "UCF": 1.0
+        }
+      },
+      {
+        "event_name": "Women 5000 Meter Run",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/023-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/023-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "7:05 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Mercyline Kirwa",
+            "team": "Iowa State",
+            "year": "FR",
+            "seed": "15:09.13"
+          },
+          {
+            "name": "Jane Hedengren",
+            "team": "BYU",
+            "year": "FR",
+            "seed": "14:44.79"
+          },
+          {
+            "name": "Joy Naukot",
+            "team": "West Virginia",
+            "year": "SO",
+            "seed": "15:11.91"
+          },
+          {
+            "name": "Diana Cherotich",
+            "team": "Oregon",
+            "year": "FR",
+            "seed": "15:13.38"
+          },
+          {
+            "name": "Jadyn Keeler",
+            "team": "North Dakota",
+            "year": "SR",
+            "seed": "15:14.76"
+          },
+          {
+            "name": "Hilda Olemomoi",
+            "team": "Florida",
+            "year": "SR",
+            "seed": "15:08.61"
+          },
+          {
+            "name": "Chloe Thomas",
+            "team": "Washington",
+            "year": "SR",
+            "seed": "15:16.93"
+          },
+          {
+            "name": "Pamela Kosgei",
+            "team": "New Mexico",
+            "year": "SO",
+            "seed": "15:05.41"
+          },
+          {
+            "name": "Sophia Kennedy",
+            "team": "Stanford",
+            "year": "JR",
+            "seed": "15:07.90"
+          },
+          {
+            "name": "Edna Chelulei",
+            "team": "Eastern Kentucky",
+            "year": "SO",
+            "seed": "15:05.16"
+          },
+          {
+            "name": "Isca Chelangat",
+            "team": "Oklahoma State",
+            "year": "FR",
+            "seed": "15:07.76"
+          },
+          {
+            "name": "Judy Chepkoech",
+            "team": "Florida",
+            "year": "SO",
+            "seed": "15:12.57"
+          },
+          {
+            "name": "Sydney Vaught",
+            "team": "Arkansas",
+            "year": "SR",
+            "seed": "15:02.52"
+          },
+          {
+            "name": "Doris Lemngole",
+            "team": "Alabama",
+            "year": "JR",
+            "seed": "14:51.21"
+          },
+          {
+            "name": "Mary Bonner Dalton",
+            "team": "Notre Dame",
+            "year": "FR",
+            "seed": "15:11.31"
+          },
+          {
+            "name": "Caren Kiplagat",
+            "team": "Alabama",
+            "year": "FR",
+            "seed": "15:12.56"
+          }
+        ],
+        "seed_projection": {
+          "BYU": 10.0,
+          "Alabama": 8.0,
+          "Arkansas": 6.0,
+          "Eastern Kentucky": 5.0,
+          "New Mexico": 4.0,
+          "Oklahoma State": 3.0,
+          "Stanford": 2.0,
+          "Florida": 1.0
+        }
+      },
+      {
+        "event_name": "Women 60 Meter Dash",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/017-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/017-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "5:35 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Brianna Selby",
+            "team": "USC",
+            "year": "SO",
+            "seed": "7.15"
+          },
+          {
+            "name": "Kaila Jackson",
+            "team": "Georgia",
+            "year": "SR",
+            "seed": "7.19"
+          },
+          {
+            "name": "Sharmelle Holmes",
+            "team": "Kentucky",
+            "year": "SO",
+            "seed": "7.14"
+          },
+          {
+            "name": "Reign Redmond",
+            "team": "Georgia",
+            "year": "SO",
+            "seed": "7.15"
+          },
+          {
+            "name": "Shenese Walker",
+            "team": "Florida State",
+            "year": "SR",
+            "seed": "7.09"
+          },
+          {
+            "name": "Alicia Burnett",
+            "team": "Ole Miss",
+            "year": "SR",
+            "seed": "7.08"
+          },
+          {
+            "name": "Nayla Harris",
+            "team": "UT-Rio Grande Valley",
+            "year": "SR",
+            "seed": "7.18"
+          },
+          {
+            "name": "Indya Mayberry",
+            "team": "TCU",
+            "year": "SO",
+            "seed": "7.17"
+          },
+          {
+            "name": "Athaleyha Hinckson",
+            "team": "LSU",
+            "year": "FR",
+            "seed": "7.16"
+          },
+          {
+            "name": "Alexis Brown",
+            "team": "South Carolina",
+            "year": "SR",
+            "seed": "7.18"
+          },
+          {
+            "name": "Adaejah Hodge",
+            "team": "Georgia",
+            "year": "FR",
+            "seed": "7.13"
+          },
+          {
+            "name": "Kelly Ufodiama",
+            "team": "East Carolina",
+            "year": "SO",
+            "seed": "7.14"
+          },
+          {
+            "name": "Victoria Cameron",
+            "team": "Tarleton State",
+            "year": "SO",
+            "seed": "7.08"
+          },
+          {
+            "name": "Dajaz Defrand",
+            "team": "USC",
+            "year": "SR",
+            "seed": "7.16"
+          },
+          {
+            "name": "Lauren Roy",
+            "team": "Tarleton State",
+            "year": "SR",
+            "seed": "7.19"
+          },
+          {
+            "name": "Success Umukoro",
+            "team": "Texas Tech",
+            "year": "SR",
+            "seed": "7.16"
+          }
+        ],
+        "seed_projection": {
+          "Ole Miss": 9.0,
+          "Tarleton State": 9.0,
+          "Florida State": 6.0,
+          "Georgia": 6.5,
+          "Kentucky": 3.5,
+          "East Carolina": 3.5,
+          "USC": 1.5
+        }
+      },
+      {
+        "event_name": "Women 60 Meter Hurdles",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/024-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/024-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "6:45 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Kaycee McCoy",
+            "team": "Houston",
+            "year": "SR",
+            "seed": "8.07"
+          },
+          {
+            "name": "Tashina Alase",
+            "team": "Southern",
+            "year": "JR",
+            "seed": "8.04"
+          },
+          {
+            "name": "Yanla Ndjip-Nyemeck",
+            "team": "UCLA",
+            "year": "SR",
+            "seed": "7.96"
+          },
+          {
+            "name": "Emmi Scales",
+            "team": "Kentucky",
+            "year": "JR",
+            "seed": "7.83"
+          },
+          {
+            "name": "Ana-Liese Torian",
+            "team": "Auburn",
+            "year": "JR",
+            "seed": "7.91"
+          },
+          {
+            "name": "Tonie-Ann Forbes",
+            "team": "Texas Tech",
+            "year": "JR",
+            "seed": "7.91"
+          },
+          {
+            "name": "Maddi Cooper",
+            "team": "Georgia",
+            "year": "FR",
+            "seed": "7.99"
+          },
+          {
+            "name": "Joslyn Hamilton",
+            "team": "South Carolina",
+            "year": "SO",
+            "seed": "8.06"
+          },
+          {
+            "name": "Chelsi Williams",
+            "team": "Georgia",
+            "year": "FR",
+            "seed": "8.07"
+          },
+          {
+            "name": "Oneka Wilson",
+            "team": "Clemson",
+            "year": "SR",
+            "seed": "8.02"
+          },
+          {
+            "name": "Danae Nembhard",
+            "team": "Auburn",
+            "year": "SR",
+            "seed": "7.91"
+          },
+          {
+            "name": "Jaiya Covington",
+            "team": "Texas A&M",
+            "year": "SR",
+            "seed": "7.94"
+          },
+          {
+            "name": "Aaliyah McCormick",
+            "team": "Oregon",
+            "year": "SR",
+            "seed": "7.89"
+          },
+          {
+            "name": "Myreanna Bebe",
+            "team": "Tennessee",
+            "year": "SR",
+            "seed": "7.96"
+          },
+          {
+            "name": "Falon Spearman",
+            "team": "Vanderbilt",
+            "year": "SR",
+            "seed": "8.07"
+          },
+          {
+            "name": "Akala Garrett",
+            "team": "South Carolina",
+            "year": "JR",
+            "seed": "8.04"
+          }
+        ],
+        "seed_projection": {
+          "Kentucky": 10.0,
+          "Oregon": 8.0,
+          "Auburn": 10.0,
+          "Texas Tech": 5.0,
+          "Texas A&M": 3.0,
+          "UCLA": 1.5,
+          "Tennessee": 1.5
+        }
+      },
+      {
+        "event_name": "Women 800 Meter Run",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/020-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/020-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "6:25 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Elizabeth Martell",
+            "team": "Villanova",
+            "year": "SR",
+            "seed": "2:01.70"
+          },
+          {
+            "name": "Hayley Kitching",
+            "team": "Penn State",
+            "year": "SR",
+            "seed": "1:59.22"
+          },
+          {
+            "name": "Maeve O'Neill",
+            "team": "Providence",
+            "year": "JR",
+            "seed": "2:00.33"
+          },
+          {
+            "name": "Aniya Mosley",
+            "team": "Ohio State",
+            "year": "SR",
+            "seed": "2:01.44"
+          },
+          {
+            "name": "Vanice Kerubo Nyagisera",
+            "team": "Kentucky",
+            "year": "FR",
+            "seed": "2:01.40"
+          },
+          {
+            "name": "Makayla Paige",
+            "team": "North Carolina",
+            "year": "SR",
+            "seed": "2:01.10"
+          },
+          {
+            "name": "Sanu Jallow",
+            "team": "Arkansas",
+            "year": "JR",
+            "seed": "1:59.76"
+          },
+          {
+            "name": "Veronica Hargrave",
+            "team": "Indiana",
+            "year": "SO",
+            "seed": "2:01.64"
+          },
+          {
+            "name": "Gladys Chepngetich",
+            "team": "Clemson",
+            "year": "JR",
+            "seed": "1:58.81"
+          },
+          {
+            "name": "Analisse Batista",
+            "team": "Arkansas",
+            "year": "JR",
+            "seed": "2:01.10"
+          },
+          {
+            "name": "Natalie Varela",
+            "team": "Miami (Fla.)",
+            "year": "SR",
+            "seed": "2:01.82"
+          },
+          {
+            "name": "Sophia Gorriaran",
+            "team": "Harvard",
+            "year": "JR",
+            "seed": "2:01.30"
+          },
+          {
+            "name": "Avery Pearson",
+            "team": "Colorado",
+            "year": "SO",
+            "seed": "2:00.76"
+          },
+          {
+            "name": "Zoie Dundon",
+            "team": "Minnesota",
+            "year": "JR",
+            "seed": "2:01.56"
+          },
+          {
+            "name": "Boh Ritchie",
+            "team": "Penn State",
+            "year": "FR",
+            "seed": "2:01.60"
+          },
+          {
+            "name": "Juliette Whittaker",
+            "team": "Stanford",
+            "year": "SR",
+            "seed": "1:59.76"
+          }
+        ],
+        "seed_projection": {
+          "Clemson": 10.0,
+          "Penn State": 8.0,
+          "Arkansas": 7.0,
+          "Stanford": 5.5,
+          "Providence": 4.0,
+          "Colorado": 3.0,
+          "North Carolina": 1.5
+        }
+      },
+      {
+        "event_name": "Women Distance Medley",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/026-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/026-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "8:15 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "team": "Boston College",
+            "seed": "10:47.53"
+          },
+          {
+            "team": "Washington",
+            "seed": "10:45.03"
+          },
+          {
+            "team": "Oklahoma State",
+            "seed": "10:43.10"
+          },
+          {
+            "team": "Florida",
+            "seed": "10:46.45"
+          },
+          {
+            "team": "Utah",
+            "seed": "10:47.98"
+          },
+          {
+            "team": "Iowa State",
+            "seed": "10:44.11"
+          },
+          {
+            "team": "Arkansas",
+            "seed": "10:44.09"
+          },
+          {
+            "team": "BYU",
+            "seed": "10:41.85"
+          },
+          {
+            "team": "North Carolina",
+            "seed": "10:46.62"
+          },
+          {
+            "team": "Oregon",
+            "seed": "10:59.74"
+          },
+          {
+            "team": "South Carolina",
+            "seed": "10:45.64"
+          },
+          {
+            "team": "NC State",
+            "seed": "10:46.00"
+          }
+        ],
+        "seed_projection": {
+          "BYU": 10.0,
+          "Oklahoma State": 8.0,
+          "Arkansas": 6.0,
+          "Iowa State": 5.0,
+          "Washington": 4.0,
+          "South Carolina": 3.0,
+          "NC State": 2.0,
+          "Florida": 1.0
+        }
+      },
+      {
+        "event_name": "Women High Jump",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/027-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/027-1_start.htm",
+        "scores_url": null,
+        "day": "Saturday",
+        "start_time": "1:45 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Sharie Enoe",
+            "team": "Kansas State",
+            "year": "SR",
+            "seed": "1.93m"
+          },
+          {
+            "name": "Heidi Hudson",
+            "team": "Arkansas",
+            "year": "SO",
+            "seed": "1.87m"
+          },
+          {
+            "name": "Kemarah Howard",
+            "team": "Kentucky",
+            "year": "FR",
+            "seed": "1.87m"
+          },
+          {
+            "name": "Hannah Pfiffner",
+            "team": "Oklahoma",
+            "year": "JR",
+            "seed": "1.87m"
+          },
+          {
+            "name": "Evelyn Lavielle",
+            "team": "Texas Tech",
+            "year": "JR",
+            "seed": "1.90m"
+          },
+          {
+            "name": "Emma Gates",
+            "team": "Arizona",
+            "year": "SR",
+            "seed": "1.91m"
+          },
+          {
+            "name": "Ela Velepec",
+            "team": "Nebraska",
+            "year": "SO",
+            "seed": "1.86m"
+          },
+          {
+            "name": "Alyssa Jones",
+            "team": "Stanford",
+            "year": "SR",
+            "seed": "1.91m"
+          },
+          {
+            "name": "Rose Yeboah",
+            "team": "Illinois",
+            "year": "SR",
+            "seed": "1.94m"
+          },
+          {
+            "name": "Karsyn Leeling",
+            "team": "Nebraska",
+            "year": "SO",
+            "seed": "1.86m"
+          },
+          {
+            "name": "Valentina Fakrogha",
+            "team": "UCLA",
+            "year": "SO",
+            "seed": "1.86m"
+          },
+          {
+            "name": "Miracle Ailes",
+            "team": "Alabama",
+            "year": "SR",
+            "seed": "1.87m"
+          },
+          {
+            "name": "Maria Arboleda Angulo",
+            "team": "Arkansas",
+            "year": "FR",
+            "seed": "1.87m"
+          },
+          {
+            "name": "Temitope Adeshina",
+            "team": "Texas Tech",
+            "year": "JR",
+            "seed": "1.97m"
+          },
+          {
+            "name": "JaiCieonna Gero-Holt",
+            "team": "Illinois",
+            "year": "FR",
+            "seed": "1.88m"
+          },
+          {
+            "name": "Jenneil Jacobie",
+            "team": "East Texas A&M",
+            "year": "SR",
+            "seed": "1.87m"
+          }
+        ],
+        "seed_projection": {
+          "Texas Tech": 13.0,
+          "Illinois": 10.0,
+          "Kansas State": 6.0,
+          "Arizona": 4.5,
+          "Stanford": 4.5,
+          "Arkansas": 1.0
+        }
+      },
+      {
+        "event_name": "Women Long Jump",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/029-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/029-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "4:45 PM",
+        "status": "final",
+        "results": [
+          {
+            "place": 1,
+            "name": "Sophia Beckmon",
+            "team": "Illinois",
+            "mark": ""
+          },
+          {
+            "place": 2,
+            "name": "Alyssa Jones",
+            "team": "Stanford",
+            "mark": ""
+          },
+          {
+            "place": 3,
+            "name": "Heidi Hudson",
+            "team": "Arkansas",
+            "mark": ""
+          },
+          {
+            "place": 4,
+            "name": "Prestina Ochonogor",
+            "team": "Tarleton State",
+            "mark": ""
+          },
+          {
+            "place": 5,
+            "name": "Chisom Nwafor",
+            "team": "Kansas State",
+            "mark": ""
+          },
+          {
+            "place": 6,
+            "name": "Morgan Davis",
+            "team": "Texas A&M",
+            "mark": ""
+          },
+          {
+            "place": 7,
+            "name": "Ida Breigan",
+            "team": "UTSA",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Elizabeth Ndudi",
+            "team": "Illinois",
+            "mark": ""
+          },
+          {
+            "place": 9,
+            "name": "Xiamara Young",
+            "team": "San Diego St.",
+            "mark": ""
+          },
+          {
+            "place": 9,
+            "name": "Rose Kuchera",
+            "team": "Duquesne",
+            "mark": ""
+          }
+        ],
+        "prelim_results": [],
+        "start_list_entries": []
+      },
+      {
+        "event_name": "Women Pole Vault",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/028-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/028-1_start.htm",
+        "scores_url": null,
+        "day": "Saturday",
+        "start_time": "4:00 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Veronica Vacca",
+            "team": "Washington",
+            "year": "FR",
+            "seed": "4.50m"
+          },
+          {
+            "name": "Marleen Mulla",
+            "team": "South Dakota",
+            "year": "SR",
+            "seed": "4.63m"
+          },
+          {
+            "name": "Mia Morello",
+            "team": "Illinois",
+            "year": "SR",
+            "seed": "4.50m"
+          },
+          {
+            "name": "Anna Willis",
+            "team": "South Dakota",
+            "year": "SO",
+            "seed": "4.60m"
+          },
+          {
+            "name": "Molly Haywood",
+            "team": "Baylor",
+            "year": "JR",
+            "seed": "4.57m"
+          },
+          {
+            "name": "Chiara Sistermann",
+            "team": "Virginia Tech",
+            "year": "JR",
+            "seed": "4.47m"
+          },
+          {
+            "name": "Mason Meinershagen",
+            "team": "Kansas",
+            "year": "JR",
+            "seed": "4.47m"
+          },
+          {
+            "name": "Mya Strahm",
+            "team": "Tennessee",
+            "year": "SO",
+            "seed": "4.47m"
+          },
+          {
+            "name": "Gemma Tutton",
+            "team": "Duke",
+            "year": "JR",
+            "seed": "4.52m"
+          },
+          {
+            "name": "Ashley Callahan",
+            "team": "Louisville",
+            "year": "SR",
+            "seed": "4.50m"
+          },
+          {
+            "name": "Lexi Evans",
+            "team": "Cal Poly",
+            "year": "SR",
+            "seed": "4.51m"
+          },
+          {
+            "name": "Ali Sahaida",
+            "team": "California",
+            "year": "SR",
+            "seed": "4.49m"
+          },
+          {
+            "name": "Iliana Triantafyllou",
+            "team": "Louisville",
+            "year": "SO",
+            "seed": "4.50m"
+          },
+          {
+            "name": "Hana Moll",
+            "team": "Washington",
+            "year": "JR",
+            "seed": "4.88m"
+          },
+          {
+            "name": "Lily Carlson",
+            "team": "Texas A&M",
+            "year": "FR",
+            "seed": "4.47m"
+          },
+          {
+            "name": "Jathiyah Muhammad",
+            "team": "South Carolina",
+            "year": "SO",
+            "seed": "4.50m"
+          }
+        ],
+        "seed_projection": {
+          "Washington": 11.5,
+          "South Dakota": 14.0,
+          "Baylor": 5.0,
+          "Duke": 4.0,
+          "Cal Poly": 3.0,
+          "Illinois": 1.5
+        }
+      },
+      {
+        "event_name": "Women Shot Put",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/031-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/031-1_start.htm",
+        "scores_url": null,
+        "day": "Saturday",
+        "start_time": "2:45 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Ashley Erasmus",
+            "team": "USC",
+            "year": "SO",
+            "seed": "17.94m"
+          },
+          {
+            "name": "Anthonett Nabwe",
+            "team": "Minnesota",
+            "year": "JR",
+            "seed": "17.36m"
+          },
+          {
+            "name": "Mine De Klerk",
+            "team": "Nebraska",
+            "year": "SR",
+            "seed": "18.48m"
+          },
+          {
+            "name": "Makayla Long",
+            "team": "Colorado St.",
+            "year": "SR",
+            "seed": "17.69m"
+          },
+          {
+            "name": "Sydney Brewster",
+            "team": "Montana State",
+            "year": "JR",
+            "seed": "17.25m"
+          },
+          {
+            "name": "Krishna Jayasankar Menon",
+            "team": "UNLV",
+            "year": "SR",
+            "seed": "17.09m"
+          },
+          {
+            "name": "Tapenisa Havea",
+            "team": "Arizona",
+            "year": "SR",
+            "seed": "17.22m"
+          },
+          {
+            "name": "Nina Ndubuisi",
+            "team": "Georgia",
+            "year": "JR",
+            "seed": "17.93m"
+          },
+          {
+            "name": "Alida Van Daalen",
+            "team": "Florida",
+            "year": "JR",
+            "seed": "18.13m"
+          },
+          {
+            "name": "Akaoma Odeluga",
+            "team": "Ole Miss",
+            "year": "JR",
+            "seed": "18.69m"
+          },
+          {
+            "name": "Amelia Flynt",
+            "team": "Nebraska",
+            "year": "SR",
+            "seed": "17.16m"
+          },
+          {
+            "name": "Megan Hague",
+            "team": "Auburn",
+            "year": "SR",
+            "seed": "18.89m"
+          },
+          {
+            "name": "Axelina Johansson",
+            "team": "Nebraska",
+            "year": "SR",
+            "seed": "19.72m"
+          },
+          {
+            "name": "Elizabeth Tapper",
+            "team": "Michigan",
+            "year": "JR",
+            "seed": "17.38m"
+          },
+          {
+            "name": "Camryn Massey",
+            "team": "Auburn",
+            "year": "SO",
+            "seed": "17.15m"
+          },
+          {
+            "name": "Jessica Oji",
+            "team": "Penn",
+            "year": "FR",
+            "seed": "18.50m"
+          }
+        ],
+        "seed_projection": {
+          "Nebraska": 14.0,
+          "Auburn": 8.0,
+          "Ole Miss": 6.0,
+          "Penn": 5.0,
+          "Florida": 3.0,
+          "USC": 2.0,
+          "Georgia": 1.0
+        }
+      },
+      {
+        "event_name": "Women Triple Jump",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/030-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/030-1_start.htm",
+        "scores_url": null,
+        "day": "Saturday",
+        "start_time": "2:30 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Rhianna Phipps",
+            "team": "Nebraska",
+            "year": "SR",
+            "seed": "13.62m"
+          },
+          {
+            "name": "Shantae Foreman",
+            "team": "Clemson",
+            "year": "SR",
+            "seed": "14.17m"
+          },
+          {
+            "name": "Destini Smith",
+            "team": "Kansas State",
+            "year": "FR",
+            "seed": "13.33m"
+          },
+          {
+            "name": "Tamiah Washington",
+            "team": "Texas Tech",
+            "year": "JR",
+            "seed": "13.62m"
+          },
+          {
+            "name": "Asia Phillips",
+            "team": "Florida",
+            "year": "SO",
+            "seed": "13.33m"
+          },
+          {
+            "name": "Daniela Wamokpego",
+            "team": "Kansas State",
+            "year": "JR",
+            "seed": "13.59m"
+          },
+          {
+            "name": "Katharina Graman",
+            "team": "Illinois",
+            "year": "JR",
+            "seed": "13.40m"
+          },
+          {
+            "name": "Grace Oshiokpu",
+            "team": "Texas Tech",
+            "year": "JR",
+            "seed": "13.44m"
+          },
+          {
+            "name": "Romi Tamir",
+            "team": "Illinois",
+            "year": "FR",
+            "seed": "13.50m"
+          },
+          {
+            "name": "Ruta Lasmane",
+            "team": "Texas Tech",
+            "year": "SR",
+            "seed": "13.79m"
+          },
+          {
+            "name": "Mercy Honesty",
+            "team": "Illinois",
+            "year": "JR",
+            "seed": "13.52m"
+          },
+          {
+            "name": "Skylynn Townsend",
+            "team": "Georgia",
+            "year": "SO",
+            "seed": "13.50m"
+          },
+          {
+            "name": "Tolulope Akinduro",
+            "team": "Maryland",
+            "year": "JR",
+            "seed": "13.36m"
+          },
+          {
+            "name": "Georgina Scoot",
+            "team": "Princeton",
+            "year": "SR",
+            "seed": "13.47m"
+          },
+          {
+            "name": "Xiamara Young",
+            "team": "San Diego St.",
+            "year": "JR",
+            "seed": "13.48m"
+          },
+          {
+            "name": "Diarra Sow",
+            "team": "Minnesota",
+            "year": "JR",
+            "seed": "13.34m"
+          }
+        ],
+        "seed_projection": {
+          "Clemson": 10.0,
+          "Texas Tech": 13.5,
+          "Nebraska": 5.5,
+          "Kansas State": 4.0,
+          "Illinois": 4.5,
+          "Georgia": 1.5
+        }
+      },
+      {
+        "event_name": "Women Weight Throw",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/032-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/032-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "7:30 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Elle Adrian",
+            "team": "Michigan State",
+            "year": "SR",
+            "seed": "22.50m"
+          },
+          {
+            "name": "Anthonett Nabwe",
+            "team": "Minnesota",
+            "year": "JR",
+            "seed": "24.67m"
+          },
+          {
+            "name": "Jordan Koskondy",
+            "team": "Illinois",
+            "year": "JR",
+            "seed": "23.59m"
+          },
+          {
+            "name": "Hadley Streit",
+            "team": "Minnesota",
+            "year": "JR",
+            "seed": "22.41m"
+          },
+          {
+            "name": "Monique Hardy",
+            "team": "Kansas State",
+            "year": "SR",
+            "seed": "22.12m"
+          },
+          {
+            "name": "Kali Terza",
+            "team": "Kennesaw State",
+            "year": "SR",
+            "seed": "22.50m"
+          },
+          {
+            "name": "Tania Da Silva",
+            "team": "Miami (Fla.)",
+            "year": "JR",
+            "seed": "21.82m"
+          },
+          {
+            "name": "Oluwatomilayo Akintunde",
+            "team": "Illinois",
+            "year": "SR",
+            "seed": "22.18m"
+          },
+          {
+            "name": "Kennedy Clarke",
+            "team": "Oklahoma",
+            "year": "SR",
+            "seed": "21.70m"
+          },
+          {
+            "name": "Kellyn Kortemeyer",
+            "team": "Nebraska",
+            "year": "JR",
+            "seed": "22.00m"
+          },
+          {
+            "name": "Akaoma Odeluga",
+            "team": "Ole Miss",
+            "year": "JR",
+            "seed": "23.08m"
+          },
+          {
+            "name": "Giavonna Meeks",
+            "team": "Texas",
+            "year": "JR",
+            "seed": "24.49m"
+          },
+          {
+            "name": "Phethisang Makhethe",
+            "team": "Illinois",
+            "year": "SR",
+            "seed": "23.70m"
+          },
+          {
+            "name": "Taylor Kesner",
+            "team": "Wisconsin",
+            "year": "SR",
+            "seed": "22.25m"
+          },
+          {
+            "name": "Kajsa Borrman",
+            "team": "Colorado St.",
+            "year": "JR",
+            "seed": "22.16m"
+          },
+          {
+            "name": "Skylar Soli",
+            "team": "Ole Miss",
+            "year": "JR",
+            "seed": "22.34m"
+          }
+        ],
+        "seed_projection": {
+          "Minnesota": 11.0,
+          "Texas": 8.0,
+          "Illinois": 11.0,
+          "Ole Miss": 4.0,
+          "Michigan State": 2.5,
+          "Kennesaw State": 2.5
+        }
+      },
+      {
+        "event_name": "Women Indoor Pentathlon",
+        "gender": "Women",
+        "round_type": "final",
+        "is_multi_event": true,
+        "result_url": "",
+        "start_url": "",
+        "scores_url": null,
+        "day": "",
+        "start_time": "",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [],
+        "seed_projection": {}
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Women Long Jump",
+        "winner": "Sophia Beckmon",
+        "team": "Illinois",
+        "mark": "",
+        "timestamp": "2026-03-13T22:04:18Z",
+        "points_awarded": {
+          "Illinois": 9.8,
+          "Stanford": 4.9,
+          "Arkansas": 4.9,
+          "Tarleton State": 4.9,
+          "Kansas State": 4.9,
+          "Texas A&M": 4.9,
+          "UTSA": 4.9
+        }
+      }
+    ],
+    "leverage": [
+      {
+        "event": "Women 1 Mile Run",
+        "swing": 72,
+        "teams": 13
+      },
+      {
+        "event": "Women 200 Meter Dash",
+        "swing": 72,
+        "teams": 13
+      },
+      {
+        "event": "Women 3000 Meter Run",
+        "swing": 72,
+        "teams": 13
+      },
+      {
+        "event": "Women 400 Meter Dash",
+        "swing": 72,
+        "teams": 13
+      },
+      {
+        "event": "Women 4x400 Meter Relay",
+        "swing": 72,
+        "teams": 12
+      },
+      {
+        "event": "Women 5000 Meter Run",
+        "swing": 72,
+        "teams": 14
+      },
+      {
+        "event": "Women 60 Meter Dash",
+        "swing": 72,
+        "teams": 12
+      },
+      {
+        "event": "Women 60 Meter Hurdles",
+        "swing": 72,
+        "teams": 13
+      },
+      {
+        "event": "Women 800 Meter Run",
+        "swing": 72,
+        "teams": 14
+      },
+      {
+        "event": "Women Distance Medley",
+        "swing": 72,
+        "teams": 12
+      },
+      {
+        "event": "Women High Jump",
+        "swing": 72,
+        "teams": 12
+      },
+      {
+        "event": "Women Pole Vault",
+        "swing": 72,
+        "teams": 13
+      },
+      {
+        "event": "Women Shot Put",
+        "swing": 72,
+        "teams": 13
+      },
+      {
+        "event": "Women Triple Jump",
+        "swing": 72,
+        "teams": 11
+      },
+      {
+        "event": "Women Weight Throw",
+        "swing": 72,
+        "teams": 12
+      },
+      {
+        "event": "Women Indoor Pentathlon",
+        "swing": 0,
+        "teams": 0
+      }
+    ]
+  },
+  "men": {
+    "team_scores": [
+      {
+        "team": "Florida",
+        "actual": 0.0,
+        "seed_projection": 34.5,
+        "ceiling": 34.0,
+        "mc_forecast": 34.5,
+        "premeet_projection": 35,
+        "win_probability": 37.0,
+        "top4_probability": 82.5,
+        "events_scored": []
+      },
+      {
+        "team": "Oregon",
+        "actual": 0.0,
+        "seed_projection": 32.0,
+        "ceiling": 34.0,
+        "mc_forecast": 32.0,
+        "premeet_projection": 39,
+        "win_probability": 18.3,
+        "top4_probability": 68.5,
+        "events_scored": []
+      },
+      {
+        "team": "Oklahoma",
+        "actual": 0.0,
+        "seed_projection": 30.5,
+        "ceiling": 30.0,
+        "mc_forecast": 28.5,
+        "premeet_projection": 24,
+        "win_probability": 3.1,
+        "top4_probability": 40.1,
+        "events_scored": []
+      },
+      {
+        "team": "Arkansas",
+        "actual": 0.0,
+        "seed_projection": 30.0,
+        "ceiling": 35.0,
+        "mc_forecast": 32.4,
+        "premeet_projection": 35,
+        "win_probability": 24.1,
+        "top4_probability": 70.0,
+        "events_scored": []
+      },
+      {
+        "team": "Tennessee",
+        "actual": 19.5,
+        "seed_projection": 30.0,
+        "ceiling": 32.5,
+        "mc_forecast": 32.4,
+        "premeet_projection": 20,
+        "win_probability": 13.9,
+        "top4_probability": 77.1,
+        "events_scored": [
+          "Men Pole Vault (14.625pt)",
+          "Men Weight Throw (4.875pt)"
+        ]
+      },
+      {
+        "team": "Texas Tech",
+        "actual": 0.0,
+        "seed_projection": 27.0,
+        "ceiling": 29.0,
+        "mc_forecast": 25.2,
+        "premeet_projection": 27,
+        "win_probability": 0.7,
+        "top4_probability": 15.6,
+        "events_scored": []
+      },
+      {
+        "team": "Kansas State",
+        "actual": 4.9,
+        "seed_projection": 26.4,
+        "ceiling": 28.9,
+        "mc_forecast": 27.0,
+        "premeet_projection": 23,
+        "win_probability": 1.8,
+        "top4_probability": 25.6,
+        "events_scored": [
+          "Men Weight Throw (4.875pt)"
+        ]
+      },
+      {
+        "team": "Penn State",
+        "actual": 0.0,
+        "seed_projection": 24.0,
+        "ceiling": 28.0,
+        "mc_forecast": 25.1,
+        "premeet_projection": 25,
+        "win_probability": 1.1,
+        "top4_probability": 15.2,
+        "events_scored": []
+      },
+      {
+        "team": "Villanova",
+        "actual": 0.0,
+        "seed_projection": 24.0,
+        "ceiling": 23.0,
+        "mc_forecast": 20.9,
+        "premeet_projection": 23,
+        "win_probability": 0.0,
+        "top4_probability": 0.7,
+        "events_scored": []
+      },
+      {
+        "team": "Texas A&M",
+        "actual": 9.8,
+        "seed_projection": 22.2,
+        "ceiling": 22.8,
+        "mc_forecast": 22.7,
+        "premeet_projection": 22,
+        "win_probability": 0.1,
+        "top4_probability": 4.3,
+        "events_scored": [
+          "Men Pole Vault (4.875pt)",
+          "Men Weight Throw (4.875pt)"
+        ]
+      },
+      {
+        "team": "Georgia",
+        "actual": 0.0,
+        "seed_projection": 21.0,
+        "ceiling": 21.0,
+        "mc_forecast": 18.0,
+        "premeet_projection": 19,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Virginia Tech",
+        "actual": 0.0,
+        "seed_projection": 20.0,
+        "ceiling": 20.0,
+        "mc_forecast": 18.7,
+        "premeet_projection": 16,
+        "win_probability": 0.0,
+        "top4_probability": 0.1,
+        "events_scored": []
+      },
+      {
+        "team": "Ole Miss",
+        "actual": 4.9,
+        "seed_projection": 17.9,
+        "ceiling": 17.9,
+        "mc_forecast": 16.3,
+        "premeet_projection": 18,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Weight Throw (4.875pt)"
+        ]
+      },
+      {
+        "team": "Washington",
+        "actual": 4.9,
+        "seed_projection": 17.9,
+        "ceiling": 17.9,
+        "mc_forecast": 18.2,
+        "premeet_projection": 19,
+        "win_probability": 0.0,
+        "top4_probability": 0.4,
+        "events_scored": [
+          "Men Pole Vault (4.875pt)"
+        ]
+      },
+      {
+        "team": "Virginia",
+        "actual": 9.8,
+        "seed_projection": 16.8,
+        "ceiling": 16.8,
+        "mc_forecast": 16.7,
+        "premeet_projection": 22,
+        "win_probability": 0.0,
+        "top4_probability": 0.1,
+        "events_scored": [
+          "Men Weight Throw (9.75pt)"
+        ]
+      },
+      {
+        "team": "Auburn",
+        "actual": 0.0,
+        "seed_projection": 15.5,
+        "ceiling": 16.0,
+        "mc_forecast": 14.8,
+        "premeet_projection": 17,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Alabama",
+        "actual": 0.0,
+        "seed_projection": 14.0,
+        "ceiling": 14.0,
+        "mc_forecast": 13.4,
+        "premeet_projection": 14,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "USC",
+        "actual": 0.0,
+        "seed_projection": 14.0,
+        "ceiling": 14.0,
+        "mc_forecast": 12.4,
+        "premeet_projection": 14,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "South Carolina",
+        "actual": 0.0,
+        "seed_projection": 13.5,
+        "ceiling": 15.0,
+        "mc_forecast": 12.9,
+        "premeet_projection": 13,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Texas",
+        "actual": 0.0,
+        "seed_projection": 13.5,
+        "ceiling": 13.0,
+        "mc_forecast": 13.4,
+        "premeet_projection": 13,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "New Mexico",
+        "actual": 0.0,
+        "seed_projection": 13.0,
+        "ceiling": 14.0,
+        "mc_forecast": 12.8,
+        "premeet_projection": 14,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Michigan",
+        "actual": 0.0,
+        "seed_projection": 12.0,
+        "ceiling": 12.0,
+        "mc_forecast": 10.6,
+        "premeet_projection": 11,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "North Carolina",
+        "actual": 0.0,
+        "seed_projection": 10.0,
+        "ceiling": 10.0,
+        "mc_forecast": 9.5,
+        "premeet_projection": 10,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Samford",
+        "actual": 0.0,
+        "seed_projection": 10.0,
+        "ceiling": 10.0,
+        "mc_forecast": 8.5,
+        "premeet_projection": 10,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Georgetown",
+        "actual": 0.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 7.3,
+        "premeet_projection": 8,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Princeton",
+        "actual": 0.0,
+        "seed_projection": 8.0,
+        "ceiling": 11.0,
+        "mc_forecast": 7.9,
+        "premeet_projection": 8,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Iowa",
+        "actual": 4.9,
+        "seed_projection": 7.9,
+        "ceiling": 9.9,
+        "mc_forecast": 8.4,
+        "premeet_projection": 13,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Weight Throw (4.875pt)"
+        ]
+      },
+      {
+        "team": "Kentucky",
+        "actual": 0.0,
+        "seed_projection": 7.5,
+        "ceiling": 7.0,
+        "mc_forecast": 7.6,
+        "premeet_projection": 6,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Arizona State",
+        "actual": 0.0,
+        "seed_projection": 7.0,
+        "ceiling": 7.0,
+        "mc_forecast": 7.2,
+        "premeet_projection": 8,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "BYU",
+        "actual": 0.0,
+        "seed_projection": 7.0,
+        "ceiling": 9.0,
+        "mc_forecast": 8.0,
+        "premeet_projection": 9,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Indiana",
+        "actual": 0.0,
+        "seed_projection": 7.0,
+        "ceiling": 7.0,
+        "mc_forecast": 7.0,
+        "premeet_projection": 6,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Ohio State",
+        "actual": 0.0,
+        "seed_projection": 6.0,
+        "ceiling": 7.0,
+        "mc_forecast": 6.3,
+        "premeet_projection": 6,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Oklahoma State",
+        "actual": 0.0,
+        "seed_projection": 6.0,
+        "ceiling": 7.0,
+        "mc_forecast": 6.2,
+        "premeet_projection": 6,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Arizona",
+        "actual": 0.0,
+        "seed_projection": 5.5,
+        "ceiling": 5.0,
+        "mc_forecast": 5.1,
+        "premeet_projection": 5,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "LSU",
+        "actual": 0.0,
+        "seed_projection": 5.5,
+        "ceiling": 7.0,
+        "mc_forecast": 6.6,
+        "premeet_projection": 12,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Cornell",
+        "actual": 0.0,
+        "seed_projection": 5.0,
+        "ceiling": 5.0,
+        "mc_forecast": 5.1,
+        "premeet_projection": 3,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Miss State",
+        "actual": 0.0,
+        "seed_projection": 5.0,
+        "ceiling": 5.0,
+        "mc_forecast": 5.1,
+        "premeet_projection": 5,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Northern Arizona",
+        "actual": 0.0,
+        "seed_projection": 5.0,
+        "ceiling": 6.0,
+        "mc_forecast": 5.4,
+        "premeet_projection": 5,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "High Point",
+        "actual": 4.9,
+        "seed_projection": 4.9,
+        "ceiling": 4.9,
+        "mc_forecast": 4.9,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Pole Vault (4.875pt)"
+        ]
+      },
+      {
+        "team": "Missouri",
+        "actual": 4.9,
+        "seed_projection": 4.9,
+        "ceiling": 4.9,
+        "mc_forecast": 4.9,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Weight Throw (4.875pt)"
+        ]
+      },
+      {
+        "team": "Rutgers",
+        "actual": 4.9,
+        "seed_projection": 4.9,
+        "ceiling": 4.9,
+        "mc_forecast": 4.9,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Pole Vault (4.875pt)"
+        ]
+      },
+      {
+        "team": "Utah State",
+        "actual": 4.9,
+        "seed_projection": 4.9,
+        "ceiling": 4.9,
+        "mc_forecast": 4.9,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Pole Vault (4.875pt)"
+        ]
+      },
+      {
+        "team": "Baylor",
+        "actual": 0.0,
+        "seed_projection": 4.5,
+        "ceiling": 6.0,
+        "mc_forecast": 6.0,
+        "premeet_projection": 5,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Gardner-Webb",
+        "actual": 0.0,
+        "seed_projection": 4.0,
+        "ceiling": 4.0,
+        "mc_forecast": 4.1,
+        "premeet_projection": 4,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Louisville",
+        "actual": 0.0,
+        "seed_projection": 4.0,
+        "ceiling": 4.0,
+        "mc_forecast": 4.0,
+        "premeet_projection": 12,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Nebraska",
+        "actual": 0.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.1,
+        "premeet_projection": 9,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Clemson",
+        "actual": 0.0,
+        "seed_projection": 2.0,
+        "ceiling": 2.0,
+        "mc_forecast": 2.2,
+        "premeet_projection": 2,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Illinois",
+        "actual": 0.0,
+        "seed_projection": 2.0,
+        "ceiling": 3.0,
+        "mc_forecast": 2.3,
+        "premeet_projection": 14,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Miami (Fla.)",
+        "actual": 0.0,
+        "seed_projection": 1.5,
+        "ceiling": 4.0,
+        "mc_forecast": 2.2,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Texas State",
+        "actual": 0.0,
+        "seed_projection": 1.5,
+        "ceiling": 1.0,
+        "mc_forecast": 2.1,
+        "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Tarleton State",
+        "actual": 0.0,
+        "seed_projection": 1.0,
+        "ceiling": 2.0,
+        "mc_forecast": 1.4,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Wisconsin",
+        "actual": 0.0,
+        "seed_projection": 1.0,
+        "ceiling": 1.0,
+        "mc_forecast": 1.4,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Air Force",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 1.0,
+        "mc_forecast": 0.3,
+        "premeet_projection": 6,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Colorado",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 1.0,
+        "mc_forecast": 0.1,
+        "premeet_projection": 8,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Houston",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 2.0,
+        "mc_forecast": 0.5,
+        "premeet_projection": 6,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Kansas",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 3,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "North Dakota State",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 2,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Northern Iowa",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 5,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      }
+    ],
+    "completed_finals": 2,
+    "total_finals": 17,
+    "events": [
+      {
+        "event_name": "Men 1 Mile Run",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/005-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/005-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "5:20 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Elliott Cook",
+            "team": "Oregon",
+            "year": "SR",
+            "seed": "3:52.32"
+          },
+          {
+            "name": "Thomas Diamond",
+            "team": "Washington",
+            "year": "JR",
+            "seed": "3:52.49"
+          },
+          {
+            "name": "George Couttie",
+            "team": "Virginia Tech",
+            "year": "JR",
+            "seed": "3:52.02"
+          },
+          {
+            "name": "Jaouad Khchina",
+            "team": "South Carolina",
+            "year": "JR",
+            "seed": "3:53.90"
+          },
+          {
+            "name": "Justine Kipkoech",
+            "team": "Colorado",
+            "year": "JR",
+            "seed": "3:58.87"
+          },
+          {
+            "name": "Paul Specht",
+            "team": "Wake Forest",
+            "year": "SR",
+            "seed": "3:52.95"
+          },
+          {
+            "name": "Tomas Palfrey",
+            "team": "Oregon",
+            "year": "SR",
+            "seed": "3:53.86"
+          },
+          {
+            "name": "Gary Martin",
+            "team": "Virginia",
+            "year": "SR",
+            "seed": "3:52.62"
+          },
+          {
+            "name": "Trent McFarland",
+            "team": "Michigan",
+            "year": "JR",
+            "seed": "3:52.73"
+          },
+          {
+            "name": "Carter Cutting",
+            "team": "BYU",
+            "year": "JR",
+            "seed": "3:52.84"
+          },
+          {
+            "name": "Matthew Endrody",
+            "team": "New Mexico",
+            "year": "SO",
+            "seed": "3:58.85"
+          },
+          {
+            "name": "Connor McCormick",
+            "team": "Princeton",
+            "year": "SR",
+            "seed": "3:54.35"
+          },
+          {
+            "name": "Isaiah Givens",
+            "team": "Colorado",
+            "year": "JR",
+            "seed": "3:57.52"
+          },
+          {
+            "name": "Reuben Reina",
+            "team": "Washington",
+            "year": "SR",
+            "seed": "3:52.37"
+          },
+          {
+            "name": "Pierre Attiogbe",
+            "team": "Cornell",
+            "year": "JR",
+            "seed": "3:52.44"
+          },
+          {
+            "name": "Tor Hotung-Davidsen",
+            "team": "Northern Arizona",
+            "year": "SR",
+            "seed": "4:02.31"
+          }
+        ],
+        "seed_projection": {
+          "Virginia Tech": 10.0,
+          "Oregon": 8.0,
+          "Washington": 10.0,
+          "Cornell": 5.0,
+          "Virginia": 3.0,
+          "Michigan": 2.0,
+          "BYU": 1.0
+        }
+      },
+      {
+        "event_name": "Men 200 Meter Dash",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/002-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/002-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "8:00 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Jalen Johnson",
+            "team": "Clemson",
+            "year": "SO",
+            "seed": "20.58"
+          },
+          {
+            "name": "Dapriest Hogans",
+            "team": "Arkansas",
+            "year": "SR",
+            "seed": "20.63"
+          },
+          {
+            "name": "Tyson Williams",
+            "team": "South Carolina",
+            "year": "SO",
+            "seed": "20.47"
+          },
+          {
+            "name": "Amir Thompson",
+            "team": "Arizona State",
+            "year": "SO",
+            "seed": "20.40"
+          },
+          {
+            "name": "Tevijon Williams",
+            "team": "Arkansas",
+            "year": "SR",
+            "seed": "20.56"
+          },
+          {
+            "name": "Jaiden Reid",
+            "team": "LSU",
+            "year": "JR",
+            "seed": "20.62"
+          },
+          {
+            "name": "Auhmad Robinson",
+            "team": "Texas A&M",
+            "year": "SR",
+            "seed": "20.33"
+          },
+          {
+            "name": "Denzel Simusialela",
+            "team": "Kentucky",
+            "year": "JR",
+            "seed": "20.47"
+          },
+          {
+            "name": "Kamron Neal",
+            "team": "Texas Tech",
+            "year": "JR",
+            "seed": "20.47"
+          },
+          {
+            "name": "Ian Dossman",
+            "team": "Cal St. Fullerton",
+            "year": "JR",
+            "seed": "20.54"
+          },
+          {
+            "name": "Trelee Banks",
+            "team": "Indiana",
+            "year": "SR",
+            "seed": "20.37"
+          },
+          {
+            "name": "Wanya McCoy",
+            "team": "Florida",
+            "year": "SR",
+            "seed": "20.31"
+          },
+          {
+            "name": "Davonte Howell",
+            "team": "Tennessee",
+            "year": "JR",
+            "seed": "20.58"
+          },
+          {
+            "name": "Ajani Dwyer",
+            "team": "Penn State",
+            "year": "SO",
+            "seed": "20.51"
+          },
+          {
+            "name": "Jelani Watkins",
+            "team": "Arkansas",
+            "year": "SO",
+            "seed": "20.28"
+          },
+          {
+            "name": "Garrett Kaalund",
+            "team": "USC",
+            "year": "SR",
+            "seed": "20.06"
+          }
+        ],
+        "seed_projection": {
+          "USC": 10.0,
+          "Arkansas": 8.0,
+          "Florida": 6.0,
+          "Texas A&M": 5.0,
+          "Indiana": 4.0,
+          "Arizona State": 3.0,
+          "South Carolina": 1.5,
+          "Kentucky": 1.5
+        }
+      },
+      {
+        "event_name": "Men 3000 Meter Run",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/006-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/006-1_start.htm",
+        "scores_url": null,
+        "day": "Saturday",
+        "start_time": "6:25 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Benjamin Balazs",
+            "team": "Oregon",
+            "year": "JR",
+            "seed": "7:39.31"
+          },
+          {
+            "name": "Taha Er Raouy",
+            "team": "Eastern Kentucky",
+            "year": "JR",
+            "seed": "7:40.56"
+          },
+          {
+            "name": "George Couttie",
+            "team": "Virginia Tech",
+            "year": "JR",
+            "seed": "7:36.74"
+          },
+          {
+            "name": "Connor Burns",
+            "team": "Oregon",
+            "year": "SO",
+            "seed": "7:40.80"
+          },
+          {
+            "name": "Colton Sands",
+            "team": "North Carolina",
+            "year": "SR",
+            "seed": "7:34.05"
+          },
+          {
+            "name": "Jesse Hamlin",
+            "team": "Butler",
+            "year": "SR",
+            "seed": "7:39.70"
+          },
+          {
+            "name": "Tayvon Kitchen",
+            "team": "BYU",
+            "year": "FR",
+            "seed": "7:36.23"
+          },
+          {
+            "name": "Reuben Reina",
+            "team": "Washington",
+            "year": "SR",
+            "seed": "7:42.02"
+          },
+          {
+            "name": "Tomas Palfrey",
+            "team": "Oregon",
+            "year": "SR",
+            "seed": "7:39.03"
+          },
+          {
+            "name": "Isaac Hedengren",
+            "team": "BYU",
+            "year": "JR",
+            "seed": "7:41.48"
+          },
+          {
+            "name": "Marco Langon",
+            "team": "Villanova",
+            "year": "JR",
+            "seed": "7:34.00"
+          },
+          {
+            "name": "Ernest Cheruiyot",
+            "team": "Arkansas",
+            "year": "JR",
+            "seed": "7:40.53"
+          },
+          {
+            "name": "Simeon Birnbaum",
+            "team": "Oregon",
+            "year": "SO",
+            "seed": "7:39.65"
+          },
+          {
+            "name": "Colin Sahlman",
+            "team": "Northern Arizona",
+            "year": "SR",
+            "seed": "7:36.71"
+          },
+          {
+            "name": "Habtom Samuel",
+            "team": "New Mexico",
+            "year": "JR",
+            "seed": "7:37.44"
+          },
+          {
+            "name": "Elliott Cook",
+            "team": "Oregon",
+            "year": "SR",
+            "seed": "7:41.57"
+          }
+        ],
+        "seed_projection": {
+          "Villanova": 10.0,
+          "North Carolina": 8.0,
+          "BYU": 6.0,
+          "Northern Arizona": 5.0,
+          "Virginia Tech": 4.0,
+          "New Mexico": 3.0,
+          "Oregon": 3.0
+        }
+      },
+      {
+        "event_name": "Men 400 Meter Dash",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/003-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/003-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "6:10 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Jack Stadlman",
+            "team": "USC",
+            "year": "FR",
+            "seed": "45.51"
+          },
+          {
+            "name": "Andrew Salvodon",
+            "team": "South Carolina",
+            "year": "FR",
+            "seed": "45.44"
+          },
+          {
+            "name": "Samuel Vessat",
+            "team": "Purdue",
+            "year": "SO",
+            "seed": "45.38"
+          },
+          {
+            "name": "Jayden Horton-Mims",
+            "team": "Florida",
+            "year": "FR",
+            "seed": "45.36"
+          },
+          {
+            "name": "Jayden Davis",
+            "team": "Arizona State",
+            "year": "JR",
+            "seed": "45.31"
+          },
+          {
+            "name": "Edidiong Udo",
+            "team": "Ohio State",
+            "year": "SO",
+            "seed": "45.60"
+          },
+          {
+            "name": "Jake Palermo",
+            "team": "Penn State",
+            "year": "SO",
+            "seed": "45.33"
+          },
+          {
+            "name": "Josiah Wrice",
+            "team": "South Carolina",
+            "year": "SO",
+            "seed": "45.34"
+          },
+          {
+            "name": "Ace Malone",
+            "team": "Miami (Fla.)",
+            "year": "JR",
+            "seed": "45.41"
+          },
+          {
+            "name": "Grant Holliday",
+            "team": "Clemson",
+            "year": "SO",
+            "seed": "45.49"
+          },
+          {
+            "name": "Justin Braun",
+            "team": "Florida",
+            "year": "JR",
+            "seed": "45.30"
+          },
+          {
+            "name": "Jordan Pierre",
+            "team": "Arkansas",
+            "year": "JR",
+            "seed": "45.06"
+          },
+          {
+            "name": "Lawson Jacobs",
+            "team": "Texas A&M",
+            "year": "SO",
+            "seed": "45.37"
+          },
+          {
+            "name": "Devyn Wright",
+            "team": "Arkansas",
+            "year": "SO",
+            "seed": "45.38"
+          },
+          {
+            "name": "Samuel Ogazi",
+            "team": "Alabama",
+            "year": "JR",
+            "seed": "44.72"
+          },
+          {
+            "name": "Jonathan Simms",
+            "team": "Georgia",
+            "year": "FR",
+            "seed": "44.62"
+          }
+        ],
+        "seed_projection": {
+          "Georgia": 10.0,
+          "Alabama": 8.0,
+          "Arkansas": 6.0,
+          "Florida": 6.0,
+          "Arizona State": 4.0,
+          "Penn State": 3.0,
+          "South Carolina": 2.0
+        }
+      },
+      {
+        "event_name": "Men 4x400 Meter Relay",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/009-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/009-1_start.htm",
+        "scores_url": null,
+        "day": "Saturday",
+        "start_time": "6:55 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "team": "Miami (Fla.)",
+            "seed": "3:04.11"
+          },
+          {
+            "team": "Ohio State",
+            "seed": "3:03.87"
+          },
+          {
+            "team": "Arkansas",
+            "seed": "3:03.40"
+          },
+          {
+            "team": "Princeton",
+            "seed": "3:03.56"
+          },
+          {
+            "team": "Georgia",
+            "seed": "3:03.10"
+          },
+          {
+            "team": "LSU",
+            "seed": "3:03.05"
+          },
+          {
+            "team": "Texas A&M",
+            "seed": "3:02.71"
+          },
+          {
+            "team": "USC",
+            "seed": "3:02.55"
+          },
+          {
+            "team": "Tennessee",
+            "seed": "3:02.46"
+          },
+          {
+            "team": "Alabama",
+            "seed": "3:02.29"
+          },
+          {
+            "team": "South Carolina",
+            "seed": "3:00.86"
+          },
+          {
+            "team": "Florida",
+            "seed": "3:02.15"
+          }
+        ],
+        "seed_projection": {
+          "South Carolina": 10.0,
+          "Florida": 8.0,
+          "Alabama": 6.0,
+          "Tennessee": 5.0,
+          "USC": 4.0,
+          "Texas A&M": 3.0,
+          "LSU": 2.0,
+          "Georgia": 1.0
+        }
+      },
+      {
+        "event_name": "Men 5000 Meter Run",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/007-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/007-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "7:25 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Elsingi Kipruto",
+            "team": "Louisville",
+            "year": "FR",
+            "seed": "13:15.74"
+          },
+          {
+            "name": "Creed Thompson",
+            "team": "BYU",
+            "year": "SR",
+            "seed": "13:21.43"
+          },
+          {
+            "name": "Colton Sands",
+            "team": "North Carolina",
+            "year": "SR",
+            "seed": "13:17.88"
+          },
+          {
+            "name": "Rodgers Kiplimo",
+            "team": "Iowa State",
+            "year": "JR",
+            "seed": "13:18.35"
+          },
+          {
+            "name": "Ernest Cheruiyot",
+            "team": "Arkansas",
+            "year": "JR",
+            "seed": "13:17.48"
+          },
+          {
+            "name": "Denis Kipngetich",
+            "team": "Oklahoma State",
+            "year": "JR",
+            "seed": "13:12.91"
+          },
+          {
+            "name": "Myles Hogan",
+            "team": "Princeton",
+            "year": "SR",
+            "seed": "13:21.57"
+          },
+          {
+            "name": "Robin Kwemoi Bera",
+            "team": "Iowa State",
+            "year": "SO",
+            "seed": "13:18.72"
+          },
+          {
+            "name": "Abdel Laadjel",
+            "team": "Oregon",
+            "year": "SR",
+            "seed": "13:24.17"
+          },
+          {
+            "name": "Habtom Samuel",
+            "team": "New Mexico",
+            "year": "JR",
+            "seed": "13:05.21"
+          },
+          {
+            "name": "Dismus Lokira",
+            "team": "Alabama",
+            "year": "SO",
+            "seed": "13:21.54"
+          },
+          {
+            "name": "Evan Jenkins",
+            "team": "Washington",
+            "year": "JR",
+            "seed": "13:22.28"
+          },
+          {
+            "name": "Tayvon Kitchen",
+            "team": "BYU",
+            "year": "FR",
+            "seed": "13:19.17"
+          },
+          {
+            "name": "Kelvin Cheruiyot",
+            "team": "Florida",
+            "year": "FR",
+            "seed": "13:15.57"
+          },
+          {
+            "name": "Evans Kiplagat",
+            "team": "New Mexico",
+            "year": "JR",
+            "seed": "13:18.05"
+          },
+          {
+            "name": "Marco Langon",
+            "team": "Villanova",
+            "year": "JR",
+            "seed": "13:05.21"
+          }
+        ],
+        "seed_projection": {
+          "New Mexico": 10.0,
+          "Villanova": 9.0,
+          "Oklahoma State": 6.0,
+          "Florida": 5.0,
+          "Louisville": 4.0,
+          "Arkansas": 3.0,
+          "North Carolina": 2.0
+        }
+      },
+      {
+        "event_name": "Men 60 Meter Dash",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/001-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/001-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "5:45 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Chance Cross",
+            "team": "Kennesaw State",
+            "year": "SR",
+            "seed": "6.54"
+          },
+          {
+            "name": "Omari Lewis",
+            "team": "Auburn",
+            "year": "SR",
+            "seed": "6.58"
+          },
+          {
+            "name": "Davonte Howell",
+            "team": "Tennessee",
+            "year": "JR",
+            "seed": "6.49"
+          },
+          {
+            "name": "Malachi Snow",
+            "team": "Texas Tech",
+            "year": "JR",
+            "seed": "6.46"
+          },
+          {
+            "name": "Ajani Dwyer",
+            "team": "Penn State",
+            "year": "SO",
+            "seed": "6.52"
+          },
+          {
+            "name": "Israel Okon",
+            "team": "Auburn",
+            "year": "SO",
+            "seed": "6.53"
+          },
+          {
+            "name": "Kalen Walker",
+            "team": "Iowa",
+            "year": "SR",
+            "seed": "6.54"
+          },
+          {
+            "name": "Ayodele Ojo",
+            "team": "Utah State",
+            "year": "SO",
+            "seed": "6.55"
+          },
+          {
+            "name": "Eddie Nketia",
+            "team": "USC",
+            "year": "JR",
+            "seed": "6.55"
+          },
+          {
+            "name": "Darwin Jimenez",
+            "team": "Iowa",
+            "year": "JR",
+            "seed": "6.52"
+          },
+          {
+            "name": "Mason Lawyer",
+            "team": "Arizona",
+            "year": "SR",
+            "seed": "6.49"
+          },
+          {
+            "name": "Karabo Letebele",
+            "team": "Arkansas",
+            "year": "FR",
+            "seed": "6.53"
+          },
+          {
+            "name": "Kanyinsola Ajayi",
+            "team": "Auburn",
+            "year": "JR",
+            "seed": "6.45"
+          },
+          {
+            "name": "Jelani Watkins",
+            "team": "Arkansas",
+            "year": "SO",
+            "seed": "6.52"
+          },
+          {
+            "name": "Jaiden Reid",
+            "team": "LSU",
+            "year": "JR",
+            "seed": "6.56"
+          },
+          {
+            "name": "JayBrion Jones",
+            "team": "Tarleton State",
+            "year": "FR",
+            "seed": "6.54"
+          }
+        ],
+        "seed_projection": {
+          "Auburn": 11.0,
+          "Texas Tech": 8.0,
+          "Tennessee": 5.5,
+          "Arizona": 5.5,
+          "Penn State": 3.0,
+          "Iowa": 3.0,
+          "Arkansas": 3.0
+        }
+      },
+      {
+        "event_name": "Men 60 Meter Hurdles",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/008-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/008-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "6:55 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Jason Holmes",
+            "team": "N. Carolina A&T",
+            "year": "JR",
+            "seed": "7.55"
+          },
+          {
+            "name": "Jamar Marshall Jr.",
+            "team": "Houston",
+            "year": "SR",
+            "seed": "7.54"
+          },
+          {
+            "name": "Demario Prince",
+            "team": "Baylor",
+            "year": "JR",
+            "seed": "7.46"
+          },
+          {
+            "name": "Malachi Snow",
+            "team": "Texas Tech",
+            "year": "JR",
+            "seed": "7.43"
+          },
+          {
+            "name": "Jerome Campbell",
+            "team": "Arkansas",
+            "year": "SR",
+            "seed": "7.48"
+          },
+          {
+            "name": "Ja'Kobe Tharp",
+            "team": "Auburn",
+            "year": "JR",
+            "seed": "7.46"
+          },
+          {
+            "name": "Abdoul Sysavane",
+            "team": "Arkansas",
+            "year": "FR",
+            "seed": "7.55"
+          },
+          {
+            "name": "Jamir Brown",
+            "team": "Syracuse",
+            "year": "SO",
+            "seed": "7.56"
+          },
+          {
+            "name": "Christopher Serrao",
+            "team": "Rutgers",
+            "year": "JR",
+            "seed": "7.55"
+          },
+          {
+            "name": "Le'Ezra Brown",
+            "team": "Georgia",
+            "year": "FR",
+            "seed": "7.57"
+          },
+          {
+            "name": "Bradley Franklin",
+            "team": "Samford",
+            "year": "SO",
+            "seed": "7.41"
+          },
+          {
+            "name": "Kendrick Smallwood",
+            "team": "Texas",
+            "year": "SR",
+            "seed": "7.46"
+          },
+          {
+            "name": "Ja'Qualon Scott",
+            "team": "Texas A&M",
+            "year": "SR",
+            "seed": "7.46"
+          },
+          {
+            "name": "Antoine Andrews",
+            "team": "Texas Tech",
+            "year": "SR",
+            "seed": "7.49"
+          },
+          {
+            "name": "Andre Korbmacher",
+            "team": "Florida State",
+            "year": "JR",
+            "seed": "7.55"
+          },
+          {
+            "name": "Vashaun Vascianna",
+            "team": "Arkansas",
+            "year": "SR",
+            "seed": "7.53"
+          }
+        ],
+        "seed_projection": {
+          "Samford": 10.0,
+          "Texas Tech": 9.0,
+          "Baylor": 4.5,
+          "Auburn": 4.5,
+          "Texas": 4.5,
+          "Texas A&M": 4.5,
+          "Arkansas": 2.0
+        }
+      },
+      {
+        "event_name": "Men 800 Meter Run",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/004-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/004-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "6:35 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "James Harding",
+            "team": "Oregon",
+            "year": "JR",
+            "seed": "1:46.44"
+          },
+          {
+            "name": "Yukichi Ishii",
+            "team": "Penn State",
+            "year": "SR",
+            "seed": "1:46.37"
+          },
+          {
+            "name": "Landon Bott",
+            "team": "Utah State",
+            "year": "JR",
+            "seed": "1:47.79"
+          },
+          {
+            "name": "Rivaldo Marshall",
+            "team": "Arkansas",
+            "year": "SR",
+            "seed": "1:45.62"
+          },
+          {
+            "name": "Niko Schultz",
+            "team": "Penn State",
+            "year": "SR",
+            "seed": "1:46.53"
+          },
+          {
+            "name": "Brian Kweyei",
+            "team": "Clemson",
+            "year": "JR",
+            "seed": "1:46.02"
+          },
+          {
+            "name": "Handal Roban",
+            "team": "Penn State",
+            "year": "JR",
+            "seed": "1:44.73"
+          },
+          {
+            "name": "Tyrice Taylor",
+            "team": "Arkansas",
+            "year": "SR",
+            "seed": "1:46.11"
+          },
+          {
+            "name": "Camden Marshall",
+            "team": "Indiana",
+            "year": "SR",
+            "seed": "1:45.99"
+          },
+          {
+            "name": "Peter Narumbe",
+            "team": "Texas A&M",
+            "year": "FR",
+            "seed": "1:46.13"
+          },
+          {
+            "name": "Matthew Erickson",
+            "team": "Oregon",
+            "year": "SR",
+            "seed": "1:45.93"
+          },
+          {
+            "name": "Tinoda Matsatsa",
+            "team": "Georgetown",
+            "year": "JR",
+            "seed": "1:45.12"
+          },
+          {
+            "name": "Miguel Pantojas",
+            "team": "Florida",
+            "year": "JR",
+            "seed": "1:46.49"
+          },
+          {
+            "name": "Allon Clay",
+            "team": "Penn State",
+            "year": "SR",
+            "seed": "1:45.17"
+          },
+          {
+            "name": "Tyler Edson",
+            "team": "Virginia",
+            "year": "JR",
+            "seed": "1:46.48"
+          },
+          {
+            "name": "Joseph Socarras",
+            "team": "Penn",
+            "year": "FR",
+            "seed": "1:46.28"
+          }
+        ],
+        "seed_projection": {
+          "Penn State": 16.0,
+          "Georgetown": 8.0,
+          "Arkansas": 6.0,
+          "Oregon": 4.0,
+          "Indiana": 3.0,
+          "Clemson": 2.0
+        }
+      },
+      {
+        "event_name": "Men Distance Medley",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/010-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/010-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "8:30 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "team": "Arkansas",
+            "seed": "9:17.30"
+          },
+          {
+            "team": "Northern Arizona",
+            "seed": "9:26.58"
+          },
+          {
+            "team": "Penn State",
+            "seed": "9:18.58"
+          },
+          {
+            "team": "Oregon",
+            "seed": "9:14.88"
+          },
+          {
+            "team": "Virginia Tech",
+            "seed": "9:15.05"
+          },
+          {
+            "team": "BYU",
+            "seed": "9:28.60"
+          },
+          {
+            "team": "Virginia",
+            "seed": "9:16.75"
+          },
+          {
+            "team": "Villanova",
+            "seed": "9:16.10"
+          },
+          {
+            "team": "Michigan",
+            "seed": "9:14.80"
+          },
+          {
+            "team": "Colorado",
+            "seed": "9:28.63"
+          },
+          {
+            "team": "Washington",
+            "seed": "9:17.03"
+          },
+          {
+            "team": "Wisconsin",
+            "seed": "9:18.44"
+          }
+        ],
+        "seed_projection": {
+          "Michigan": 10.0,
+          "Oregon": 8.0,
+          "Virginia Tech": 6.0,
+          "Villanova": 5.0,
+          "Virginia": 4.0,
+          "Washington": 3.0,
+          "Arkansas": 2.0,
+          "Wisconsin": 1.0
+        }
+      },
+      {
+        "event_name": "Men High Jump",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/011-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/011-1_start.htm",
+        "scores_url": null,
+        "day": "Saturday",
+        "start_time": "1:45 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Alan Hanna",
+            "team": "Kansas State",
+            "year": "FR",
+            "seed": "2.25m"
+          },
+          {
+            "name": "Tyson Ritz",
+            "team": "Oklahoma",
+            "year": "JR",
+            "seed": "2.25m"
+          },
+          {
+            "name": "Kennedy Sauder",
+            "team": "Miami (Fla.)",
+            "year": "SR",
+            "seed": "2.22m"
+          },
+          {
+            "name": "Tshephang Dankuru",
+            "team": "Texas State",
+            "year": "FR",
+            "seed": "2.22m"
+          },
+          {
+            "name": "Arvesta Troupe",
+            "team": "Ole Miss",
+            "year": "SR",
+            "seed": "2.23m"
+          },
+          {
+            "name": "Kyren Washington",
+            "team": "Oklahoma",
+            "year": "JR",
+            "seed": "2.25m"
+          },
+          {
+            "name": "Bradford (BJ) Jennings",
+            "team": "Texas Tech",
+            "year": "SO",
+            "seed": "2.21m"
+          },
+          {
+            "name": "Devin Loudermilk",
+            "team": "Kansas State",
+            "year": "SR",
+            "seed": "2.25m"
+          },
+          {
+            "name": "Brion Stephens",
+            "team": "Georgia",
+            "year": "SR",
+            "seed": "2.20m"
+          },
+          {
+            "name": "Aiden Hayes",
+            "team": "Texas State",
+            "year": "SR",
+            "seed": "2.22m"
+          },
+          {
+            "name": "Trey Bartholomew",
+            "team": "Oklahoma",
+            "year": "SR",
+            "seed": "2.21m"
+          },
+          {
+            "name": "Justine Jimoh",
+            "team": "LSU",
+            "year": "JR",
+            "seed": "2.22m"
+          },
+          {
+            "name": "Antrea Mita",
+            "team": "Houston",
+            "year": "JR",
+            "seed": "2.22m"
+          },
+          {
+            "name": "Scottie Vines",
+            "team": "Arkansas",
+            "year": "SO",
+            "seed": "2.21m"
+          },
+          {
+            "name": "Tito Alofe",
+            "team": "Harvard",
+            "year": "JR",
+            "seed": "2.21m"
+          },
+          {
+            "name": "Kimani Jack",
+            "team": "Georgia",
+            "year": "JR",
+            "seed": "2.28m"
+          }
+        ],
+        "seed_projection": {
+          "Georgia": 10.0,
+          "Kansas State": 11.5,
+          "Oklahoma": 11.5,
+          "Ole Miss": 3.0,
+          "Miami (Fla.)": 1.5,
+          "Texas State": 1.5
+        }
+      },
+      {
+        "event_name": "Men Long Jump",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/013-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/013-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "7:00 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Jordan Turner",
+            "team": "LSU",
+            "year": "SR",
+            "seed": "8.11m"
+          },
+          {
+            "name": "Tafadzwa Chikomba",
+            "team": "Kansas State",
+            "year": "JR",
+            "seed": "8.09m"
+          },
+          {
+            "name": "Kennedy Stringfellow",
+            "team": "Oklahoma",
+            "year": "JR",
+            "seed": "8.29m"
+          },
+          {
+            "name": "Lokesh Sathyanathan",
+            "team": "Tarleton State",
+            "year": "SR",
+            "seed": "8.01m"
+          },
+          {
+            "name": "Greg Foster",
+            "team": "Princeton",
+            "year": "SR",
+            "seed": "8.24m"
+          },
+          {
+            "name": "Cade Gray",
+            "team": "Tennessee",
+            "year": "SR",
+            "seed": "7.97m"
+          },
+          {
+            "name": "Jayden Keys",
+            "team": "Georgia",
+            "year": "SO",
+            "seed": "7.89m"
+          },
+          {
+            "name": "Kelsey Daniel",
+            "team": "Texas",
+            "year": "SR",
+            "seed": "8.21m"
+          },
+          {
+            "name": "Temoso Masikane",
+            "team": "Florida",
+            "year": "FR",
+            "seed": "8.11m"
+          },
+          {
+            "name": "Tyler Nichols",
+            "team": "Southern Miss.",
+            "year": "JR",
+            "seed": "7.90m"
+          },
+          {
+            "name": "Emmanuel Njoku",
+            "team": "Iowa",
+            "year": "SO",
+            "seed": "7.93m"
+          },
+          {
+            "name": "Micah Larry",
+            "team": "Texas A&M",
+            "year": "JR",
+            "seed": "7.86m"
+          },
+          {
+            "name": "Justin Sluijter",
+            "team": "High Point",
+            "year": "JR",
+            "seed": "7.89m"
+          },
+          {
+            "name": "DJ Fillmore",
+            "team": "Ohio State",
+            "year": "JR",
+            "seed": "8.23m"
+          },
+          {
+            "name": "De'Aundre Ward",
+            "team": "Southern Miss.",
+            "year": "SR",
+            "seed": "7.84m"
+          },
+          {
+            "name": "Uroy Ryan",
+            "team": "Kansas State",
+            "year": "JR",
+            "seed": "7.90m"
+          }
+        ],
+        "seed_projection": {
+          "Oklahoma": 10.0,
+          "Princeton": 8.0,
+          "Ohio State": 6.0,
+          "Texas": 5.0,
+          "LSU": 3.5,
+          "Florida": 3.5,
+          "Kansas State": 2.0,
+          "Tarleton State": 1.0
+        }
+      },
+      {
+        "event_name": "Men Pole Vault",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/012-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/012-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "4:45 PM",
+        "status": "final",
+        "results": [
+          {
+            "place": 1,
+            "name": "Kevin O'Sullivan",
+            "team": "Rutgers",
+            "mark": ""
+          },
+          {
+            "place": 1,
+            "name": "Aleksandr Solovev",
+            "team": "Texas A&M",
+            "mark": ""
+          },
+          {
+            "place": 1,
+            "name": "Blake Sifferlin",
+            "team": "Tennessee",
+            "mark": ""
+          },
+          {
+            "place": 1,
+            "name": "Ismaila Sawaneh",
+            "team": "Tennessee",
+            "mark": ""
+          },
+          {
+            "place": 1,
+            "name": "Clarke Byram",
+            "team": "Tennessee",
+            "mark": ""
+          },
+          {
+            "place": 1,
+            "name": "James Rhoads",
+            "team": "Washington",
+            "mark": ""
+          },
+          {
+            "place": 1,
+            "name": "Ricardo Montes de Oca",
+            "team": "High Point",
+            "mark": ""
+          },
+          {
+            "place": 1,
+            "name": "Logan Hammer",
+            "team": "Utah State",
+            "mark": ""
+          },
+          {
+            "place": 1,
+            "name": "Cody Johnston",
+            "team": "Illinois",
+            "mark": ""
+          },
+          {
+            "place": 1,
+            "name": "Brian O'Sullivan",
+            "team": "Rutgers",
+            "mark": ""
+          },
+          {
+            "place": 11,
+            "name": "Cade Gray",
+            "team": "Tennessee",
+            "mark": ""
+          }
+        ],
+        "prelim_results": [],
+        "start_list_entries": []
+      },
+      {
+        "event_name": "Men Shot Put",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/015-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/015-1_start.htm",
+        "scores_url": null,
+        "day": "Saturday",
+        "start_time": "1:00 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Dylan Lambrecht",
+            "team": "Penn State",
+            "year": "SR",
+            "seed": "19.51m"
+          },
+          {
+            "name": "Michael Pinones",
+            "team": "Texas",
+            "year": "JR",
+            "seed": "19.57m"
+          },
+          {
+            "name": "Dillon Morlock",
+            "team": "Michigan State",
+            "year": "SO",
+            "seed": "19.62m"
+          },
+          {
+            "name": "Jarno Van Daalen",
+            "team": "Florida",
+            "year": "FR",
+            "seed": "20.14m"
+          },
+          {
+            "name": "Roury McCloyen",
+            "team": "Miss State",
+            "year": "JR",
+            "seed": "20.11m"
+          },
+          {
+            "name": "Cade Moran",
+            "team": "Nebraska",
+            "year": "SR",
+            "seed": "20.07m"
+          },
+          {
+            "name": "JL Van Rensburg",
+            "team": "Tennessee",
+            "year": "SO",
+            "seed": "19.83m"
+          },
+          {
+            "name": "Quentin Peterson",
+            "team": "Gardner-Webb",
+            "year": "SR",
+            "seed": "20.10m"
+          },
+          {
+            "name": "Joe Licata",
+            "team": "Princeton",
+            "year": "SR",
+            "seed": "19.71m"
+          },
+          {
+            "name": "Tarik Robinson-O'Hagan",
+            "team": "Ole Miss",
+            "year": "SR",
+            "seed": "21.18m"
+          },
+          {
+            "name": "Ryan Henry",
+            "team": "Penn State",
+            "year": "SR",
+            "seed": "19.94m"
+          },
+          {
+            "name": "Ben Smith",
+            "team": "Oregon",
+            "year": "FR",
+            "seed": "19.93m"
+          },
+          {
+            "name": "Texas Tanner",
+            "team": "Air Force",
+            "year": "SR",
+            "seed": "19.83m"
+          },
+          {
+            "name": "Logan Montgomery",
+            "team": "South Carolina",
+            "year": "JR",
+            "seed": "19.64m"
+          },
+          {
+            "name": "Kobe Lawrence",
+            "team": "Oregon",
+            "year": "SO",
+            "seed": "20.16m"
+          },
+          {
+            "name": "Piers Cameron",
+            "team": "Southern Miss.",
+            "year": "SR",
+            "seed": "19.68m"
+          }
+        ],
+        "seed_projection": {
+          "Ole Miss": 10.0,
+          "Oregon": 9.0,
+          "Florida": 6.0,
+          "Miss State": 5.0,
+          "Gardner-Webb": 4.0,
+          "Nebraska": 3.0,
+          "Penn State": 2.0
+        }
+      },
+      {
+        "event_name": "Men Triple Jump",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/014-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/014-1_start.htm",
+        "scores_url": null,
+        "day": "Saturday",
+        "start_time": "5:00 PM",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [
+          {
+            "name": "Temoso Masikane",
+            "team": "Florida",
+            "year": "FR",
+            "seed": "16.35m"
+          },
+          {
+            "name": "Abraham Johnson",
+            "team": "Arkansas",
+            "year": "SO",
+            "seed": "16.32m"
+          },
+          {
+            "name": "Theo Mudzengerere",
+            "team": "Kentucky",
+            "year": "SR",
+            "seed": "16.71m"
+          },
+          {
+            "name": "Jemuel Miller",
+            "team": "UTSA",
+            "year": "JR",
+            "seed": "16.42m"
+          },
+          {
+            "name": "Floyd Whitaker",
+            "team": "Oklahoma",
+            "year": "SR",
+            "seed": "16.44m"
+          },
+          {
+            "name": "Kelsey Daniel",
+            "team": "Texas",
+            "year": "SR",
+            "seed": "16.51m"
+          },
+          {
+            "name": "Jonathan Seremes",
+            "team": "Texas Tech",
+            "year": "JR",
+            "seed": "16.96m"
+          },
+          {
+            "name": "Selva Prabhu",
+            "team": "Kansas State",
+            "year": "SO",
+            "seed": "16.63m"
+          },
+          {
+            "name": "Gilles Ouedraogo",
+            "team": "Liberty",
+            "year": "SO",
+            "seed": "16.18m"
+          },
+          {
+            "name": "Trevon Hamer",
+            "team": "Kansas State",
+            "year": "JR",
+            "seed": "16.47m"
+          },
+          {
+            "name": "Zavien Wolfe",
+            "team": "Illinois",
+            "year": "JR",
+            "seed": "16.46m"
+          },
+          {
+            "name": "Brandon Green Jr",
+            "team": "Oklahoma",
+            "year": "SR",
+            "seed": "16.81m"
+          },
+          {
+            "name": "Aaron Antoine",
+            "team": "Kansas State",
+            "year": "JR",
+            "seed": "16.40m"
+          },
+          {
+            "name": "Viktor Morozov",
+            "team": "Illinois",
+            "year": "SR",
+            "seed": "16.38m"
+          },
+          {
+            "name": "Sterling Scott",
+            "team": "Ole Miss",
+            "year": "JR",
+            "seed": "16.28m"
+          },
+          {
+            "name": "Kevin Kemboi",
+            "team": "Oklahoma State",
+            "year": "FR",
+            "seed": "16.37m"
+          }
+        ],
+        "seed_projection": {
+          "Texas Tech": 10.0,
+          "Oklahoma": 9.0,
+          "Kentucky": 6.0,
+          "Kansas State": 8.0,
+          "Texas": 4.0,
+          "Illinois": 2.0
+        }
+      },
+      {
+        "event_name": "Men Weight Throw",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": false,
+        "result_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/016-1_compiled.htm",
+        "start_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA/016-1_start.htm",
+        "scores_url": null,
+        "day": "Friday",
+        "start_time": "4:00 PM",
+        "status": "final",
+        "results": [
+          {
+            "place": 1,
+            "name": "Ryan Johnson",
+            "team": "Iowa",
+            "mark": ""
+          },
+          {
+            "place": 2,
+            "name": "Jeremiah Nubbe",
+            "team": "Virginia",
+            "mark": ""
+          },
+          {
+            "place": 3,
+            "name": "Tarik Robinson-O'Hagan",
+            "team": "Ole Miss",
+            "mark": ""
+          },
+          {
+            "place": 4,
+            "name": "Keyandre Davis",
+            "team": "Virginia",
+            "mark": ""
+          },
+          {
+            "place": 5,
+            "name": "Henry Zimmerman",
+            "team": "Texas A&M",
+            "mark": ""
+          },
+          {
+            "place": 6,
+            "name": "Sam Innes",
+            "team": "Missouri",
+            "mark": ""
+          },
+          {
+            "place": 7,
+            "name": "Aidan Ifkovits",
+            "team": "Tennessee",
+            "mark": ""
+          },
+          {
+            "place": 8,
+            "name": "Kade McCall",
+            "team": "Kansas State",
+            "mark": ""
+          },
+          {
+            "place": 9,
+            "name": "Nikolaos Polychroniou",
+            "team": "Virginia",
+            "mark": ""
+          },
+          {
+            "place": 10,
+            "name": "Benjamin Pable",
+            "team": "Notre Dame",
+            "mark": ""
+          },
+          {
+            "place": 11,
+            "name": "Grant Milbrath",
+            "team": "SIU Edwardsville",
+            "mark": ""
+          },
+          {
+            "place": 12,
+            "name": "Seamus Malaski",
+            "team": "Purdue",
+            "mark": ""
+          },
+          {
+            "place": 13,
+            "name": "Bryson Smith",
+            "team": "Ole Miss",
+            "mark": ""
+          },
+          {
+            "place": 14,
+            "name": "Texas Tanner",
+            "team": "Air Force",
+            "mark": ""
+          },
+          {
+            "place": 15,
+            "name": "Michael Pinckney",
+            "team": "UCLA",
+            "mark": ""
+          },
+          {
+            "place": 16,
+            "name": "Gary Moore",
+            "team": "Kansas State",
+            "mark": ""
+          }
+        ],
+        "prelim_results": [],
+        "start_list_entries": []
+      },
+      {
+        "event_name": "Men Heptathlon",
+        "gender": "Men",
+        "round_type": "final",
+        "is_multi_event": true,
+        "result_url": "",
+        "start_url": "",
+        "scores_url": null,
+        "day": "",
+        "start_time": "",
+        "status": "scheduled",
+        "results": [],
+        "prelim_results": [],
+        "start_list_entries": [],
+        "seed_projection": {}
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Men Pole Vault",
+        "winner": "Kevin O'Sullivan",
+        "team": "Rutgers",
+        "mark": "",
+        "timestamp": "2026-03-13T22:04:19Z",
+        "points_awarded": {
+          "Rutgers": 4.9,
+          "Texas A&M": 4.9,
+          "Tennessee": 14.6,
+          "Washington": 4.9,
+          "High Point": 4.9,
+          "Utah State": 4.9
+        }
+      },
+      {
+        "event": "Men Weight Throw",
+        "winner": "Ryan Johnson",
+        "team": "Iowa",
+        "mark": "",
+        "timestamp": "2026-03-13T22:04:19Z",
+        "points_awarded": {
+          "Iowa": 4.9,
+          "Virginia": 9.8,
+          "Ole Miss": 4.9,
+          "Texas A&M": 4.9,
+          "Missouri": 4.9,
+          "Tennessee": 4.9,
+          "Kansas State": 4.9
+        }
+      }
+    ],
+    "leverage": [
+      {
+        "event": "Men 1 Mile Run",
+        "swing": 72,
+        "teams": 13
+      },
+      {
+        "event": "Men 200 Meter Dash",
+        "swing": 72,
+        "teams": 14
+      },
+      {
+        "event": "Men 3000 Meter Run",
+        "swing": 72,
+        "teams": 11
+      },
+      {
+        "event": "Men 400 Meter Dash",
+        "swing": 72,
+        "teams": 13
+      },
+      {
+        "event": "Men 4x400 Meter Relay",
+        "swing": 72,
+        "teams": 12
+      },
+      {
+        "event": "Men 5000 Meter Run",
+        "swing": 72,
+        "teams": 13
+      },
+      {
+        "event": "Men 60 Meter Dash",
+        "swing": 72,
+        "teams": 12
+      },
+      {
+        "event": "Men 60 Meter Hurdles",
+        "swing": 72,
+        "teams": 13
+      },
+      {
+        "event": "Men 800 Meter Run",
+        "swing": 72,
+        "teams": 11
+      },
+      {
+        "event": "Men Distance Medley",
+        "swing": 72,
+        "teams": 12
+      },
+      {
+        "event": "Men High Jump",
+        "swing": 72,
+        "teams": 11
+      },
+      {
+        "event": "Men Long Jump",
+        "swing": 72,
+        "teams": 14
+      },
+      {
+        "event": "Men Shot Put",
+        "swing": 72,
+        "teams": 14
+      },
+      {
+        "event": "Men Triple Jump",
+        "swing": 72,
+        "teams": 12
+      },
+      {
+        "event": "Men Heptathlon",
+        "swing": 0,
+        "teams": 0
+      }
+    ]
+  }
+}
