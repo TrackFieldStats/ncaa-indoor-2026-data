@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-14T01:16:59Z",
+    "last_updated": "2026-03-14T01:34:53Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -20,7 +20,7 @@
         "ceiling": 47.0,
         "mc_forecast": 45.4,
         "premeet_projection": 56,
-        "win_probability": 99.2,
+        "win_probability": 97.4,
         "top4_probability": 100.0,
         "events_scored": [
           "Women Long Jump (10pt)",
@@ -29,13 +29,13 @@
       },
       {
         "team": "BYU",
-        "actual": 10.0,
-        "seed_projection": 33.0,
-        "ceiling": 33.0,
-        "mc_forecast": 31.1,
+        "actual": 13.0,
+        "seed_projection": 36.0,
+        "ceiling": 36.0,
+        "mc_forecast": 34.1,
         "premeet_projection": 46,
-        "win_probability": 0.7,
-        "top4_probability": 99.0,
+        "win_probability": 2.5,
+        "top4_probability": 98.5,
         "events_scored": [
           "Women 5000 Meter Run (10pt)"
         ]
@@ -48,7 +48,31 @@
         "mc_forecast": 24.2,
         "premeet_projection": 32,
         "win_probability": 0.1,
-        "top4_probability": 78.8,
+        "top4_probability": 48.0,
+        "events_scored": []
+      },
+      {
+        "team": "Oregon",
+        "actual": 20.0,
+        "seed_projection": 25.0,
+        "ceiling": 26.0,
+        "mc_forecast": 25.1,
+        "premeet_projection": 25,
+        "win_probability": 0.0,
+        "top4_probability": 50.1,
+        "events_scored": [
+          "Women Indoor Pentathlon (10pt)"
+        ]
+      },
+      {
+        "team": "South Carolina",
+        "actual": 8.0,
+        "seed_projection": 25.0,
+        "ceiling": 26.0,
+        "mc_forecast": 24.7,
+        "premeet_projection": 26,
+        "win_probability": 0.0,
+        "top4_probability": 42.8,
         "events_scored": []
       },
       {
@@ -59,10 +83,23 @@
         "mc_forecast": 22.1,
         "premeet_projection": 25,
         "win_probability": 0.0,
-        "top4_probability": 62.7,
+        "top4_probability": 22.2,
         "events_scored": [
           "Women 5000 Meter Run (1pt)",
           "Women Long Jump (5pt)"
+        ]
+      },
+      {
+        "team": "Florida",
+        "actual": 14.0,
+        "seed_projection": 23.0,
+        "ceiling": 23.0,
+        "mc_forecast": 23.5,
+        "premeet_projection": 17,
+        "win_probability": 0.0,
+        "top4_probability": 33.8,
+        "events_scored": [
+          "Women 5000 Meter Run (9pt)"
         ]
       },
       {
@@ -73,7 +110,7 @@
         "mc_forecast": 18.6,
         "premeet_projection": 18,
         "win_probability": 0.0,
-        "top4_probability": 17.1,
+        "top4_probability": 3.1,
         "events_scored": []
       },
       {
@@ -84,22 +121,9 @@
         "mc_forecast": 16.5,
         "premeet_projection": 19,
         "win_probability": 0.0,
-        "top4_probability": 0.5,
+        "top4_probability": 0.0,
         "events_scored": [
           "Women 5000 Meter Run (8pt)"
-        ]
-      },
-      {
-        "team": "Florida",
-        "actual": 9.0,
-        "seed_projection": 18.0,
-        "ceiling": 18.0,
-        "mc_forecast": 18.5,
-        "premeet_projection": 17,
-        "win_probability": 0.0,
-        "top4_probability": 19.7,
-        "events_scored": [
-          "Women 5000 Meter Run (9pt)"
         ]
       },
       {
@@ -110,22 +134,11 @@
         "mc_forecast": 17.3,
         "premeet_projection": 18,
         "win_probability": 0.0,
-        "top4_probability": 10.0,
+        "top4_probability": 1.4,
         "events_scored": [
           "Women Long Jump (5pt)",
           "Women Indoor Pentathlon (2pt)"
         ]
-      },
-      {
-        "team": "South Carolina",
-        "actual": 0.0,
-        "seed_projection": 17.0,
-        "ceiling": 18.0,
-        "mc_forecast": 16.7,
-        "premeet_projection": 26,
-        "win_probability": 0.0,
-        "top4_probability": 9.2,
-        "events_scored": []
       },
       {
         "team": "Washington",
@@ -135,21 +148,8 @@
         "mc_forecast": 14.5,
         "premeet_projection": 16,
         "win_probability": 0.0,
-        "top4_probability": 2.1,
+        "top4_probability": 0.1,
         "events_scored": []
-      },
-      {
-        "team": "Oregon",
-        "actual": 10.0,
-        "seed_projection": 15.0,
-        "ceiling": 16.0,
-        "mc_forecast": 15.1,
-        "premeet_projection": 25,
-        "win_probability": 0.0,
-        "top4_probability": 0.6,
-        "events_scored": [
-          "Women Indoor Pentathlon (10pt)"
-        ]
       },
       {
         "team": "South Dakota",
@@ -176,6 +176,17 @@
         ]
       },
       {
+        "team": "Iowa State",
+        "actual": 6.0,
+        "seed_projection": 12.0,
+        "ceiling": 12.0,
+        "mc_forecast": 12.5,
+        "premeet_projection": 10,
+        "win_probability": 0.0,
+        "top4_probability": 0.1,
+        "events_scored": []
+      },
+      {
         "team": "Minnesota",
         "actual": 0.0,
         "seed_projection": 11.0,
@@ -194,7 +205,7 @@
         "mc_forecast": 10.3,
         "premeet_projection": 13,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.0,
         "events_scored": []
       },
       {
@@ -216,7 +227,18 @@
         "mc_forecast": 11.1,
         "premeet_projection": 19,
         "win_probability": 0.0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Oklahoma State",
+        "actual": 1.0,
+        "seed_projection": 9.0,
+        "ceiling": 10.0,
+        "mc_forecast": 8.3,
+        "premeet_projection": 16,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
         "events_scored": []
       },
       {
@@ -242,17 +264,6 @@
         "events_scored": []
       },
       {
-        "team": "Oklahoma State",
-        "actual": 0.0,
-        "seed_projection": 8.0,
-        "ceiling": 9.0,
-        "mc_forecast": 7.3,
-        "premeet_projection": 16,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "Cincinnati",
         "actual": 6.0,
         "seed_projection": 6.0,
@@ -266,12 +277,12 @@
         ]
       },
       {
-        "team": "Iowa State",
-        "actual": 0.0,
+        "team": "NC State",
+        "actual": 4.0,
         "seed_projection": 6.0,
         "ceiling": 6.0,
-        "mc_forecast": 6.5,
-        "premeet_projection": 10,
+        "mc_forecast": 6.1,
+        "premeet_projection": 6,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -478,12 +489,12 @@
         "events_scored": []
       },
       {
-        "team": "NC State",
-        "actual": 0.0,
+        "team": "Utah",
+        "actual": 2.0,
         "seed_projection": 2.0,
-        "ceiling": 2.0,
-        "mc_forecast": 2.1,
-        "premeet_projection": 6,
+        "ceiling": 3.0,
+        "mc_forecast": 2.2,
+        "premeet_projection": 1,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -724,17 +735,6 @@
         "events_scored": []
       },
       {
-        "team": "Utah",
-        "actual": 0.0,
-        "seed_projection": 0.0,
-        "ceiling": 1.0,
-        "mc_forecast": 0.2,
-        "premeet_projection": 1,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "Washington St.",
         "actual": 0.0,
         "seed_projection": 0.0,
@@ -770,168 +770,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "5:05 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Rosemary Longisa",
-            "team": "Washington St.",
-            "mark": "4:28.09",
-            "heat": 2
-          },
-          {
-            "name": "Wilma Nielsen",
-            "team": "Oregon",
-            "mark": "4:28.26",
-            "heat": 2
-          },
-          {
-            "name": "Silan Ayyildiz",
-            "team": "Oregon",
-            "mark": "4:28.44",
-            "heat": 2
-          },
-          {
-            "name": "Riley Chamberlain",
-            "team": "BYU",
-            "mark": "4:28.96",
-            "heat": 2
-          },
-          {
-            "name": "Sadie Engelhardt",
-            "team": "NC State",
-            "mark": "4:38.62",
-            "heat": 1
-          },
-          {
-            "name": "Billah Jepkirui",
-            "team": "Oklahoma State",
-            "mark": "4:38.64",
-            "heat": 1
-          },
-          {
-            "name": "Berlyn Schutz",
-            "team": "Nebraska",
-            "mark": "4:39.17",
-            "heat": 1
-          },
-          {
-            "name": "Hayley Burns",
-            "team": "Northern Arizona",
-            "mark": "4:39.17",
-            "heat": 1
-          },
-          {
-            "name": "Claire Stegall",
-            "team": "Florida",
-            "mark": "4:29.02",
-            "heat": 2
-          },
-          {
-            "name": "Juliet Cherubet",
-            "team": "Oregon",
-            "mark": "4:30.12",
-            "heat": 2
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "Hayley Burns",
-            "team": "Northern Arizona",
-            "year": "JR",
-            "seed": "4:35.77"
-          },
-          {
-            "name": "Tatiana Cornejo",
-            "team": "Cal Poly",
-            "year": "JR",
-            "seed": "4:29.90"
-          },
-          {
-            "name": "Kaiya Robertson",
-            "team": "Boise State",
-            "year": "SR",
-            "seed": "4:24.51"
-          },
-          {
-            "name": "Sadie Engelhardt",
-            "team": "NC State",
-            "year": "FR",
-            "seed": "4:23.84"
-          },
-          {
-            "name": "Chloe Foerster",
-            "team": "Washington",
-            "year": "SR",
-            "seed": "4:25.79"
-          },
-          {
-            "name": "Billah Jepkirui",
-            "team": "Oklahoma State",
-            "year": "JR",
-            "seed": "4:23.40"
-          },
-          {
-            "name": "Tatum David",
-            "team": "Virginia",
-            "year": "JR",
-            "seed": "4:28.10"
-          },
-          {
-            "name": "Berlyn Schutz",
-            "team": "Nebraska",
-            "year": "JR",
-            "seed": "4:27.71"
-          },
-          {
-            "name": "Silan Ayyildiz",
-            "team": "Oregon",
-            "year": "SR",
-            "seed": "4:25.11"
-          },
-          {
-            "name": "Brianna Rinn",
-            "team": "Utah",
-            "year": "JR",
-            "seed": "4:28.44"
-          },
-          {
-            "name": "Riley Chamberlain",
-            "team": "BYU",
-            "year": "SR",
-            "seed": "4:20.61"
-          },
-          {
-            "name": "Rosemary Longisa",
-            "team": "Washington St.",
-            "year": "SO",
-            "seed": "4:24.59"
-          },
-          {
-            "name": "Claire Stegall",
-            "team": "Florida",
-            "year": "FR",
-            "seed": "4:25.91"
-          },
-          {
-            "name": "Mia Cochran",
-            "team": "Washington",
-            "year": "JR",
-            "seed": "4:29.10"
-          },
-          {
-            "name": "Wilma Nielsen",
-            "team": "Oregon",
-            "year": "SR",
-            "seed": "4:21.04"
-          },
-          {
-            "name": "Juliet Cherubet",
-            "team": "Oregon",
-            "year": "JR",
-            "seed": "4:27.46"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Women 1 Mile Run",
@@ -959,156 +801,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "7:45 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Adaejah Hodge",
-            "team": "Georgia",
-            "mark": "22.28",
-            "heat": 4
-          },
-          {
-            "name": "JaMeesia Ford",
-            "team": "South Carolina",
-            "mark": "22.54",
-            "heat": 3
-          },
-          {
-            "name": "Tiriah Kelley",
-            "team": "Baylor",
-            "mark": "22.67",
-            "heat": 3
-          },
-          {
-            "name": "Gabrielle Matthews",
-            "team": "Florida",
-            "mark": "22.71",
-            "heat": 4
-          },
-          {
-            "name": "Camryn Dickson",
-            "team": "Texas A&M",
-            "mark": "22.72",
-            "heat": 2
-          },
-          {
-            "name": "Indya Mayberry",
-            "team": "TCU",
-            "mark": "22.80",
-            "heat": 4
-          },
-          {
-            "name": "Elise Cooper",
-            "team": "Texas",
-            "mark": "22.84",
-            "heat": 1
-          },
-          {
-            "name": "Dajaz Defrand",
-            "team": "USC",
-            "mark": "22.86",
-            "heat": 1
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "Carleta Bernard",
-            "team": "Texas",
-            "year": "SO",
-            "seed": "22.94"
-          },
-          {
-            "name": "Chelsea Amoah",
-            "team": "Utah",
-            "year": "SO",
-            "seed": "22.84"
-          },
-          {
-            "name": "Dajaz Defrand",
-            "team": "USC",
-            "year": "SR",
-            "seed": "22.79"
-          },
-          {
-            "name": "Elise Cooper",
-            "team": "Texas",
-            "year": "FR",
-            "seed": "22.80"
-          },
-          {
-            "name": "Keliza Smith",
-            "team": "LSU",
-            "year": "JR",
-            "seed": "22.91"
-          },
-          {
-            "name": "Esther Joseph",
-            "team": "Tennessee",
-            "year": "SO",
-            "seed": "22.94"
-          },
-          {
-            "name": "Camryn Dickson",
-            "team": "Texas A&M",
-            "year": "SR",
-            "seed": "22.62"
-          },
-          {
-            "name": "Christine Mallard",
-            "team": "USC",
-            "year": "SR",
-            "seed": "22.77"
-          },
-          {
-            "name": "Kelly Ufodiama",
-            "team": "East Carolina",
-            "year": "SO",
-            "seed": "22.89"
-          },
-          {
-            "name": "Lauren Roy",
-            "team": "Tarleton State",
-            "year": "SR",
-            "seed": "22.94"
-          },
-          {
-            "name": "Tiriah Kelley",
-            "team": "Baylor",
-            "year": "SR",
-            "seed": "22.53"
-          },
-          {
-            "name": "JaMeesia Ford",
-            "team": "South Carolina",
-            "year": "JR",
-            "seed": "22.58"
-          },
-          {
-            "name": "Gabrielle Matthews",
-            "team": "Florida",
-            "year": "SR",
-            "seed": "22.87"
-          },
-          {
-            "name": "Mia Brahe-Pedersen",
-            "team": "USC",
-            "year": "SO",
-            "seed": "22.85"
-          },
-          {
-            "name": "Adaejah Hodge",
-            "team": "Georgia",
-            "year": "FR",
-            "seed": "22.32"
-          },
-          {
-            "name": "Indya Mayberry",
-            "team": "TCU",
-            "year": "SO",
-            "seed": "22.50"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Women 200 Meter Dash",
@@ -1256,156 +952,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "5:55 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Ella Onojuvwevwo",
-            "team": "LSU",
-            "mark": "50.28",
-            "heat": 4
-          },
-          {
-            "name": "Madison Whyte",
-            "team": "USC",
-            "mark": "50.68",
-            "heat": 4
-          },
-          {
-            "name": "Sanaria Butler",
-            "team": "Arkansas",
-            "mark": "50.70",
-            "heat": 4
-          },
-          {
-            "name": "Rachel Joseph",
-            "team": "Iowa State",
-            "mark": "51.20",
-            "heat": 1
-          },
-          {
-            "name": "Sydney Sutton",
-            "team": "Florida",
-            "mark": "51.25",
-            "heat": 2
-          },
-          {
-            "name": "Kaylyn Brown",
-            "team": "Arkansas",
-            "mark": "51.29",
-            "heat": 2
-          },
-          {
-            "name": "Shaquena Foote",
-            "team": "Georgia",
-            "mark": "51.43",
-            "heat": 2
-          },
-          {
-            "name": "Dejanea Oakley",
-            "team": "Georgia",
-            "mark": "51.43",
-            "heat": 3
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "Javonya Valcourt",
-            "team": "Tennessee",
-            "year": "SR",
-            "seed": "51.73"
-          },
-          {
-            "name": "Kaelyaah Liburd",
-            "team": "Florida State",
-            "year": "JR",
-            "seed": "51.58"
-          },
-          {
-            "name": "Sydney Segalla",
-            "team": "Boston College",
-            "year": "SO",
-            "seed": "51.40"
-          },
-          {
-            "name": "Rachel Joseph",
-            "team": "Iowa State",
-            "year": "SR",
-            "seed": "51.20"
-          },
-          {
-            "name": "Sydney Sutton",
-            "team": "Florida",
-            "year": "FR",
-            "seed": "51.25"
-          },
-          {
-            "name": "Kaylyn Brown",
-            "team": "Arkansas",
-            "year": "SO",
-            "seed": "51.29"
-          },
-          {
-            "name": "Esther Joseph",
-            "team": "Tennessee",
-            "year": "SO",
-            "seed": "51.36"
-          },
-          {
-            "name": "Shaquena Foote",
-            "team": "Georgia",
-            "year": "SR",
-            "seed": "51.27"
-          },
-          {
-            "name": "Hannah Douglas",
-            "team": "Kentucky",
-            "year": "SR",
-            "seed": "51.41"
-          },
-          {
-            "name": "Chioma Nwachukwu",
-            "team": "Iowa",
-            "year": "SO",
-            "seed": "51.67"
-          },
-          {
-            "name": "Dejanea Oakley",
-            "team": "Georgia",
-            "year": "SR",
-            "seed": "51.11"
-          },
-          {
-            "name": "Zaya Akins",
-            "team": "South Carolina",
-            "year": "JR",
-            "seed": "51.15"
-          },
-          {
-            "name": "Sami Oblad",
-            "team": "BYU",
-            "year": "SR",
-            "seed": "51.48"
-          },
-          {
-            "name": "Sanaria Butler",
-            "team": "Arkansas",
-            "year": "SR",
-            "seed": "50.70"
-          },
-          {
-            "name": "Ella Onojuvwevwo",
-            "team": "LSU",
-            "year": "SR",
-            "seed": "50.28"
-          },
-          {
-            "name": "Madison Whyte",
-            "team": "USC",
-            "year": "JR",
-            "seed": "50.68"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Women 400 Meter Dash",
@@ -1619,156 +1169,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "5:35 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Shenese Walker",
-            "team": "Florida State",
-            "mark": "7.07",
-            "heat": 1
-          },
-          {
-            "name": "Nayla Harris",
-            "team": "UT-Rio Grande Valley",
-            "mark": "7.16",
-            "heat": 1
-          },
-          {
-            "name": "Victoria Cameron",
-            "team": "Tarleton State",
-            "mark": "7.09",
-            "heat": 2
-          },
-          {
-            "name": "Adaejah Hodge",
-            "team": "Georgia",
-            "mark": "7.12",
-            "heat": 2
-          },
-          {
-            "name": "Alicia Burnett",
-            "team": "Ole Miss",
-            "mark": "7.16",
-            "heat": 1
-          },
-          {
-            "name": "Dajaz Defrand",
-            "team": "USC",
-            "mark": "7.16",
-            "heat": 2
-          },
-          {
-            "name": "Kaila Jackson",
-            "team": "Georgia",
-            "mark": "7.20",
-            "heat": 1
-          },
-          {
-            "name": "Brianna Selby",
-            "team": "USC",
-            "mark": "7.21",
-            "heat": 1
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "Brianna Selby",
-            "team": "USC",
-            "year": "SO",
-            "seed": "7.15"
-          },
-          {
-            "name": "Kaila Jackson",
-            "team": "Georgia",
-            "year": "SR",
-            "seed": "7.19"
-          },
-          {
-            "name": "Sharmelle Holmes",
-            "team": "Kentucky",
-            "year": "SO",
-            "seed": "7.14"
-          },
-          {
-            "name": "Reign Redmond",
-            "team": "Georgia",
-            "year": "SO",
-            "seed": "7.15"
-          },
-          {
-            "name": "Shenese Walker",
-            "team": "Florida State",
-            "year": "SR",
-            "seed": "7.07"
-          },
-          {
-            "name": "Alicia Burnett",
-            "team": "Ole Miss",
-            "year": "SR",
-            "seed": "7.08"
-          },
-          {
-            "name": "Nayla Harris",
-            "team": "UT-Rio Grande Valley",
-            "year": "SR",
-            "seed": "7.18"
-          },
-          {
-            "name": "Indya Mayberry",
-            "team": "TCU",
-            "year": "SO",
-            "seed": "7.17"
-          },
-          {
-            "name": "Athaleyha Hinckson",
-            "team": "LSU",
-            "year": "FR",
-            "seed": "7.16"
-          },
-          {
-            "name": "Alexis Brown",
-            "team": "South Carolina",
-            "year": "SR",
-            "seed": "7.18"
-          },
-          {
-            "name": "Adaejah Hodge",
-            "team": "Georgia",
-            "year": "FR",
-            "seed": "7.12"
-          },
-          {
-            "name": "Kelly Ufodiama",
-            "team": "East Carolina",
-            "year": "SO",
-            "seed": "7.14"
-          },
-          {
-            "name": "Victoria Cameron",
-            "team": "Tarleton State",
-            "year": "SO",
-            "seed": "7.08"
-          },
-          {
-            "name": "Dajaz Defrand",
-            "team": "USC",
-            "year": "SR",
-            "seed": "7.16"
-          },
-          {
-            "name": "Lauren Roy",
-            "team": "Tarleton State",
-            "year": "SR",
-            "seed": "7.19"
-          },
-          {
-            "name": "Success Umukoro",
-            "team": "Texas Tech",
-            "year": "SR",
-            "seed": "7.16"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Women 60 Meter Dash",
@@ -1796,156 +1200,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "6:45 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Aaliyah McCormick",
-            "team": "Oregon",
-            "mark": "7.96",
-            "heat": 2
-          },
-          {
-            "name": "Jaiya Covington",
-            "team": "Texas A&M",
-            "mark": "8.02",
-            "heat": 2
-          },
-          {
-            "name": "Yanla Ndjip-Nyemeck",
-            "team": "UCLA",
-            "mark": "7.96",
-            "heat": 1
-          },
-          {
-            "name": "Maddi Cooper",
-            "team": "Georgia",
-            "mark": "8.04",
-            "heat": 1
-          },
-          {
-            "name": "Emmi Scales",
-            "team": "Kentucky",
-            "mark": "8.04",
-            "heat": 1
-          },
-          {
-            "name": "Akala Garrett",
-            "team": "South Carolina",
-            "mark": "8.05",
-            "heat": 2
-          },
-          {
-            "name": "Ana-Liese Torian",
-            "team": "Auburn",
-            "mark": "8.06",
-            "heat": 1
-          },
-          {
-            "name": "Oneka Wilson",
-            "team": "Clemson",
-            "mark": "8.07",
-            "heat": 2
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "Kaycee McCoy",
-            "team": "Houston",
-            "year": "SR",
-            "seed": "8.07"
-          },
-          {
-            "name": "Tashina Alase",
-            "team": "Southern",
-            "year": "JR",
-            "seed": "8.04"
-          },
-          {
-            "name": "Yanla Ndjip-Nyemeck",
-            "team": "UCLA",
-            "year": "SR",
-            "seed": "7.96"
-          },
-          {
-            "name": "Emmi Scales",
-            "team": "Kentucky",
-            "year": "JR",
-            "seed": "7.83"
-          },
-          {
-            "name": "Ana-Liese Torian",
-            "team": "Auburn",
-            "year": "JR",
-            "seed": "7.91"
-          },
-          {
-            "name": "Tonie-Ann Forbes",
-            "team": "Texas Tech",
-            "year": "JR",
-            "seed": "7.91"
-          },
-          {
-            "name": "Maddi Cooper",
-            "team": "Georgia",
-            "year": "FR",
-            "seed": "7.99"
-          },
-          {
-            "name": "Joslyn Hamilton",
-            "team": "South Carolina",
-            "year": "SO",
-            "seed": "8.06"
-          },
-          {
-            "name": "Chelsi Williams",
-            "team": "Georgia",
-            "year": "FR",
-            "seed": "8.07"
-          },
-          {
-            "name": "Oneka Wilson",
-            "team": "Clemson",
-            "year": "SR",
-            "seed": "8.02"
-          },
-          {
-            "name": "Danae Nembhard",
-            "team": "Auburn",
-            "year": "SR",
-            "seed": "7.91"
-          },
-          {
-            "name": "Jaiya Covington",
-            "team": "Texas A&M",
-            "year": "SR",
-            "seed": "7.94"
-          },
-          {
-            "name": "Aaliyah McCormick",
-            "team": "Oregon",
-            "year": "SR",
-            "seed": "7.89"
-          },
-          {
-            "name": "Myreanna Bebe",
-            "team": "Tennessee",
-            "year": "SR",
-            "seed": "7.96"
-          },
-          {
-            "name": "Falon Spearman",
-            "team": "Vanderbilt",
-            "year": "SR",
-            "seed": "8.07"
-          },
-          {
-            "name": "Akala Garrett",
-            "team": "South Carolina",
-            "year": "JR",
-            "seed": "8.04"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Women 60 Meter Hurdles",
@@ -1973,156 +1231,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "6:25 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Gladys Chepngetich",
-            "team": "Clemson",
-            "mark": "2:01.56",
-            "heat": 2
-          },
-          {
-            "name": "Juliette Whittaker",
-            "team": "Stanford",
-            "mark": "2:01.99",
-            "heat": 2
-          },
-          {
-            "name": "Analisse Batista",
-            "team": "Arkansas",
-            "mark": "2:02.12",
-            "heat": 2
-          },
-          {
-            "name": "Sanu Jallow",
-            "team": "Arkansas",
-            "mark": "2:03.18",
-            "heat": 1
-          },
-          {
-            "name": "Vanice Kerubo Nyagisera",
-            "team": "Kentucky",
-            "mark": "2:03.30",
-            "heat": 1
-          },
-          {
-            "name": "Makayla Paige",
-            "team": "North Carolina",
-            "mark": "2:03.36",
-            "heat": 1
-          },
-          {
-            "name": "Sophia Gorriaran",
-            "team": "Harvard",
-            "mark": "2:02.30",
-            "heat": 2
-          },
-          {
-            "name": "Zoie Dundon",
-            "team": "Minnesota",
-            "mark": "2:02.51",
-            "heat": 2
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "Elizabeth Martell",
-            "team": "Villanova",
-            "year": "SR",
-            "seed": "2:01.70"
-          },
-          {
-            "name": "Hayley Kitching",
-            "team": "Penn State",
-            "year": "SR",
-            "seed": "1:59.22"
-          },
-          {
-            "name": "Maeve O'Neill",
-            "team": "Providence",
-            "year": "JR",
-            "seed": "2:00.33"
-          },
-          {
-            "name": "Aniya Mosley",
-            "team": "Ohio State",
-            "year": "SR",
-            "seed": "2:01.44"
-          },
-          {
-            "name": "Vanice Kerubo Nyagisera",
-            "team": "Kentucky",
-            "year": "FR",
-            "seed": "2:01.40"
-          },
-          {
-            "name": "Makayla Paige",
-            "team": "North Carolina",
-            "year": "SR",
-            "seed": "2:01.10"
-          },
-          {
-            "name": "Sanu Jallow",
-            "team": "Arkansas",
-            "year": "JR",
-            "seed": "1:59.76"
-          },
-          {
-            "name": "Veronica Hargrave",
-            "team": "Indiana",
-            "year": "SO",
-            "seed": "2:01.64"
-          },
-          {
-            "name": "Gladys Chepngetich",
-            "team": "Clemson",
-            "year": "JR",
-            "seed": "1:58.81"
-          },
-          {
-            "name": "Analisse Batista",
-            "team": "Arkansas",
-            "year": "JR",
-            "seed": "2:01.10"
-          },
-          {
-            "name": "Natalie Varela",
-            "team": "Miami (Fla.)",
-            "year": "SR",
-            "seed": "2:01.82"
-          },
-          {
-            "name": "Sophia Gorriaran",
-            "team": "Harvard",
-            "year": "JR",
-            "seed": "2:01.30"
-          },
-          {
-            "name": "Avery Pearson",
-            "team": "Colorado",
-            "year": "SO",
-            "seed": "2:00.76"
-          },
-          {
-            "name": "Zoie Dundon",
-            "team": "Minnesota",
-            "year": "JR",
-            "seed": "2:01.56"
-          },
-          {
-            "name": "Boh Ritchie",
-            "team": "Penn State",
-            "year": "FR",
-            "seed": "2:01.60"
-          },
-          {
-            "name": "Juliette Whittaker",
-            "team": "Stanford",
-            "year": "SR",
-            "seed": "1:59.76"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Women 800 Meter Run",
@@ -4758,7 +3870,7 @@
         "mc_forecast": 20.2,
         "premeet_projection": 39,
         "win_probability": 4.9,
-        "top4_probability": 90.1,
+        "top4_probability": 89.9,
         "events_scored": []
       },
       {
@@ -4769,7 +3881,7 @@
         "mc_forecast": 16.6,
         "premeet_projection": 35,
         "win_probability": 0.9,
-        "top4_probability": 69.4,
+        "top4_probability": 67.3,
         "events_scored": []
       },
       {
@@ -4780,7 +3892,7 @@
         "mc_forecast": 13.5,
         "premeet_projection": 23,
         "win_probability": 0.0,
-        "top4_probability": 28.3,
+        "top4_probability": 30.6,
         "events_scored": [
           "Men 5000 Meter Run (8pt)"
         ]
@@ -4793,7 +3905,7 @@
         "mc_forecast": 11.4,
         "premeet_projection": 18,
         "win_probability": 0.1,
-        "top4_probability": 4.6,
+        "top4_probability": 5.9,
         "events_scored": [
           "Men Weight Throw (6pt)"
         ]
@@ -4806,7 +3918,7 @@
         "mc_forecast": 9.8,
         "premeet_projection": 19,
         "win_probability": 0.0,
-        "top4_probability": 1.3,
+        "top4_probability": 1.1,
         "events_scored": []
       },
       {
@@ -4850,7 +3962,7 @@
         "mc_forecast": 10.4,
         "premeet_projection": 16,
         "win_probability": 0.0,
-        "top4_probability": 5.8,
+        "top4_probability": 5.0,
         "events_scored": []
       },
       {
@@ -4861,7 +3973,7 @@
         "mc_forecast": 9.2,
         "premeet_projection": 13,
         "win_probability": 0.0,
-        "top4_probability": 2.9,
+        "top4_probability": 2.8,
         "events_scored": []
       },
       {
@@ -4872,7 +3984,7 @@
         "mc_forecast": 7.4,
         "premeet_projection": 10,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.0,
         "events_scored": [
           "Men 5000 Meter Run (4pt)"
         ]
@@ -4885,7 +3997,7 @@
         "mc_forecast": 7.9,
         "premeet_projection": 8,
         "win_probability": 0.0,
-        "top4_probability": 0.3,
+        "top4_probability": 0.2,
         "events_scored": []
       },
       {
@@ -4942,7 +4054,7 @@
         "mc_forecast": 6.5,
         "premeet_projection": 12,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.2,
         "events_scored": []
       },
       {
@@ -5381,168 +4493,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "5:20 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Gary Martin",
-            "team": "Virginia",
-            "mark": "3:55.13",
-            "heat": 1
-          },
-          {
-            "name": "Thomas Diamond",
-            "team": "Washington",
-            "mark": "3:55.38",
-            "heat": 1
-          },
-          {
-            "name": "George Couttie",
-            "team": "Virginia Tech",
-            "mark": "3:56.12",
-            "heat": 1
-          },
-          {
-            "name": "Tomas Palfrey",
-            "team": "Oregon",
-            "mark": "3:56.20",
-            "heat": 1
-          },
-          {
-            "name": "Carter Cutting",
-            "team": "BYU",
-            "mark": "3:56.72",
-            "heat": 2
-          },
-          {
-            "name": "Trent McFarland",
-            "team": "Michigan",
-            "mark": "3:56.80",
-            "heat": 2
-          },
-          {
-            "name": "Reuben Reina",
-            "team": "Washington",
-            "mark": "3:57.27",
-            "heat": 2
-          },
-          {
-            "name": "Matthew Endrody",
-            "team": "New Mexico",
-            "mark": "3:57.48",
-            "heat": 2
-          },
-          {
-            "name": "Paul Specht",
-            "team": "Wake Forest",
-            "mark": "3:56.59",
-            "heat": 1
-          },
-          {
-            "name": "Jaouad Khchina",
-            "team": "South Carolina",
-            "mark": "3:57.22",
-            "heat": 1
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "Elliott Cook",
-            "team": "Oregon",
-            "year": "SR",
-            "seed": "3:52.32"
-          },
-          {
-            "name": "Thomas Diamond",
-            "team": "Washington",
-            "year": "JR",
-            "seed": "3:52.49"
-          },
-          {
-            "name": "George Couttie",
-            "team": "Virginia Tech",
-            "year": "JR",
-            "seed": "3:52.02"
-          },
-          {
-            "name": "Jaouad Khchina",
-            "team": "South Carolina",
-            "year": "JR",
-            "seed": "3:53.90"
-          },
-          {
-            "name": "Justine Kipkoech",
-            "team": "Colorado",
-            "year": "JR",
-            "seed": "3:58.87"
-          },
-          {
-            "name": "Paul Specht",
-            "team": "Wake Forest",
-            "year": "SR",
-            "seed": "3:52.95"
-          },
-          {
-            "name": "Tomas Palfrey",
-            "team": "Oregon",
-            "year": "SR",
-            "seed": "3:53.86"
-          },
-          {
-            "name": "Gary Martin",
-            "team": "Virginia",
-            "year": "SR",
-            "seed": "3:52.62"
-          },
-          {
-            "name": "Trent McFarland",
-            "team": "Michigan",
-            "year": "JR",
-            "seed": "3:52.73"
-          },
-          {
-            "name": "Carter Cutting",
-            "team": "BYU",
-            "year": "JR",
-            "seed": "3:52.84"
-          },
-          {
-            "name": "Matthew Endrody",
-            "team": "New Mexico",
-            "year": "SO",
-            "seed": "3:58.85"
-          },
-          {
-            "name": "Connor McCormick",
-            "team": "Princeton",
-            "year": "SR",
-            "seed": "3:54.35"
-          },
-          {
-            "name": "Isaiah Givens",
-            "team": "Colorado",
-            "year": "JR",
-            "seed": "3:57.52"
-          },
-          {
-            "name": "Reuben Reina",
-            "team": "Washington",
-            "year": "SR",
-            "seed": "3:52.37"
-          },
-          {
-            "name": "Pierre Attiogbe",
-            "team": "Cornell",
-            "year": "JR",
-            "seed": "3:52.44"
-          },
-          {
-            "name": "Tor Hotung-Davidsen",
-            "team": "Northern Arizona",
-            "year": "SR",
-            "seed": "4:02.31"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Men 1 Mile Run",
@@ -5570,156 +4524,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "8:00 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Garrett Kaalund",
-            "team": "USC",
-            "mark": "20.11",
-            "heat": 4
-          },
-          {
-            "name": "Jelani Watkins",
-            "team": "Arkansas",
-            "mark": "20.11",
-            "heat": 4
-          },
-          {
-            "name": "Wanya McCoy",
-            "team": "Florida",
-            "mark": "20.40",
-            "heat": 3
-          },
-          {
-            "name": "Amir Thompson",
-            "team": "Arizona State",
-            "mark": "20.49",
-            "heat": 1
-          },
-          {
-            "name": "Ian Dossman",
-            "team": "Cal St. Fullerton",
-            "mark": "20.57",
-            "heat": 3
-          },
-          {
-            "name": "Denzel Simusialela",
-            "team": "Kentucky",
-            "mark": "20.60",
-            "heat": 2
-          },
-          {
-            "name": "Tyson Williams",
-            "team": "South Carolina",
-            "mark": "20.64",
-            "heat": 1
-          },
-          {
-            "name": "Trelee Banks",
-            "team": "Indiana",
-            "mark": "20.66",
-            "heat": 3
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "Jalen Johnson",
-            "team": "Clemson",
-            "year": "SO",
-            "seed": "20.58"
-          },
-          {
-            "name": "Dapriest Hogans",
-            "team": "Arkansas",
-            "year": "SR",
-            "seed": "20.63"
-          },
-          {
-            "name": "Tyson Williams",
-            "team": "South Carolina",
-            "year": "SO",
-            "seed": "20.47"
-          },
-          {
-            "name": "Amir Thompson",
-            "team": "Arizona State",
-            "year": "SO",
-            "seed": "20.40"
-          },
-          {
-            "name": "Tevijon Williams",
-            "team": "Arkansas",
-            "year": "SR",
-            "seed": "20.56"
-          },
-          {
-            "name": "Jaiden Reid",
-            "team": "LSU",
-            "year": "JR",
-            "seed": "20.62"
-          },
-          {
-            "name": "Auhmad Robinson",
-            "team": "Texas A&M",
-            "year": "SR",
-            "seed": "20.33"
-          },
-          {
-            "name": "Denzel Simusialela",
-            "team": "Kentucky",
-            "year": "JR",
-            "seed": "20.47"
-          },
-          {
-            "name": "Kamron Neal",
-            "team": "Texas Tech",
-            "year": "JR",
-            "seed": "20.47"
-          },
-          {
-            "name": "Ian Dossman",
-            "team": "Cal St. Fullerton",
-            "year": "JR",
-            "seed": "20.54"
-          },
-          {
-            "name": "Trelee Banks",
-            "team": "Indiana",
-            "year": "SR",
-            "seed": "20.37"
-          },
-          {
-            "name": "Wanya McCoy",
-            "team": "Florida",
-            "year": "SR",
-            "seed": "20.31"
-          },
-          {
-            "name": "Davonte Howell",
-            "team": "Tennessee",
-            "year": "JR",
-            "seed": "20.58"
-          },
-          {
-            "name": "Ajani Dwyer",
-            "team": "Penn State",
-            "year": "SO",
-            "seed": "20.51"
-          },
-          {
-            "name": "Jelani Watkins",
-            "team": "Arkansas",
-            "year": "SO",
-            "seed": "20.28"
-          },
-          {
-            "name": "Garrett Kaalund",
-            "team": "USC",
-            "year": "SR",
-            "seed": "20.06"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Men 200 Meter Dash",
@@ -5868,156 +4676,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "6:10 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Justin Braun",
-            "team": "Florida",
-            "mark": "44.77",
-            "heat": 3
-          },
-          {
-            "name": "Samuel Ogazi",
-            "team": "Alabama",
-            "mark": "45.00",
-            "heat": 4
-          },
-          {
-            "name": "Jordan Pierre",
-            "team": "Arkansas",
-            "mark": "45.01",
-            "heat": 3
-          },
-          {
-            "name": "Josiah Wrice",
-            "team": "South Carolina",
-            "mark": "45.55",
-            "heat": 2
-          },
-          {
-            "name": "Samuel Vessat",
-            "team": "Purdue",
-            "mark": "45.59",
-            "heat": 1
-          },
-          {
-            "name": "Jonathan Simms",
-            "team": "Georgia",
-            "mark": "45.62",
-            "heat": 4
-          },
-          {
-            "name": "Jake Palermo",
-            "team": "Penn State",
-            "mark": "45.77",
-            "heat": 2
-          },
-          {
-            "name": "Jayden Horton-Mims",
-            "team": "Florida",
-            "mark": "45.83",
-            "heat": 1
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "Jack Stadlman",
-            "team": "USC",
-            "year": "FR",
-            "seed": "45.51"
-          },
-          {
-            "name": "Andrew Salvodon",
-            "team": "South Carolina",
-            "year": "FR",
-            "seed": "45.44"
-          },
-          {
-            "name": "Samuel Vessat",
-            "team": "Purdue",
-            "year": "SO",
-            "seed": "45.38"
-          },
-          {
-            "name": "Jayden Horton-Mims",
-            "team": "Florida",
-            "year": "FR",
-            "seed": "45.36"
-          },
-          {
-            "name": "Jayden Davis",
-            "team": "Arizona State",
-            "year": "JR",
-            "seed": "45.31"
-          },
-          {
-            "name": "Edidiong Udo",
-            "team": "Ohio State",
-            "year": "SO",
-            "seed": "45.60"
-          },
-          {
-            "name": "Jake Palermo",
-            "team": "Penn State",
-            "year": "SO",
-            "seed": "45.33"
-          },
-          {
-            "name": "Josiah Wrice",
-            "team": "South Carolina",
-            "year": "SO",
-            "seed": "45.34"
-          },
-          {
-            "name": "Ace Malone",
-            "team": "Miami (Fla.)",
-            "year": "JR",
-            "seed": "45.41"
-          },
-          {
-            "name": "Grant Holliday",
-            "team": "Clemson",
-            "year": "SO",
-            "seed": "45.49"
-          },
-          {
-            "name": "Justin Braun",
-            "team": "Florida",
-            "year": "JR",
-            "seed": "44.77"
-          },
-          {
-            "name": "Jordan Pierre",
-            "team": "Arkansas",
-            "year": "JR",
-            "seed": "45.01"
-          },
-          {
-            "name": "Lawson Jacobs",
-            "team": "Texas A&M",
-            "year": "SO",
-            "seed": "45.37"
-          },
-          {
-            "name": "Devyn Wright",
-            "team": "Arkansas",
-            "year": "SO",
-            "seed": "45.38"
-          },
-          {
-            "name": "Samuel Ogazi",
-            "team": "Alabama",
-            "year": "JR",
-            "seed": "44.72"
-          },
-          {
-            "name": "Jonathan Simms",
-            "team": "Georgia",
-            "year": "FR",
-            "seed": "44.62"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Men 400 Meter Dash",
@@ -6231,156 +4893,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "5:45 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Jelani Watkins",
-            "team": "Arkansas",
-            "mark": "6.46",
-            "heat": 2
-          },
-          {
-            "name": "Kanyinsola Ajayi",
-            "team": "Auburn",
-            "mark": "6.51",
-            "heat": 2
-          },
-          {
-            "name": "Israel Okon",
-            "team": "Auburn",
-            "mark": "6.48",
-            "heat": 1
-          },
-          {
-            "name": "Kalen Walker",
-            "team": "Iowa",
-            "mark": "6.50",
-            "heat": 1
-          },
-          {
-            "name": "Malachi Snow",
-            "team": "Texas Tech",
-            "mark": "6.54",
-            "heat": 1
-          },
-          {
-            "name": "Darwin Jimenez",
-            "team": "Iowa",
-            "mark": "6.55",
-            "heat": 2
-          },
-          {
-            "name": "Ajani Dwyer",
-            "team": "Penn State",
-            "mark": "6.56",
-            "heat": 1
-          },
-          {
-            "name": "Mason Lawyer",
-            "team": "Arizona",
-            "mark": "6.57",
-            "heat": 2
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "Chance Cross",
-            "team": "Kennesaw State",
-            "year": "SR",
-            "seed": "6.54"
-          },
-          {
-            "name": "Omari Lewis",
-            "team": "Auburn",
-            "year": "SR",
-            "seed": "6.58"
-          },
-          {
-            "name": "Davonte Howell",
-            "team": "Tennessee",
-            "year": "JR",
-            "seed": "6.49"
-          },
-          {
-            "name": "Malachi Snow",
-            "team": "Texas Tech",
-            "year": "JR",
-            "seed": "6.46"
-          },
-          {
-            "name": "Ajani Dwyer",
-            "team": "Penn State",
-            "year": "SO",
-            "seed": "6.52"
-          },
-          {
-            "name": "Israel Okon",
-            "team": "Auburn",
-            "year": "SO",
-            "seed": "6.48"
-          },
-          {
-            "name": "Kalen Walker",
-            "team": "Iowa",
-            "year": "SR",
-            "seed": "6.50"
-          },
-          {
-            "name": "Ayodele Ojo",
-            "team": "Utah State",
-            "year": "SO",
-            "seed": "6.55"
-          },
-          {
-            "name": "Eddie Nketia",
-            "team": "USC",
-            "year": "JR",
-            "seed": "6.55"
-          },
-          {
-            "name": "Darwin Jimenez",
-            "team": "Iowa",
-            "year": "JR",
-            "seed": "6.52"
-          },
-          {
-            "name": "Mason Lawyer",
-            "team": "Arizona",
-            "year": "SR",
-            "seed": "6.49"
-          },
-          {
-            "name": "Karabo Letebele",
-            "team": "Arkansas",
-            "year": "FR",
-            "seed": "6.53"
-          },
-          {
-            "name": "Kanyinsola Ajayi",
-            "team": "Auburn",
-            "year": "JR",
-            "seed": "6.45"
-          },
-          {
-            "name": "Jelani Watkins",
-            "team": "Arkansas",
-            "year": "SO",
-            "seed": "6.46"
-          },
-          {
-            "name": "Jaiden Reid",
-            "team": "LSU",
-            "year": "JR",
-            "seed": "6.56"
-          },
-          {
-            "name": "JayBrion Jones",
-            "team": "Tarleton State",
-            "year": "FR",
-            "seed": "6.54"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Men 60 Meter Dash",
@@ -6408,156 +4924,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "6:55 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Ja'Kobe Tharp",
-            "team": "Auburn",
-            "mark": "7.36",
-            "heat": 1
-          },
-          {
-            "name": "Malachi Snow",
-            "team": "Texas Tech",
-            "mark": "7.43",
-            "heat": 1
-          },
-          {
-            "name": "Bradley Franklin",
-            "team": "Samford",
-            "mark": "7.42",
-            "heat": 2
-          },
-          {
-            "name": "Ja'Qualon Scott",
-            "team": "Texas A&M",
-            "mark": "7.47",
-            "heat": 2
-          },
-          {
-            "name": "Abdoul Sysavane",
-            "team": "Arkansas",
-            "mark": "7.46",
-            "heat": 1
-          },
-          {
-            "name": "Demario Prince",
-            "team": "Baylor",
-            "mark": "7.49",
-            "heat": 1
-          },
-          {
-            "name": "Kendrick Smallwood",
-            "team": "Texas",
-            "mark": "7.51",
-            "heat": 2
-          },
-          {
-            "name": "Vashaun Vascianna",
-            "team": "Arkansas",
-            "mark": "7.54",
-            "heat": 2
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "Jason Holmes",
-            "team": "N. Carolina A&T",
-            "year": "JR",
-            "seed": "7.55"
-          },
-          {
-            "name": "Jamar Marshall Jr.",
-            "team": "Houston",
-            "year": "SR",
-            "seed": "7.54"
-          },
-          {
-            "name": "Demario Prince",
-            "team": "Baylor",
-            "year": "JR",
-            "seed": "7.46"
-          },
-          {
-            "name": "Malachi Snow",
-            "team": "Texas Tech",
-            "year": "JR",
-            "seed": "7.43"
-          },
-          {
-            "name": "Jerome Campbell",
-            "team": "Arkansas",
-            "year": "SR",
-            "seed": "7.48"
-          },
-          {
-            "name": "Ja'Kobe Tharp",
-            "team": "Auburn",
-            "year": "JR",
-            "seed": "7.36"
-          },
-          {
-            "name": "Abdoul Sysavane",
-            "team": "Arkansas",
-            "year": "FR",
-            "seed": "7.46"
-          },
-          {
-            "name": "Jamir Brown",
-            "team": "Syracuse",
-            "year": "SO",
-            "seed": "7.56"
-          },
-          {
-            "name": "Christopher Serrao",
-            "team": "Rutgers",
-            "year": "JR",
-            "seed": "7.55"
-          },
-          {
-            "name": "Le'Ezra Brown",
-            "team": "Georgia",
-            "year": "FR",
-            "seed": "7.57"
-          },
-          {
-            "name": "Bradley Franklin",
-            "team": "Samford",
-            "year": "SO",
-            "seed": "7.41"
-          },
-          {
-            "name": "Kendrick Smallwood",
-            "team": "Texas",
-            "year": "SR",
-            "seed": "7.46"
-          },
-          {
-            "name": "Ja'Qualon Scott",
-            "team": "Texas A&M",
-            "year": "SR",
-            "seed": "7.46"
-          },
-          {
-            "name": "Antoine Andrews",
-            "team": "Texas Tech",
-            "year": "SR",
-            "seed": "7.49"
-          },
-          {
-            "name": "Andre Korbmacher",
-            "team": "Florida State",
-            "year": "JR",
-            "seed": "7.55"
-          },
-          {
-            "name": "Vashaun Vascianna",
-            "team": "Arkansas",
-            "year": "SR",
-            "seed": "7.53"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Men 60 Meter Hurdles",
@@ -6585,156 +4955,10 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "6:35 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
-        "prelim_results": [
-          {
-            "name": "Tyrice Taylor",
-            "team": "Arkansas",
-            "mark": "1:46.16",
-            "heat": 1
-          },
-          {
-            "name": "Handal Roban",
-            "team": "Penn State",
-            "mark": "1:46.17",
-            "heat": 1
-          },
-          {
-            "name": "Rivaldo Marshall",
-            "team": "Arkansas",
-            "mark": "1:46.55",
-            "heat": 1
-          },
-          {
-            "name": "Peter Narumbe",
-            "team": "Texas A&M",
-            "mark": "1:47.18",
-            "heat": 2
-          },
-          {
-            "name": "Allon Clay",
-            "team": "Penn State",
-            "mark": "1:47.30",
-            "heat": 2
-          },
-          {
-            "name": "Joseph Socarras",
-            "team": "Penn",
-            "mark": "1:47.31",
-            "heat": 2
-          },
-          {
-            "name": "Yukichi Ishii",
-            "team": "Penn State",
-            "mark": "1:47.13",
-            "heat": 1
-          },
-          {
-            "name": "James Harding",
-            "team": "Oregon",
-            "mark": "1:47.23",
-            "heat": 1
-          }
-        ],
-        "start_list_entries": [
-          {
-            "name": "James Harding",
-            "team": "Oregon",
-            "year": "JR",
-            "seed": "1:46.44"
-          },
-          {
-            "name": "Yukichi Ishii",
-            "team": "Penn State",
-            "year": "SR",
-            "seed": "1:46.37"
-          },
-          {
-            "name": "Landon Bott",
-            "team": "Utah State",
-            "year": "JR",
-            "seed": "1:47.79"
-          },
-          {
-            "name": "Rivaldo Marshall",
-            "team": "Arkansas",
-            "year": "SR",
-            "seed": "1:45.62"
-          },
-          {
-            "name": "Niko Schultz",
-            "team": "Penn State",
-            "year": "SR",
-            "seed": "1:46.53"
-          },
-          {
-            "name": "Brian Kweyei",
-            "team": "Clemson",
-            "year": "JR",
-            "seed": "1:46.02"
-          },
-          {
-            "name": "Handal Roban",
-            "team": "Penn State",
-            "year": "JR",
-            "seed": "1:44.73"
-          },
-          {
-            "name": "Tyrice Taylor",
-            "team": "Arkansas",
-            "year": "SR",
-            "seed": "1:46.11"
-          },
-          {
-            "name": "Camden Marshall",
-            "team": "Indiana",
-            "year": "SR",
-            "seed": "1:45.99"
-          },
-          {
-            "name": "Peter Narumbe",
-            "team": "Texas A&M",
-            "year": "FR",
-            "seed": "1:46.13"
-          },
-          {
-            "name": "Matthew Erickson",
-            "team": "Oregon",
-            "year": "SR",
-            "seed": "1:45.93"
-          },
-          {
-            "name": "Tinoda Matsatsa",
-            "team": "Georgetown",
-            "year": "JR",
-            "seed": "1:45.12"
-          },
-          {
-            "name": "Miguel Pantojas",
-            "team": "Florida",
-            "year": "JR",
-            "seed": "1:46.49"
-          },
-          {
-            "name": "Allon Clay",
-            "team": "Penn State",
-            "year": "SR",
-            "seed": "1:45.17"
-          },
-          {
-            "name": "Tyler Edson",
-            "team": "Virginia",
-            "year": "JR",
-            "seed": "1:46.48"
-          },
-          {
-            "name": "Joseph Socarras",
-            "team": "Penn",
-            "year": "FR",
-            "seed": "1:46.28"
-          }
-        ]
+        "prelim_results": [],
+        "start_list_entries": []
       },
       {
         "event_name": "Men 800 Meter Run",
