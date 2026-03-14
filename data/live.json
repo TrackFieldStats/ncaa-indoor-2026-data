@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-14T01:46:57Z",
+    "last_updated": "2026-03-14T01:49:43Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -16,14 +16,15 @@
       {
         "team": "Illinois",
         "actual": 30.0,
-        "seed_projection": 57.0,
-        "ceiling": 59.0,
-        "mc_forecast": 57.7,
+        "seed_projection": 46.0,
+        "ceiling": 47.0,
+        "mc_forecast": 46.2,
         "premeet_projection": 56,
-        "win_probability": 98.6,
-        "top4_probability": 100.0,
+        "win_probability": 58.0,
+        "top4_probability": 99.8,
         "events_scored": [
           "Women Long Jump (10pt)",
+          "Women Weight Throw (12pt)",
           "Women Indoor Pentathlon (8pt)"
         ]
       },
@@ -34,7 +35,7 @@
         "ceiling": 45.0,
         "mc_forecast": 44.3,
         "premeet_projection": 25,
-        "win_probability": 1.4,
+        "win_probability": 35.1,
         "top4_probability": 98.8,
         "events_scored": [
           "Women Distance Medley (10pt)",
@@ -48,8 +49,8 @@
         "ceiling": 36.0,
         "mc_forecast": 34.0,
         "premeet_projection": 46,
-        "win_probability": 0.0,
-        "top4_probability": 49.1,
+        "win_probability": 0.5,
+        "top4_probability": 50.8,
         "events_scored": [
           "Women 5000 Meter Run (10pt)",
           "Women Distance Medley (3pt)"
@@ -62,8 +63,8 @@
         "ceiling": 35.0,
         "mc_forecast": 35.3,
         "premeet_projection": 25,
-        "win_probability": 0.1,
-        "top4_probability": 63.7,
+        "win_probability": 2.3,
+        "top4_probability": 61.7,
         "events_scored": [
           "Women 5000 Meter Run (1pt)",
           "Women Long Jump (5pt)"
@@ -76,8 +77,8 @@
         "ceiling": 34.0,
         "mc_forecast": 35.5,
         "premeet_projection": 34,
-        "win_probability": 0.1,
-        "top4_probability": 59.1,
+        "win_probability": 4.0,
+        "top4_probability": 63.3,
         "events_scored": []
       },
       {
@@ -85,10 +86,10 @@
         "actual": 14.0,
         "seed_projection": 28.0,
         "ceiling": 28.0,
-        "mc_forecast": 29.7,
+        "mc_forecast": 29.5,
         "premeet_projection": 17,
         "win_probability": 0.0,
-        "top4_probability": 15.0,
+        "top4_probability": 10.8,
         "events_scored": [
           "Women 5000 Meter Run (9pt)",
           "Women Distance Medley (5pt)"
@@ -102,7 +103,7 @@
         "mc_forecast": 28.7,
         "premeet_projection": 26,
         "win_probability": 0.0,
-        "top4_probability": 11.3,
+        "top4_probability": 11.7,
         "events_scored": [
           "Women Distance Medley (8pt)"
         ]
@@ -115,7 +116,7 @@
         "mc_forecast": 24.1,
         "premeet_projection": 32,
         "win_probability": 0.0,
-        "top4_probability": 0.9,
+        "top4_probability": 0.4,
         "events_scored": []
       },
       {
@@ -123,10 +124,10 @@
         "actual": 0.0,
         "seed_projection": 24.0,
         "ceiling": 24.0,
-        "mc_forecast": 24.3,
+        "mc_forecast": 24.4,
         "premeet_projection": 18,
         "win_probability": 0.0,
-        "top4_probability": 1.8,
+        "top4_probability": 2.8,
         "events_scored": []
       },
       {
@@ -134,32 +135,10 @@
         "actual": 0.0,
         "seed_projection": 22.0,
         "ceiling": 22.0,
-        "mc_forecast": 19.3,
+        "mc_forecast": 19.1,
         "premeet_projection": 19,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Minnesota",
-        "actual": 10.0,
-        "seed_projection": 22.0,
-        "ceiling": 23.0,
-        "mc_forecast": 21.8,
-        "premeet_projection": 10,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Ole Miss",
-        "actual": 5.0,
-        "seed_projection": 22.0,
-        "ceiling": 24.0,
-        "mc_forecast": 23.2,
-        "premeet_projection": 19,
-        "win_probability": 0.0,
-        "top4_probability": 0.3,
         "events_scored": []
       },
       {
@@ -170,7 +149,7 @@
         "mc_forecast": 19.4,
         "premeet_projection": 18,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.0,
         "events_scored": []
       },
       {
@@ -178,7 +157,7 @@
         "actual": 8.0,
         "seed_projection": 19.5,
         "ceiling": 20.0,
-        "mc_forecast": 19.4,
+        "mc_forecast": 19.3,
         "premeet_projection": 19,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -187,27 +166,29 @@
         ]
       },
       {
-        "team": "Texas",
-        "actual": 6.0,
-        "seed_projection": 19.0,
-        "ceiling": 19.0,
-        "mc_forecast": 19.0,
-        "premeet_projection": 13,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "Alabama",
         "actual": 8.0,
         "seed_projection": 18.0,
         "ceiling": 19.0,
-        "mc_forecast": 16.6,
+        "mc_forecast": 16.5,
         "premeet_projection": 19,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
           "Women 5000 Meter Run (8pt)"
+        ]
+      },
+      {
+        "team": "Ole Miss",
+        "actual": 5.0,
+        "seed_projection": 18.0,
+        "ceiling": 19.0,
+        "mc_forecast": 18.5,
+        "premeet_projection": 19,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Weight Throw (5pt)"
         ]
       },
       {
@@ -229,7 +210,7 @@
         "actual": 0.0,
         "seed_projection": 14.0,
         "ceiling": 14.0,
-        "mc_forecast": 13.5,
+        "mc_forecast": 13.4,
         "premeet_projection": 17,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -251,7 +232,7 @@
         "actual": 0.0,
         "seed_projection": 14.0,
         "ceiling": 14.0,
-        "mc_forecast": 13.5,
+        "mc_forecast": 13.6,
         "premeet_projection": 13,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -262,7 +243,7 @@
         "actual": 3.0,
         "seed_projection": 12.0,
         "ceiling": 12.0,
-        "mc_forecast": 12.4,
+        "mc_forecast": 12.3,
         "premeet_projection": 26,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -275,7 +256,7 @@
         "actual": 0.0,
         "seed_projection": 11.5,
         "ceiling": 12.0,
-        "mc_forecast": 10.5,
+        "mc_forecast": 10.4,
         "premeet_projection": 16,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -286,7 +267,7 @@
         "actual": 0.0,
         "seed_projection": 11.0,
         "ceiling": 11.0,
-        "mc_forecast": 11.4,
+        "mc_forecast": 11.3,
         "premeet_projection": 12,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -297,12 +278,25 @@
         "actual": 6.0,
         "seed_projection": 11.0,
         "ceiling": 11.0,
-        "mc_forecast": 11.7,
+        "mc_forecast": 11.6,
         "premeet_projection": 10,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
           "Women Distance Medley (6pt)"
+        ]
+      },
+      {
+        "team": "Minnesota",
+        "actual": 10.0,
+        "seed_projection": 11.0,
+        "ceiling": 12.0,
+        "mc_forecast": 12.0,
+        "premeet_projection": 10,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Weight Throw (10pt)"
         ]
       },
       {
@@ -319,11 +313,24 @@
         ]
       },
       {
+        "team": "Texas",
+        "actual": 6.0,
+        "seed_projection": 11.0,
+        "ceiling": 11.0,
+        "mc_forecast": 11.6,
+        "premeet_projection": 13,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Weight Throw (6pt)"
+        ]
+      },
+      {
         "team": "Florida State",
         "actual": 0.0,
         "seed_projection": 10.0,
         "ceiling": 10.0,
-        "mc_forecast": 8.4,
+        "mc_forecast": 8.3,
         "premeet_projection": 6,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -358,7 +365,7 @@
         "actual": 0.0,
         "seed_projection": 8.5,
         "ceiling": 8.0,
-        "mc_forecast": 8.2,
+        "mc_forecast": 8.3,
         "premeet_projection": 6,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -380,7 +387,7 @@
         "actual": 1.0,
         "seed_projection": 7.0,
         "ceiling": 8.0,
-        "mc_forecast": 7.1,
+        "mc_forecast": 7.3,
         "premeet_projection": 16,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -467,7 +474,7 @@
         "actual": 0.0,
         "seed_projection": 4.0,
         "ceiling": 5.0,
-        "mc_forecast": 4.1,
+        "mc_forecast": 4.2,
         "premeet_projection": 3,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -491,7 +498,7 @@
         "actual": 0.0,
         "seed_projection": 4.0,
         "ceiling": 5.0,
-        "mc_forecast": 4.6,
+        "mc_forecast": 4.5,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -509,22 +516,11 @@
         "events_scored": []
       },
       {
-        "team": "Kennesaw State",
-        "actual": 1.0,
-        "seed_projection": 3.5,
-        "ceiling": 3.0,
-        "mc_forecast": 3.2,
-        "premeet_projection": 1,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "Cal Poly",
         "actual": 0.0,
         "seed_projection": 3.0,
         "ceiling": 3.0,
-        "mc_forecast": 3.0,
+        "mc_forecast": 3.1,
         "premeet_projection": 2,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -534,12 +530,14 @@
         "team": "Colorado St.",
         "actual": 3.0,
         "seed_projection": 3.0,
-        "ceiling": 5.0,
+        "ceiling": 4.0,
         "mc_forecast": 3.8,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women Weight Throw (3pt)"
+        ]
       },
       {
         "team": "Eastern Kentucky",
@@ -561,17 +559,6 @@
         "ceiling": 3.0,
         "mc_forecast": 3.3,
         "premeet_projection": 1,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Michigan State",
-        "actual": 0.0,
-        "seed_projection": 2.5,
-        "ceiling": 3.0,
-        "mc_forecast": 3.1,
-        "premeet_projection": 2,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -617,12 +604,27 @@
         "team": "Wisconsin",
         "actual": 2.0,
         "seed_projection": 2.0,
-        "ceiling": 3.0,
-        "mc_forecast": 2.4,
+        "ceiling": 2.0,
+        "mc_forecast": 2.0,
         "premeet_projection": 4,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Women Weight Throw (2pt)"
+        ]
+      },
+      {
+        "team": "Kennesaw State",
+        "actual": 1.0,
+        "seed_projection": 1.0,
+        "ceiling": 1.0,
+        "mc_forecast": 1.0,
+        "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Women Weight Throw (1pt)"
+        ]
       },
       {
         "team": "UCF",
@@ -741,8 +743,19 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 1.0,
-        "mc_forecast": 0.3,
+        "mc_forecast": 0.4,
         "premeet_projection": 1,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Michigan State",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 2,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -752,7 +765,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 1.0,
-        "mc_forecast": 0.1,
+        "mc_forecast": 0.0,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -807,7 +820,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 1.0,
-        "mc_forecast": 0.7,
+        "mc_forecast": 0.8,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -825,7 +838,7 @@
         "events_scored": []
       }
     ],
-    "completed_finals": 4,
+    "completed_finals": 5,
     "total_finals": 17,
     "events": [
       {
@@ -2952,8 +2965,99 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "7:30 PM",
-        "status": "scheduled",
-        "results": [],
+        "status": "final",
+        "results": [
+          {
+            "place": 1,
+            "name": "Anthonett Nabwe",
+            "team": "Minnesota",
+            "mark": "25.13"
+          },
+          {
+            "place": 2,
+            "name": "Phethisang Makhethe",
+            "team": "Illinois",
+            "mark": "24.40"
+          },
+          {
+            "place": 3,
+            "name": "Giavonna Meeks",
+            "team": "Texas",
+            "mark": "24.11"
+          },
+          {
+            "place": 4,
+            "name": "Akaoma Odeluga",
+            "team": "Ole Miss",
+            "mark": "23.66"
+          },
+          {
+            "place": 5,
+            "name": "Jordan Koskondy",
+            "team": "Illinois",
+            "mark": "22.65"
+          },
+          {
+            "place": 6,
+            "name": "Kajsa Borrman",
+            "team": "Colorado St.",
+            "mark": "22.47"
+          },
+          {
+            "place": 7,
+            "name": "Taylor Kesner",
+            "team": "Wisconsin",
+            "mark": "22.44"
+          },
+          {
+            "place": 8,
+            "name": "Kali Terza",
+            "team": "Kennesaw State",
+            "mark": "22.18"
+          },
+          {
+            "place": 9,
+            "name": "Hadley Streit",
+            "team": "Minnesota",
+            "mark": "21.60"
+          },
+          {
+            "place": 10,
+            "name": "Elle Adrian",
+            "team": "Michigan State",
+            "mark": "21.59"
+          },
+          {
+            "place": 11,
+            "name": "Skylar Soli",
+            "team": "Ole Miss",
+            "mark": "21.51"
+          },
+          {
+            "place": 12,
+            "name": "Oluwatomilayo Akintunde",
+            "team": "Illinois",
+            "mark": "21.06"
+          },
+          {
+            "place": 13,
+            "name": "Tania Da Silva",
+            "team": "Miami (Fla.)",
+            "mark": "20.57"
+          },
+          {
+            "place": 14,
+            "name": "Monique Hardy",
+            "team": "Kansas State",
+            "mark": "20.30"
+          },
+          {
+            "place": 15,
+            "name": "Kennedy Clarke",
+            "team": "Oklahoma",
+            "mark": "19.71"
+          }
+        ],
         "prelim_results": [],
         "start_list_entries": [
           {
@@ -3052,15 +3156,7 @@
             "year": "JR",
             "seed": "22.34m"
           }
-        ],
-        "seed_projection": {
-          "Minnesota": 11.0,
-          "Texas": 8.0,
-          "Illinois": 11.0,
-          "Ole Miss": 4.0,
-          "Michigan State": 2.5,
-          "Kennesaw State": 2.5
-        }
+        ]
       },
       {
         "event_name": "Women Indoor Pentathlon",
@@ -3346,6 +3442,65 @@
           "NC State": 4.0,
           "Utah": 2.0,
           "Oklahoma State": 1.0
+        }
+      },
+      {
+        "event": "Women Weight Throw",
+        "event_name": "Women Weight Throw",
+        "winner": "Anthonett Nabwe",
+        "team": "Minnesota",
+        "mark": "25.13",
+        "day": "Friday",
+        "start_time": "7:30 PM",
+        "timestamp": "2026-03-14T01:49:37Z",
+        "points_awarded": {
+          "Minnesota": 10.0,
+          "Illinois": 12.0,
+          "Texas": 6.0,
+          "Ole Miss": 5.0,
+          "Colorado St.": 3.0,
+          "Wisconsin": 2.0,
+          "Kennesaw State": 1.0
+        },
+        "event_pts": {
+          "Minnesota": 10.0,
+          "Illinois": 12.0,
+          "Texas": 6.0,
+          "Ole Miss": 5.0,
+          "Colorado St.": 3.0,
+          "Wisconsin": 2.0,
+          "Kennesaw State": 1.0
+        },
+        "standings": {
+          "BYU": 13.0,
+          "Alabama": 8.0,
+          "New Mexico": 6.0,
+          "Florida": 14.0,
+          "Eastern Kentucky": 3.0,
+          "West Virginia": 2.0,
+          "Arkansas": 6.0,
+          "Oregon": 20.0,
+          "Illinois": 30.0,
+          "Cincinnati": 6.0,
+          "Vanderbilt": 6.0,
+          "Penn State": 4.0,
+          "Texas A&M": 3.0,
+          "Kansas State": 7.0,
+          "Stanford": 8.0,
+          "Princeton": 6.0,
+          "Tarleton State": 4.0,
+          "UTSA": 1.0,
+          "South Carolina": 8.0,
+          "Iowa State": 6.0,
+          "NC State": 4.0,
+          "Utah": 2.0,
+          "Oklahoma State": 1.0,
+          "Minnesota": 10.0,
+          "Texas": 6.0,
+          "Ole Miss": 5.0,
+          "Colorado St.": 3.0,
+          "Wisconsin": 2.0,
+          "Kennesaw State": 1.0
         }
       }
     ],
@@ -4975,182 +5130,6 @@
         ]
       },
       {
-        "event": "Women Weight Throw",
-        "headline": "Women Weight Throw \u2014 8 teams \u00b7 up to 10 pts",
-        "swing": 72,
-        "teams": 8,
-        "team_breakdown": [
-          {
-            "team": "Minnesota",
-            "seeds_hold": 11,
-            "upside": 13,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Anthonett Nabwe",
-                "seed_rank": 1
-              },
-              {
-                "name": "Hadley Streit",
-                "seed_rank": 8
-              }
-            ]
-          },
-          {
-            "team": "Illinois",
-            "seeds_hold": 11,
-            "upside": 18,
-            "swing": 7,
-            "athletes": [
-              {
-                "name": "Phethisang Makhethe",
-                "seed_rank": 3
-              },
-              {
-                "name": "Jordan Koskondy",
-                "seed_rank": 4
-              },
-              {
-                "name": "Oluwatomilayo Akintunde",
-                "seed_rank": 11
-              }
-            ]
-          },
-          {
-            "team": "Texas",
-            "seeds_hold": 8,
-            "upside": 10,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Giavonna Meeks",
-                "seed_rank": 2
-              }
-            ]
-          },
-          {
-            "team": "Ole Miss",
-            "seeds_hold": 4,
-            "upside": 6,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Akaoma Odeluga",
-                "seed_rank": 5
-              },
-              {
-                "name": "Skylar Soli",
-                "seed_rank": 9
-              }
-            ]
-          },
-          {
-            "team": "Michigan State",
-            "seeds_hold": 3,
-            "upside": 5,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Elle Adrian",
-                "seed_rank": 6
-              }
-            ]
-          },
-          {
-            "team": "Kennesaw State",
-            "seeds_hold": 2,
-            "upside": 4,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Kali Terza",
-                "seed_rank": 7
-              }
-            ]
-          },
-          {
-            "team": "Wisconsin",
-            "seeds_hold": 0,
-            "upside": 0,
-            "swing": 0,
-            "athletes": [
-              {
-                "name": "Taylor Kesner",
-                "seed_rank": 10
-              }
-            ]
-          },
-          {
-            "team": "Colorado St.",
-            "seeds_hold": 0,
-            "upside": 0,
-            "swing": 0,
-            "athletes": [
-              {
-                "name": "Kajsa Borrman",
-                "seed_rank": 12
-              }
-            ]
-          }
-        ],
-        "top_athletes": [
-          {
-            "seed_rank": 1,
-            "name": "Anthonett Nabwe",
-            "team": "Minnesota",
-            "seed": "24.67m"
-          },
-          {
-            "seed_rank": 2,
-            "name": "Giavonna Meeks",
-            "team": "Texas",
-            "seed": "24.49m"
-          },
-          {
-            "seed_rank": 3,
-            "name": "Phethisang Makhethe",
-            "team": "Illinois",
-            "seed": "23.70m"
-          },
-          {
-            "seed_rank": 4,
-            "name": "Jordan Koskondy",
-            "team": "Illinois",
-            "seed": "23.59m"
-          },
-          {
-            "seed_rank": 5,
-            "name": "Akaoma Odeluga",
-            "team": "Ole Miss",
-            "seed": "23.08m"
-          },
-          {
-            "seed_rank": 6,
-            "name": "Elle Adrian",
-            "team": "Michigan State",
-            "seed": "22.50m"
-          },
-          {
-            "seed_rank": 7,
-            "name": "Kali Terza",
-            "team": "Kennesaw State",
-            "seed": "22.50m"
-          },
-          {
-            "seed_rank": 8,
-            "name": "Hadley Streit",
-            "team": "Minnesota",
-            "seed": "22.41m"
-          }
-        ],
-        "contenders_in_event": [
-          "Minnesota",
-          "Illinois",
-          "Texas",
-          "Ole Miss"
-        ]
-      },
-      {
         "event": "Women 800 Meter Run",
         "headline": "Women 800 Meter Run \u2014 7 teams \u00b7 up to 10 pts",
         "swing": 63,
@@ -5599,9 +5578,9 @@
         "actual": 14.0,
         "seed_projection": 49.5,
         "ceiling": 51.0,
-        "mc_forecast": 51.2,
+        "mc_forecast": 51.1,
         "premeet_projection": 35,
-        "win_probability": 98.2,
+        "win_probability": 99.5,
         "top4_probability": 100.0,
         "events_scored": [
           "Men 5000 Meter Run (6pt)",
@@ -5611,37 +5590,29 @@
       {
         "team": "Florida",
         "actual": 3.0,
-        "seed_projection": 34.5,
-        "ceiling": 34.0,
-        "mc_forecast": 34.7,
+        "seed_projection": 31.0,
+        "ceiling": 31.0,
+        "mc_forecast": 31.5,
         "premeet_projection": 35,
-        "win_probability": 1.6,
-        "top4_probability": 93.4,
-        "events_scored": []
+        "win_probability": 0.4,
+        "top4_probability": 88.2,
+        "events_scored": [
+          "Men Long Jump (3pt)"
+        ]
       },
       {
         "team": "Kansas State",
         "actual": 11.0,
-        "seed_projection": 32.5,
-        "ceiling": 35.0,
-        "mc_forecast": 33.1,
+        "seed_projection": 30.5,
+        "ceiling": 32.0,
+        "mc_forecast": 30.8,
         "premeet_projection": 23,
         "win_probability": 0.1,
-        "top4_probability": 91.5,
+        "top4_probability": 90.4,
         "events_scored": [
+          "Men Long Jump (10pt)",
           "Men Weight Throw (1pt)"
         ]
-      },
-      {
-        "team": "Oklahoma",
-        "actual": 0.0,
-        "seed_projection": 30.5,
-        "ceiling": 30.0,
-        "mc_forecast": 28.3,
-        "premeet_projection": 24,
-        "win_probability": 0.1,
-        "top4_probability": 56.6,
-        "events_scored": []
       },
       {
         "team": "Penn State",
@@ -5650,8 +5621,8 @@
         "ceiling": 28.0,
         "mc_forecast": 27.1,
         "premeet_projection": 25,
-        "win_probability": 0.0,
-        "top4_probability": 39.4,
+        "win_probability": 0.1,
+        "top4_probability": 63.0,
         "events_scored": []
       },
       {
@@ -5659,10 +5630,10 @@
         "actual": 0.0,
         "seed_projection": 25.0,
         "ceiling": 25.0,
-        "mc_forecast": 22.0,
+        "mc_forecast": 21.9,
         "premeet_projection": 17,
         "win_probability": 0.0,
-        "top4_probability": 2.0,
+        "top4_probability": 8.2,
         "events_scored": []
       },
       {
@@ -5670,10 +5641,10 @@
         "actual": 10.0,
         "seed_projection": 24.0,
         "ceiling": 24.0,
-        "mc_forecast": 23.5,
+        "mc_forecast": 23.6,
         "premeet_projection": 19,
         "win_probability": 0.0,
-        "top4_probability": 4.7,
+        "top4_probability": 18.1,
         "events_scored": [
           "Men Distance Medley (4pt)",
           "Men Pole Vault (6pt)"
@@ -5687,7 +5658,7 @@
         "mc_forecast": 21.9,
         "premeet_projection": 27,
         "win_probability": 0.0,
-        "top4_probability": 3.9,
+        "top4_probability": 10.5,
         "events_scored": []
       },
       {
@@ -5698,7 +5669,7 @@
         "mc_forecast": 22.6,
         "premeet_projection": 22,
         "win_probability": 0.0,
-        "top4_probability": 6.7,
+        "top4_probability": 12.4,
         "events_scored": [
           "Men Pole Vault (8pt)",
           "Men Weight Throw (4pt)"
@@ -5712,7 +5683,20 @@
         "mc_forecast": 19.2,
         "premeet_projection": 19,
         "win_probability": 0.0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.9,
+        "events_scored": [
+          "Men Long Jump (1pt)"
+        ]
+      },
+      {
+        "team": "Oklahoma",
+        "actual": 0.0,
+        "seed_projection": 20.5,
+        "ceiling": 20.0,
+        "mc_forecast": 20.0,
+        "premeet_projection": 24,
+        "win_probability": 0.0,
+        "top4_probability": 5.0,
         "events_scored": []
       },
       {
@@ -5723,7 +5707,7 @@
         "mc_forecast": 18.4,
         "premeet_projection": 16,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.6,
         "events_scored": [
           "Men Distance Medley (6pt)"
         ]
@@ -5733,10 +5717,10 @@
         "actual": 6.0,
         "seed_projection": 19.0,
         "ceiling": 19.0,
-        "mc_forecast": 17.5,
+        "mc_forecast": 17.4,
         "premeet_projection": 18,
         "win_probability": 0.0,
-        "top4_probability": 0.2,
+        "top4_probability": 0.1,
         "events_scored": [
           "Men Weight Throw (6pt)"
         ]
@@ -5746,7 +5730,7 @@
         "actual": 8.0,
         "seed_projection": 18.0,
         "ceiling": 18.0,
-        "mc_forecast": 16.3,
+        "mc_forecast": 16.4,
         "premeet_projection": 23,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5759,10 +5743,10 @@
         "actual": 13.0,
         "seed_projection": 18.0,
         "ceiling": 18.0,
-        "mc_forecast": 18.1,
+        "mc_forecast": 18.2,
         "premeet_projection": 22,
         "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "top4_probability": 0.1,
         "events_scored": [
           "Men Weight Throw (13pt)"
         ]
@@ -5772,10 +5756,10 @@
         "actual": 2.0,
         "seed_projection": 16.0,
         "ceiling": 16.0,
-        "mc_forecast": 18.4,
+        "mc_forecast": 18.3,
         "premeet_projection": 39,
         "win_probability": 0.0,
-        "top4_probability": 1.1,
+        "top4_probability": 2.2,
         "events_scored": [
           "Men Distance Medley (2pt)"
         ]
@@ -5785,7 +5769,7 @@
         "actual": 0.0,
         "seed_projection": 15.5,
         "ceiling": 16.0,
-        "mc_forecast": 15.0,
+        "mc_forecast": 15.1,
         "premeet_projection": 13,
         "win_probability": 0.0,
         "top4_probability": 0.1,
@@ -5796,7 +5780,7 @@
         "actual": 10.0,
         "seed_projection": 15.0,
         "ceiling": 15.0,
-        "mc_forecast": 15.0,
+        "mc_forecast": 15.1,
         "premeet_projection": 5,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5808,11 +5792,11 @@
         "team": "Iowa",
         "actual": 10.0,
         "seed_projection": 14.5,
-        "ceiling": 15.0,
-        "mc_forecast": 15.6,
+        "ceiling": 14.0,
+        "mc_forecast": 15.3,
         "premeet_projection": 13,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.0,
         "events_scored": [
           "Men Weight Throw (10pt)"
         ]
@@ -5833,7 +5817,7 @@
         "actual": 0.0,
         "seed_projection": 14.0,
         "ceiling": 14.0,
-        "mc_forecast": 12.5,
+        "mc_forecast": 12.4,
         "premeet_projection": 14,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5871,7 +5855,7 @@
         "actual": 10.0,
         "seed_projection": 13.0,
         "ceiling": 14.0,
-        "mc_forecast": 13.5,
+        "mc_forecast": 13.4,
         "premeet_projection": 14,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5880,33 +5864,11 @@
         ]
       },
       {
-        "team": "Princeton",
-        "actual": 5.0,
-        "seed_projection": 13.0,
-        "ceiling": 15.0,
-        "mc_forecast": 12.9,
-        "premeet_projection": 8,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Texas",
-        "actual": 0.0,
-        "seed_projection": 12.5,
-        "ceiling": 14.0,
-        "mc_forecast": 14.0,
-        "premeet_projection": 13,
-        "win_probability": 0.0,
-        "top4_probability": 0.1,
-        "events_scored": []
-      },
-      {
         "team": "North Carolina",
         "actual": 4.0,
         "seed_projection": 12.0,
         "ceiling": 12.0,
-        "mc_forecast": 11.4,
+        "mc_forecast": 11.3,
         "premeet_projection": 10,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5918,11 +5880,11 @@
         "team": "Tennessee",
         "actual": 7.0,
         "seed_projection": 12.0,
-        "ceiling": 14.0,
-        "mc_forecast": 13.6,
+        "ceiling": 13.0,
+        "mc_forecast": 12.7,
         "premeet_projection": 20,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.0,
         "events_scored": [
           "Men Pole Vault (5pt)",
           "Men Weight Throw (2pt)"
@@ -5931,13 +5893,15 @@
       {
         "team": "Tarleton State",
         "actual": 10.0,
-        "seed_projection": 11.0,
-        "ceiling": 11.0,
-        "mc_forecast": 11.3,
+        "seed_projection": 10.0,
+        "ceiling": 10.0,
+        "mc_forecast": 10.0,
         "premeet_projection": 1,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Men Long Jump (10pt)"
+        ]
       },
       {
         "team": "Michigan",
@@ -5957,7 +5921,7 @@
         "actual": 0.0,
         "seed_projection": 8.5,
         "ceiling": 9.0,
-        "mc_forecast": 9.4,
+        "mc_forecast": 9.6,
         "premeet_projection": 6,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5968,7 +5932,7 @@
         "actual": 5.0,
         "seed_projection": 8.0,
         "ceiling": 8.0,
-        "mc_forecast": 8.1,
+        "mc_forecast": 8.0,
         "premeet_projection": 9,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5981,7 +5945,7 @@
         "actual": 0.0,
         "seed_projection": 8.0,
         "ceiling": 8.0,
-        "mc_forecast": 7.4,
+        "mc_forecast": 7.3,
         "premeet_projection": 10,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -5991,31 +5955,22 @@
         "team": "Southern Miss.",
         "actual": 8.0,
         "seed_projection": 8.0,
-        "ceiling": 10.0,
-        "mc_forecast": 8.2,
+        "ceiling": 9.0,
+        "mc_forecast": 8.1,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
-        "events_scored": []
+        "events_scored": [
+          "Men Long Jump (8pt)"
+        ]
       },
       {
-        "team": "LSU",
-        "actual": 2.0,
+        "team": "Texas",
+        "actual": 0.0,
         "seed_projection": 7.5,
         "ceiling": 9.0,
-        "mc_forecast": 8.6,
-        "premeet_projection": 12,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Ohio State",
-        "actual": 0.0,
-        "seed_projection": 6.0,
-        "ceiling": 7.0,
-        "mc_forecast": 6.3,
-        "premeet_projection": 6,
+        "mc_forecast": 9.0,
+        "premeet_projection": 13,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -6049,11 +6004,24 @@
         "actual": 0.0,
         "seed_projection": 5.0,
         "ceiling": 5.0,
-        "mc_forecast": 5.1,
+        "mc_forecast": 5.2,
         "premeet_projection": 5,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
+      },
+      {
+        "team": "Princeton",
+        "actual": 5.0,
+        "seed_projection": 5.0,
+        "ceiling": 7.0,
+        "mc_forecast": 5.5,
+        "premeet_projection": 8,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Long Jump (5pt)"
+        ]
       },
       {
         "team": "Arizona",
@@ -6082,18 +6050,31 @@
         "actual": 0.0,
         "seed_projection": 4.0,
         "ceiling": 4.0,
-        "mc_forecast": 4.0,
+        "mc_forecast": 4.1,
         "premeet_projection": 4,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
       },
       {
+        "team": "LSU",
+        "actual": 2.0,
+        "seed_projection": 4.0,
+        "ceiling": 5.0,
+        "mc_forecast": 4.5,
+        "premeet_projection": 12,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men Long Jump (2pt)"
+        ]
+      },
+      {
         "team": "Baylor",
         "actual": 0.0,
         "seed_projection": 3.5,
         "ceiling": 2.0,
-        "mc_forecast": 2.7,
+        "mc_forecast": 2.8,
         "premeet_projection": 5,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -6200,7 +6181,7 @@
         "actual": 0.0,
         "seed_projection": 1.5,
         "ceiling": 1.0,
-        "mc_forecast": 2.1,
+        "mc_forecast": 2.2,
         "premeet_projection": 0.0,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -6301,7 +6282,7 @@
         "actual": 0.0,
         "seed_projection": 0.0,
         "ceiling": 1.0,
-        "mc_forecast": 0.1,
+        "mc_forecast": 0.2,
         "premeet_projection": 6,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -6347,6 +6328,17 @@
         "ceiling": 0.0,
         "mc_forecast": 0.0,
         "premeet_projection": 0.0,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": []
+      },
+      {
+        "team": "Ohio State",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 1.0,
+        "mc_forecast": 0.2,
+        "premeet_projection": 6,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": []
@@ -6418,7 +6410,7 @@
         "events_scored": []
       }
     ],
-    "completed_finals": 4,
+    "completed_finals": 5,
     "total_finals": 17,
     "events": [
       {
@@ -8128,8 +8120,105 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "7:00 PM",
-        "status": "scheduled",
-        "results": [],
+        "status": "final",
+        "results": [
+          {
+            "place": 1,
+            "name": "Lokesh Sathyanathan",
+            "team": "Tarleton State",
+            "mark": "8.21"
+          },
+          {
+            "place": 2,
+            "name": "De'Aundre Ward",
+            "team": "Southern Miss.",
+            "mark": "8.20"
+          },
+          {
+            "place": 3,
+            "name": "Tafadzwa Chikomba",
+            "team": "Kansas State",
+            "mark": "8.15"
+          },
+          {
+            "place": 4,
+            "name": "Greg Foster",
+            "team": "Princeton",
+            "mark": "8.13"
+          },
+          {
+            "place": 5,
+            "name": "Uroy Ryan",
+            "team": "Kansas State",
+            "mark": "8.04"
+          },
+          {
+            "place": 6,
+            "name": "Temoso Masikane",
+            "team": "Florida",
+            "mark": "8.04"
+          },
+          {
+            "place": 7,
+            "name": "Jordan Turner",
+            "team": "LSU",
+            "mark": "7.97"
+          },
+          {
+            "place": 8,
+            "name": "Jayden Keys",
+            "team": "Georgia",
+            "mark": "7.89"
+          },
+          {
+            "place": 9,
+            "name": "Tyler Nichols",
+            "team": "Southern Miss.",
+            "mark": "7.85"
+          },
+          {
+            "place": 10,
+            "name": "DJ Fillmore",
+            "team": "Ohio State",
+            "mark": "7.83"
+          },
+          {
+            "place": 11,
+            "name": "Kelsey Daniel",
+            "team": "Texas",
+            "mark": "7.75"
+          },
+          {
+            "place": 12,
+            "name": "Kennedy Stringfellow",
+            "team": "Oklahoma",
+            "mark": "7.62"
+          },
+          {
+            "place": 13,
+            "name": "Cade Gray",
+            "team": "Tennessee",
+            "mark": "7.60"
+          },
+          {
+            "place": 14,
+            "name": "Emmanuel Njoku",
+            "team": "Iowa",
+            "mark": "7.46"
+          },
+          {
+            "place": 15,
+            "name": "Justin Sluijter",
+            "team": "High Point",
+            "mark": "7.37"
+          },
+          {
+            "place": 16,
+            "name": "Micah Larry",
+            "team": "Texas A&M",
+            "mark": "7.21"
+          }
+        ],
         "prelim_results": [],
         "start_list_entries": [
           {
@@ -8228,17 +8317,7 @@
             "year": "JR",
             "seed": "7.90m"
           }
-        ],
-        "seed_projection": {
-          "Oklahoma": 10.0,
-          "Princeton": 8.0,
-          "Ohio State": 6.0,
-          "Texas": 5.0,
-          "LSU": 3.5,
-          "Florida": 3.5,
-          "Kansas State": 2.0,
-          "Tarleton State": 1.0
-        }
+        ]
       },
       {
         "event_name": "Men Pole Vault",
@@ -8908,6 +8987,66 @@
           "Michigan": 5.0,
           "Oregon": 2.0,
           "Colorado": 1.0
+        }
+      },
+      {
+        "event": "Men Long Jump",
+        "event_name": "Men Long Jump",
+        "winner": "Lokesh Sathyanathan",
+        "team": "Tarleton State",
+        "mark": "8.21",
+        "day": "Friday",
+        "start_time": "7:00 PM",
+        "timestamp": "2026-03-14T01:49:37Z",
+        "points_awarded": {
+          "Tarleton State": 10.0,
+          "Southern Miss.": 8.0,
+          "Kansas State": 10.0,
+          "Princeton": 5.0,
+          "Florida": 3.0,
+          "LSU": 2.0,
+          "Georgia": 1.0
+        },
+        "event_pts": {
+          "Tarleton State": 10.0,
+          "Southern Miss.": 8.0,
+          "Kansas State": 10.0,
+          "Princeton": 5.0,
+          "Florida": 3.0,
+          "LSU": 2.0,
+          "Georgia": 1.0
+        },
+        "standings": {
+          "New Mexico": 10.0,
+          "Villanova": 8.0,
+          "Arkansas": 14.0,
+          "Louisville": 5.0,
+          "North Carolina": 4.0,
+          "Iowa State": 3.0,
+          "Oklahoma State": 2.0,
+          "BYU": 4.0,
+          "Kansas": 13.0,
+          "Texas A&M": 12.0,
+          "Washington": 10.0,
+          "Nebraska": 5.0,
+          "Tennessee": 7.0,
+          "High Point": 2.0,
+          "Iowa": 10.0,
+          "Virginia": 13.0,
+          "Ole Miss": 6.0,
+          "Missouri": 3.0,
+          "Kansas State": 11.0,
+          "Northern Arizona": 10.0,
+          "Virginia Tech": 6.0,
+          "Michigan": 5.0,
+          "Oregon": 2.0,
+          "Colorado": 1.0,
+          "Tarleton State": 10.0,
+          "Southern Miss.": 8.0,
+          "Princeton": 5.0,
+          "Florida": 3.0,
+          "LSU": 2.0,
+          "Georgia": 1.0
         }
       }
     ],
@@ -9830,206 +9969,6 @@
           "Oklahoma",
           "Georgia",
           "Ole Miss"
-        ]
-      },
-      {
-        "event": "Men Long Jump",
-        "headline": "Men Long Jump \u2014 11 teams \u00b7 up to 10 pts",
-        "swing": 72,
-        "teams": 11,
-        "team_breakdown": [
-          {
-            "team": "Oklahoma",
-            "seeds_hold": 10,
-            "upside": 10,
-            "swing": 0,
-            "athletes": [
-              {
-                "name": "Kennedy Stringfellow",
-                "seed_rank": 1
-              }
-            ]
-          },
-          {
-            "team": "Princeton",
-            "seeds_hold": 8,
-            "upside": 10,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Greg Foster",
-                "seed_rank": 2
-              }
-            ]
-          },
-          {
-            "team": "Ohio State",
-            "seeds_hold": 6,
-            "upside": 10,
-            "swing": 4,
-            "athletes": [
-              {
-                "name": "DJ Fillmore",
-                "seed_rank": 3
-              }
-            ]
-          },
-          {
-            "team": "Texas",
-            "seeds_hold": 5,
-            "upside": 8,
-            "swing": 3,
-            "athletes": [
-              {
-                "name": "Kelsey Daniel",
-                "seed_rank": 4
-              }
-            ]
-          },
-          {
-            "team": "LSU",
-            "seeds_hold": 4,
-            "upside": 6,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Jordan Turner",
-                "seed_rank": 5
-              }
-            ]
-          },
-          {
-            "team": "Florida",
-            "seeds_hold": 3,
-            "upside": 5,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Temoso Masikane",
-                "seed_rank": 6
-              }
-            ]
-          },
-          {
-            "team": "Kansas State",
-            "seeds_hold": 2,
-            "upside": 4,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Tafadzwa Chikomba",
-                "seed_rank": 7
-              },
-              {
-                "name": "Uroy Ryan",
-                "seed_rank": 12
-              }
-            ]
-          },
-          {
-            "team": "Tarleton State",
-            "seeds_hold": 1,
-            "upside": 3,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Lokesh Sathyanathan",
-                "seed_rank": 8
-              }
-            ]
-          },
-          {
-            "team": "Tennessee",
-            "seeds_hold": 0,
-            "upside": 0,
-            "swing": 0,
-            "athletes": [
-              {
-                "name": "Cade Gray",
-                "seed_rank": 9
-              }
-            ]
-          },
-          {
-            "team": "Iowa",
-            "seeds_hold": 0,
-            "upside": 0,
-            "swing": 0,
-            "athletes": [
-              {
-                "name": "Emmanuel Njoku",
-                "seed_rank": 10
-              }
-            ]
-          },
-          {
-            "team": "Southern Miss.",
-            "seeds_hold": 0,
-            "upside": 0,
-            "swing": 0,
-            "athletes": [
-              {
-                "name": "Tyler Nichols",
-                "seed_rank": 11
-              }
-            ]
-          }
-        ],
-        "top_athletes": [
-          {
-            "seed_rank": 1,
-            "name": "Kennedy Stringfellow",
-            "team": "Oklahoma",
-            "seed": "8.29m"
-          },
-          {
-            "seed_rank": 2,
-            "name": "Greg Foster",
-            "team": "Princeton",
-            "seed": "8.24m"
-          },
-          {
-            "seed_rank": 3,
-            "name": "DJ Fillmore",
-            "team": "Ohio State",
-            "seed": "8.23m"
-          },
-          {
-            "seed_rank": 4,
-            "name": "Kelsey Daniel",
-            "team": "Texas",
-            "seed": "8.21m"
-          },
-          {
-            "seed_rank": 5,
-            "name": "Jordan Turner",
-            "team": "LSU",
-            "seed": "8.11m"
-          },
-          {
-            "seed_rank": 6,
-            "name": "Temoso Masikane",
-            "team": "Florida",
-            "seed": "8.11m"
-          },
-          {
-            "seed_rank": 7,
-            "name": "Tafadzwa Chikomba",
-            "team": "Kansas State",
-            "seed": "8.09m"
-          },
-          {
-            "seed_rank": 8,
-            "name": "Lokesh Sathyanathan",
-            "team": "Tarleton State",
-            "seed": "8.01m"
-          }
-        ],
-        "contenders_in_event": [
-          "Oklahoma",
-          "Princeton",
-          "Ohio State",
-          "Texas"
         ]
       },
       {
