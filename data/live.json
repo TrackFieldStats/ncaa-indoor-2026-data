@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-14T01:49:43Z",
+    "last_updated": "2026-03-14T02:17:37Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -20,8 +20,8 @@
         "ceiling": 47.0,
         "mc_forecast": 46.2,
         "premeet_projection": 56,
-        "win_probability": 58.0,
-        "top4_probability": 99.8,
+        "win_probability": 62.0,
+        "top4_probability": 100.0,
         "events_scored": [
           "Women Long Jump (10pt)",
           "Women Weight Throw (12pt)",
@@ -35,8 +35,8 @@
         "ceiling": 45.0,
         "mc_forecast": 44.3,
         "premeet_projection": 25,
-        "win_probability": 35.1,
-        "top4_probability": 98.8,
+        "win_probability": 32.8,
+        "top4_probability": 99.2,
         "events_scored": [
           "Women Distance Medley (10pt)",
           "Women Indoor Pentathlon (10pt)"
@@ -49,8 +49,8 @@
         "ceiling": 36.0,
         "mc_forecast": 34.0,
         "premeet_projection": 46,
-        "win_probability": 0.5,
-        "top4_probability": 50.8,
+        "win_probability": 0.4,
+        "top4_probability": 53.6,
         "events_scored": [
           "Women 5000 Meter Run (10pt)",
           "Women Distance Medley (3pt)"
@@ -63,8 +63,8 @@
         "ceiling": 35.0,
         "mc_forecast": 35.3,
         "premeet_projection": 25,
-        "win_probability": 2.3,
-        "top4_probability": 61.7,
+        "win_probability": 1.8,
+        "top4_probability": 62.6,
         "events_scored": [
           "Women 5000 Meter Run (1pt)",
           "Women Long Jump (5pt)"
@@ -77,8 +77,8 @@
         "ceiling": 34.0,
         "mc_forecast": 35.5,
         "premeet_projection": 34,
-        "win_probability": 4.0,
-        "top4_probability": 63.3,
+        "win_probability": 3.1,
+        "top4_probability": 59.6,
         "events_scored": []
       },
       {
@@ -103,7 +103,7 @@
         "mc_forecast": 28.7,
         "premeet_projection": 26,
         "win_probability": 0.0,
-        "top4_probability": 11.7,
+        "top4_probability": 10.6,
         "events_scored": [
           "Women Distance Medley (8pt)"
         ]
@@ -116,7 +116,7 @@
         "mc_forecast": 24.1,
         "premeet_projection": 32,
         "win_probability": 0.0,
-        "top4_probability": 0.4,
+        "top4_probability": 0.5,
         "events_scored": []
       },
       {
@@ -127,7 +127,7 @@
         "mc_forecast": 24.4,
         "premeet_projection": 18,
         "win_probability": 0.0,
-        "top4_probability": 2.8,
+        "top4_probability": 3.0,
         "events_scored": []
       },
       {
@@ -5595,7 +5595,7 @@
         "mc_forecast": 31.5,
         "premeet_projection": 35,
         "win_probability": 0.4,
-        "top4_probability": 88.2,
+        "top4_probability": 88.5,
         "events_scored": [
           "Men Long Jump (3pt)"
         ]
@@ -5608,7 +5608,7 @@
         "mc_forecast": 30.8,
         "premeet_projection": 23,
         "win_probability": 0.1,
-        "top4_probability": 90.4,
+        "top4_probability": 91.8,
         "events_scored": [
           "Men Long Jump (10pt)",
           "Men Weight Throw (1pt)"
@@ -5622,7 +5622,7 @@
         "mc_forecast": 27.1,
         "premeet_projection": 25,
         "win_probability": 0.1,
-        "top4_probability": 63.0,
+        "top4_probability": 60.7,
         "events_scored": []
       },
       {
@@ -5633,7 +5633,7 @@
         "mc_forecast": 21.9,
         "premeet_projection": 17,
         "win_probability": 0.0,
-        "top4_probability": 8.2,
+        "top4_probability": 10.1,
         "events_scored": []
       },
       {
@@ -5644,7 +5644,7 @@
         "mc_forecast": 23.6,
         "premeet_projection": 19,
         "win_probability": 0.0,
-        "top4_probability": 18.1,
+        "top4_probability": 14.8,
         "events_scored": [
           "Men Distance Medley (4pt)",
           "Men Pole Vault (6pt)"
@@ -5658,7 +5658,7 @@
         "mc_forecast": 21.9,
         "premeet_projection": 27,
         "win_probability": 0.0,
-        "top4_probability": 10.5,
+        "top4_probability": 13.0,
         "events_scored": []
       },
       {
@@ -5669,7 +5669,7 @@
         "mc_forecast": 22.6,
         "premeet_projection": 22,
         "win_probability": 0.0,
-        "top4_probability": 12.4,
+        "top4_probability": 11.7,
         "events_scored": [
           "Men Pole Vault (8pt)",
           "Men Weight Throw (4pt)"
@@ -5707,7 +5707,7 @@
         "mc_forecast": 18.4,
         "premeet_projection": 16,
         "win_probability": 0.0,
-        "top4_probability": 0.6,
+        "top4_probability": 0.8,
         "events_scored": [
           "Men Distance Medley (6pt)"
         ]
@@ -5759,7 +5759,7 @@
         "mc_forecast": 18.3,
         "premeet_projection": 39,
         "win_probability": 0.0,
-        "top4_probability": 2.2,
+        "top4_probability": 2.6,
         "events_scored": [
           "Men Distance Medley (2pt)"
         ]
