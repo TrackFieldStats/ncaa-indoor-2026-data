@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-14T00:43:33Z",
+    "last_updated": "2026-03-14T00:48:04Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -48,7 +48,7 @@
         "mc_forecast": 24.2,
         "premeet_projection": 32,
         "win_probability": 0.1,
-        "top4_probability": 81.2,
+        "top4_probability": 77.5,
         "events_scored": []
       },
       {
@@ -59,7 +59,7 @@
         "mc_forecast": 22.1,
         "premeet_projection": 25,
         "win_probability": 0.0,
-        "top4_probability": 58.1,
+        "top4_probability": 59.6,
         "events_scored": [
           "Women 5000 Meter Run (1pt)",
           "Women Long Jump (5pt)"
@@ -73,7 +73,7 @@
         "mc_forecast": 18.6,
         "premeet_projection": 18,
         "win_probability": 0.0,
-        "top4_probability": 19.4,
+        "top4_probability": 20.4,
         "events_scored": []
       },
       {
@@ -84,7 +84,7 @@
         "mc_forecast": 16.5,
         "premeet_projection": 19,
         "win_probability": 0.0,
-        "top4_probability": 1.1,
+        "top4_probability": 0.3,
         "events_scored": [
           "Women 5000 Meter Run (8pt)"
         ]
@@ -97,7 +97,7 @@
         "mc_forecast": 18.5,
         "premeet_projection": 17,
         "win_probability": 0.0,
-        "top4_probability": 18.2,
+        "top4_probability": 19.7,
         "events_scored": [
           "Women 5000 Meter Run (9pt)"
         ]
@@ -110,7 +110,7 @@
         "mc_forecast": 17.3,
         "premeet_projection": 18,
         "win_probability": 0.0,
-        "top4_probability": 8.7,
+        "top4_probability": 11.1,
         "events_scored": [
           "Women Long Jump (5pt)",
           "Women Indoor Pentathlon (2pt)"
@@ -124,7 +124,7 @@
         "mc_forecast": 16.7,
         "premeet_projection": 26,
         "win_probability": 0.0,
-        "top4_probability": 10.3,
+        "top4_probability": 9.1,
         "events_scored": []
       },
       {
@@ -135,7 +135,7 @@
         "mc_forecast": 14.5,
         "premeet_projection": 16,
         "win_probability": 0.0,
-        "top4_probability": 2.4,
+        "top4_probability": 1.9,
         "events_scored": []
       },
       {
@@ -146,7 +146,7 @@
         "mc_forecast": 15.1,
         "premeet_projection": 25,
         "win_probability": 0.0,
-        "top4_probability": 0.9,
+        "top4_probability": 1.0,
         "events_scored": [
           "Women Indoor Pentathlon (10pt)"
         ]
@@ -216,7 +216,7 @@
         "mc_forecast": 11.1,
         "premeet_projection": 19,
         "win_probability": 0.0,
-        "top4_probability": 0.4,
+        "top4_probability": 0.2,
         "events_scored": []
       },
       {
@@ -227,7 +227,7 @@
         "mc_forecast": 9.0,
         "premeet_projection": 34,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.0,
         "events_scored": []
       },
       {
@@ -4603,30 +4603,8 @@
         "ceiling": 30.0,
         "mc_forecast": 28.5,
         "premeet_projection": 24,
-        "win_probability": 72.2,
-        "top4_probability": 98.8,
-        "events_scored": []
-      },
-      {
-        "team": "Villanova",
-        "actual": 0.0,
-        "seed_projection": 24.0,
-        "ceiling": 23.0,
-        "mc_forecast": 20.8,
-        "premeet_projection": 23,
-        "win_probability": 4.2,
-        "top4_probability": 75.8,
-        "events_scored": []
-      },
-      {
-        "team": "Florida",
-        "actual": 0.0,
-        "seed_projection": 22.5,
-        "ceiling": 22.0,
-        "mc_forecast": 21.5,
-        "premeet_projection": 35,
-        "win_probability": 8.0,
-        "top4_probability": 73.8,
+        "win_probability": 77.0,
+        "top4_probability": 99.8,
         "events_scored": []
       },
       {
@@ -4636,8 +4614,8 @@
         "ceiling": 24.0,
         "mc_forecast": 22.2,
         "premeet_projection": 23,
-        "win_probability": 11.5,
-        "top4_probability": 78.3,
+        "win_probability": 17.0,
+        "top4_probability": 96.8,
         "events_scored": [
           "Men Weight Throw (1pt)"
         ]
@@ -4647,32 +4625,45 @@
         "actual": 0.0,
         "seed_projection": 20.0,
         "ceiling": 20.0,
-        "mc_forecast": 20.3,
+        "mc_forecast": 20.2,
         "premeet_projection": 39,
-        "win_probability": 4.1,
-        "top4_probability": 66.5,
+        "win_probability": 5.1,
+        "top4_probability": 91.6,
         "events_scored": []
       },
       {
-        "team": "New Mexico",
+        "team": "Florida",
         "actual": 0.0,
-        "seed_projection": 13.0,
-        "ceiling": 14.0,
-        "mc_forecast": 12.8,
-        "premeet_projection": 14,
-        "win_probability": 0.0,
-        "top4_probability": 3.6,
+        "seed_projection": 17.5,
+        "ceiling": 17.0,
+        "mc_forecast": 16.6,
+        "premeet_projection": 35,
+        "win_probability": 0.9,
+        "top4_probability": 69.4,
         "events_scored": []
+      },
+      {
+        "team": "Villanova",
+        "actual": 0.0,
+        "seed_projection": 15.0,
+        "ceiling": 15.0,
+        "mc_forecast": 13.5,
+        "premeet_projection": 23,
+        "win_probability": 0.0,
+        "top4_probability": 25.7,
+        "events_scored": [
+          "Men 5000 Meter Run (8pt)"
+        ]
       },
       {
         "team": "Ole Miss",
         "actual": 0.0,
         "seed_projection": 13.0,
         "ceiling": 13.0,
-        "mc_forecast": 11.5,
+        "mc_forecast": 11.4,
         "premeet_projection": 18,
-        "win_probability": 0.0,
-        "top4_probability": 1.1,
+        "win_probability": 0.1,
+        "top4_probability": 4.9,
         "events_scored": [
           "Men Weight Throw (6pt)"
         ]
@@ -4685,7 +4676,7 @@
         "mc_forecast": 9.8,
         "premeet_projection": 19,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 1.6,
         "events_scored": []
       },
       {
@@ -4693,19 +4684,8 @@
         "actual": 0.0,
         "seed_projection": 10.0,
         "ceiling": 10.0,
-        "mc_forecast": 8.4,
+        "mc_forecast": 8.3,
         "premeet_projection": 11,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "North Carolina",
-        "actual": 0.0,
-        "seed_projection": 10.0,
-        "ceiling": 10.0,
-        "mc_forecast": 9.5,
-        "premeet_projection": 10,
         "win_probability": 0.0,
         "top4_probability": 0.1,
         "events_scored": []
@@ -4715,7 +4695,7 @@
         "actual": 0.0,
         "seed_projection": 10.0,
         "ceiling": 10.0,
-        "mc_forecast": 8.4,
+        "mc_forecast": 8.3,
         "premeet_projection": 13,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4726,7 +4706,7 @@
         "actual": 0.0,
         "seed_projection": 10.0,
         "ceiling": 11.0,
-        "mc_forecast": 8.4,
+        "mc_forecast": 8.5,
         "premeet_projection": 27,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4737,10 +4717,10 @@
         "actual": 0.0,
         "seed_projection": 10.0,
         "ceiling": 10.0,
-        "mc_forecast": 10.3,
+        "mc_forecast": 10.4,
         "premeet_projection": 16,
         "win_probability": 0.0,
-        "top4_probability": 1.1,
+        "top4_probability": 5.0,
         "events_scored": []
       },
       {
@@ -4748,21 +4728,34 @@
         "actual": 0.0,
         "seed_projection": 9.0,
         "ceiling": 9.0,
-        "mc_forecast": 9.1,
+        "mc_forecast": 9.2,
         "premeet_projection": 13,
         "win_probability": 0.0,
-        "top4_probability": 0.5,
+        "top4_probability": 3.9,
         "events_scored": []
+      },
+      {
+        "team": "North Carolina",
+        "actual": 0.0,
+        "seed_projection": 8.0,
+        "ceiling": 8.0,
+        "mc_forecast": 7.4,
+        "premeet_projection": 10,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 5000 Meter Run (4pt)"
+        ]
       },
       {
         "team": "Princeton",
         "actual": 0.0,
         "seed_projection": 8.0,
         "ceiling": 10.0,
-        "mc_forecast": 7.8,
+        "mc_forecast": 7.9,
         "premeet_projection": 8,
         "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "top4_probability": 0.3,
         "events_scored": []
       },
       {
@@ -4770,7 +4763,7 @@
         "actual": 0.0,
         "seed_projection": 6.0,
         "ceiling": 6.0,
-        "mc_forecast": 6.2,
+        "mc_forecast": 6.3,
         "premeet_projection": 14,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4780,19 +4773,21 @@
         "team": "BYU",
         "actual": 0.0,
         "seed_projection": 6.0,
-        "ceiling": 8.0,
-        "mc_forecast": 6.6,
+        "ceiling": 7.0,
+        "mc_forecast": 6.4,
         "premeet_projection": 9,
         "win_probability": 0.0,
         "top4_probability": 0.1,
-        "events_scored": []
+        "events_scored": [
+          "Men 5000 Meter Run (1pt)"
+        ]
       },
       {
         "team": "Kentucky",
         "actual": 0.0,
         "seed_projection": 6.0,
         "ceiling": 6.0,
-        "mc_forecast": 6.3,
+        "mc_forecast": 6.2,
         "premeet_projection": 6,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4803,21 +4798,10 @@
         "actual": 0.0,
         "seed_projection": 6.0,
         "ceiling": 7.0,
-        "mc_forecast": 6.4,
-        "premeet_projection": 6,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
-        "team": "Oklahoma State",
-        "actual": 0.0,
-        "seed_projection": 6.0,
-        "ceiling": 7.0,
         "mc_forecast": 6.3,
         "premeet_projection": 6,
         "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "top4_probability": 0.1,
         "events_scored": []
       },
       {
@@ -4828,18 +4812,7 @@
         "mc_forecast": 6.5,
         "premeet_projection": 12,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
-        "events_scored": []
-      },
-      {
-        "team": "Arkansas",
-        "actual": 0.0,
-        "seed_projection": 5.0,
-        "ceiling": 7.0,
-        "mc_forecast": 6.1,
-        "premeet_projection": 35,
-        "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.4,
         "events_scored": []
       },
       {
@@ -4861,7 +4834,7 @@
         "mc_forecast": 5.4,
         "premeet_projection": 5,
         "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "top4_probability": 0.1,
         "events_scored": []
       },
       {
@@ -4869,10 +4842,10 @@
         "actual": 0.0,
         "seed_projection": 5.0,
         "ceiling": 7.0,
-        "mc_forecast": 6.7,
+        "mc_forecast": 6.6,
         "premeet_projection": 20,
         "win_probability": 0.0,
-        "top4_probability": 0.1,
+        "top4_probability": 0.6,
         "events_scored": [
           "Men Pole Vault (5pt)",
           "Men Weight Throw (2pt)"
@@ -4890,22 +4863,11 @@
         "events_scored": []
       },
       {
-        "team": "Louisville",
-        "actual": 0.0,
-        "seed_projection": 4.0,
-        "ceiling": 4.0,
-        "mc_forecast": 4.0,
-        "premeet_projection": 12,
-        "win_probability": 0.0,
-        "top4_probability": 0.0,
-        "events_scored": []
-      },
-      {
         "team": "USC",
         "actual": 0.0,
         "seed_projection": 4.0,
         "ceiling": 4.0,
-        "mc_forecast": 4.1,
+        "mc_forecast": 4.0,
         "premeet_projection": 14,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4929,7 +4891,7 @@
         "actual": 0.0,
         "seed_projection": 3.0,
         "ceiling": 3.0,
-        "mc_forecast": 3.0,
+        "mc_forecast": 3.1,
         "premeet_projection": 9,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4938,11 +4900,24 @@
         ]
       },
       {
+        "team": "New Mexico",
+        "actual": 0.0,
+        "seed_projection": 3.0,
+        "ceiling": 3.0,
+        "mc_forecast": 3.0,
+        "premeet_projection": 14,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 5000 Meter Run (10pt)"
+        ]
+      },
+      {
         "team": "Texas A&M",
         "actual": 0.0,
         "seed_projection": 3.0,
         "ceiling": 3.0,
-        "mc_forecast": 3.1,
+        "mc_forecast": 3.0,
         "premeet_projection": 22,
         "win_probability": 0.0,
         "top4_probability": 0.0,
@@ -4956,12 +4931,25 @@
         "actual": 0.0,
         "seed_projection": 3.0,
         "ceiling": 3.0,
-        "mc_forecast": 3.1,
+        "mc_forecast": 3.2,
         "premeet_projection": 19,
         "win_probability": 0.0,
         "top4_probability": 0.0,
         "events_scored": [
           "Men Pole Vault (6pt)"
+        ]
+      },
+      {
+        "team": "Arkansas",
+        "actual": 0.0,
+        "seed_projection": 2.0,
+        "ceiling": 4.0,
+        "mc_forecast": 3.0,
+        "premeet_projection": 35,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 5000 Meter Run (6pt)"
         ]
       },
       {
@@ -5191,6 +5179,19 @@
         ]
       },
       {
+        "team": "Louisville",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 0.0,
+        "mc_forecast": 0.0,
+        "premeet_projection": 12,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 5000 Meter Run (5pt)"
+        ]
+      },
+      {
         "team": "North Dakota State",
         "actual": 0.0,
         "seed_projection": 0.0,
@@ -5213,6 +5214,19 @@
         "events_scored": []
       },
       {
+        "team": "Oklahoma State",
+        "actual": 0.0,
+        "seed_projection": 0.0,
+        "ceiling": 1.0,
+        "mc_forecast": 0.1,
+        "premeet_projection": 6,
+        "win_probability": 0.0,
+        "top4_probability": 0.0,
+        "events_scored": [
+          "Men 5000 Meter Run (2pt)"
+        ]
+      },
+      {
         "team": "Samford",
         "actual": 0.0,
         "seed_projection": 0.0,
@@ -5224,7 +5238,7 @@
         "events_scored": []
       }
     ],
-    "completed_finals": 2,
+    "completed_finals": 3,
     "total_finals": 17,
     "events": [
       {
@@ -5926,8 +5940,105 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "7:25 PM",
-        "status": "scheduled",
-        "results": [],
+        "status": "final",
+        "results": [
+          {
+            "place": 1,
+            "name": "Habtom Samuel",
+            "team": "New Mexico",
+            "mark": "13:36.58"
+          },
+          {
+            "place": 2,
+            "name": "Marco Langon",
+            "team": "Villanova",
+            "mark": "13:36.98"
+          },
+          {
+            "place": 3,
+            "name": "Ernest Cheruiyot",
+            "team": "Arkansas",
+            "mark": "13:37.52"
+          },
+          {
+            "place": 4,
+            "name": "Elsingi Kipruto",
+            "team": "Louisville",
+            "mark": "13:38.02"
+          },
+          {
+            "place": 5,
+            "name": "Colton Sands",
+            "team": "North Carolina",
+            "mark": "13:42.11"
+          },
+          {
+            "place": 6,
+            "name": "Rodgers Kiplimo",
+            "team": "Iowa State",
+            "mark": "13:42.82"
+          },
+          {
+            "place": 7,
+            "name": "Denis Kipngetich",
+            "team": "Oklahoma State",
+            "mark": "13:45.24"
+          },
+          {
+            "place": 8,
+            "name": "Tayvon Kitchen",
+            "team": "BYU",
+            "mark": "13:47.29"
+          },
+          {
+            "place": 9,
+            "name": "Robin Kwemoi Bera",
+            "team": "Iowa State",
+            "mark": "13:48.52"
+          },
+          {
+            "place": 10,
+            "name": "Myles Hogan",
+            "team": "Princeton",
+            "mark": "13:50.62"
+          },
+          {
+            "place": 11,
+            "name": "Kelvin Cheruiyot",
+            "team": "Florida",
+            "mark": "13:51.11"
+          },
+          {
+            "place": 12,
+            "name": "Dismus Lokira",
+            "team": "Alabama",
+            "mark": "13:53.22"
+          },
+          {
+            "place": 13,
+            "name": "Evan Jenkins",
+            "team": "Washington",
+            "mark": "13:55.96"
+          },
+          {
+            "place": 14,
+            "name": "Abdel Laadjel",
+            "team": "Oregon",
+            "mark": "14:00.11"
+          },
+          {
+            "place": 15,
+            "name": "Creed Thompson",
+            "team": "BYU",
+            "mark": "14:04.64"
+          },
+          {
+            "place": 16,
+            "name": "Evans Kiplagat",
+            "team": "New Mexico",
+            "mark": "14:06.33"
+          }
+        ],
         "prelim_results": [],
         "start_list_entries": [
           {
@@ -6026,16 +6137,7 @@
             "year": "JR",
             "seed": "13:05.21"
           }
-        ],
-        "seed_projection": {
-          "New Mexico": 10.0,
-          "Villanova": 9.0,
-          "Oklahoma State": 6.0,
-          "Florida": 5.0,
-          "Louisville": 4.0,
-          "Arkansas": 3.0,
-          "North Carolina": 2.0
-        }
+        ]
       },
       {
         "event_name": "Men 60 Meter Dash",
@@ -7397,6 +7499,23 @@
           "Tennessee": 5.0,
           "High Point": 2.0
         }
+      },
+      {
+        "event": "Men 5000 Meter Run",
+        "winner": "Habtom Samuel",
+        "team": "New Mexico",
+        "mark": "13:36.58",
+        "timestamp": "2026-03-14T00:47:58Z",
+        "points_awarded": {
+          "New Mexico": 10.0,
+          "Villanova": 8.0,
+          "Arkansas": 6.0,
+          "Louisville": 5.0,
+          "North Carolina": 4.0,
+          "Iowa State": 3.0,
+          "Oklahoma State": 2.0,
+          "BYU": 1.0
+        }
       }
     ],
     "leverage": [
@@ -7798,190 +7917,6 @@
           "Florida",
           "Alabama",
           "Tennessee"
-        ]
-      },
-      {
-        "event": "Men 5000 Meter Run",
-        "headline": "Men 5000 Meter Run \u2014 9 teams \u00b7 up to 10 pts",
-        "swing": 72,
-        "teams": 9,
-        "team_breakdown": [
-          {
-            "team": "New Mexico",
-            "seeds_hold": 11,
-            "upside": 13,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Habtom Samuel",
-                "seed_rank": 1
-              },
-              {
-                "name": "Evans Kiplagat",
-                "seed_rank": 8
-              }
-            ]
-          },
-          {
-            "team": "Villanova",
-            "seeds_hold": 8,
-            "upside": 10,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Marco Langon",
-                "seed_rank": 2
-              }
-            ]
-          },
-          {
-            "team": "Oklahoma State",
-            "seeds_hold": 6,
-            "upside": 10,
-            "swing": 4,
-            "athletes": [
-              {
-                "name": "Denis Kipngetich",
-                "seed_rank": 3
-              }
-            ]
-          },
-          {
-            "team": "Florida",
-            "seeds_hold": 5,
-            "upside": 8,
-            "swing": 3,
-            "athletes": [
-              {
-                "name": "Kelvin Cheruiyot",
-                "seed_rank": 4
-              }
-            ]
-          },
-          {
-            "team": "Louisville",
-            "seeds_hold": 4,
-            "upside": 6,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Elsingi Kipruto",
-                "seed_rank": 5
-              }
-            ]
-          },
-          {
-            "team": "Arkansas",
-            "seeds_hold": 3,
-            "upside": 5,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Ernest Cheruiyot",
-                "seed_rank": 6
-              }
-            ]
-          },
-          {
-            "team": "North Carolina",
-            "seeds_hold": 2,
-            "upside": 4,
-            "swing": 2,
-            "athletes": [
-              {
-                "name": "Colton Sands",
-                "seed_rank": 7
-              }
-            ]
-          },
-          {
-            "team": "Iowa State",
-            "seeds_hold": 0,
-            "upside": 0,
-            "swing": 0,
-            "athletes": [
-              {
-                "name": "Rodgers Kiplimo",
-                "seed_rank": 9
-              },
-              {
-                "name": "Robin Kwemoi Bera",
-                "seed_rank": 10
-              }
-            ]
-          },
-          {
-            "team": "BYU",
-            "seeds_hold": 0,
-            "upside": 0,
-            "swing": 0,
-            "athletes": [
-              {
-                "name": "Tayvon Kitchen",
-                "seed_rank": 11
-              },
-              {
-                "name": "Creed Thompson",
-                "seed_rank": 12
-              }
-            ]
-          }
-        ],
-        "top_athletes": [
-          {
-            "seed_rank": 1,
-            "name": "Habtom Samuel",
-            "team": "New Mexico",
-            "seed": "13:05.21"
-          },
-          {
-            "seed_rank": 2,
-            "name": "Marco Langon",
-            "team": "Villanova",
-            "seed": "13:05.21"
-          },
-          {
-            "seed_rank": 3,
-            "name": "Denis Kipngetich",
-            "team": "Oklahoma State",
-            "seed": "13:12.91"
-          },
-          {
-            "seed_rank": 4,
-            "name": "Kelvin Cheruiyot",
-            "team": "Florida",
-            "seed": "13:15.57"
-          },
-          {
-            "seed_rank": 5,
-            "name": "Elsingi Kipruto",
-            "team": "Louisville",
-            "seed": "13:15.74"
-          },
-          {
-            "seed_rank": 6,
-            "name": "Ernest Cheruiyot",
-            "team": "Arkansas",
-            "seed": "13:17.48"
-          },
-          {
-            "seed_rank": 7,
-            "name": "Colton Sands",
-            "team": "North Carolina",
-            "seed": "13:17.88"
-          },
-          {
-            "seed_rank": 8,
-            "name": "Evans Kiplagat",
-            "team": "New Mexico",
-            "seed": "13:18.05"
-          }
-        ],
-        "contenders_in_event": [
-          "New Mexico",
-          "Villanova",
-          "Oklahoma State",
-          "Florida"
         ]
       },
       {
