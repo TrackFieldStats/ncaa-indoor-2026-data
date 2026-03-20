@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-20T16:01:45Z",
+    "last_updated": "2026-03-20T17:55:54Z",
     "meet_url": "https://flashresults.com/2026_Meets/Indoor/03-13_NCAA",
     "scrape_ok": true,
     "status": "live"
@@ -1191,7 +1191,68 @@
             "mark": "4:47.58"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Rosemary Longisa",
+            "team": "Washington St.",
+            "mark": "4:28.09",
+            "heat": 2
+          },
+          {
+            "name": "Wilma Nielsen",
+            "team": "Oregon",
+            "mark": "4:28.26",
+            "heat": 2
+          },
+          {
+            "name": "Silan Ayyildiz",
+            "team": "Oregon",
+            "mark": "4:28.44",
+            "heat": 2
+          },
+          {
+            "name": "Riley Chamberlain",
+            "team": "BYU",
+            "mark": "4:28.96",
+            "heat": 2
+          },
+          {
+            "name": "Sadie Engelhardt",
+            "team": "NC State",
+            "mark": "4:38.62",
+            "heat": 1
+          },
+          {
+            "name": "Billah Jepkirui",
+            "team": "Oklahoma State",
+            "mark": "4:38.64",
+            "heat": 1
+          },
+          {
+            "name": "Berlyn Schutz",
+            "team": "Nebraska",
+            "mark": "4:39.17",
+            "heat": 1
+          },
+          {
+            "name": "Hayley Burns",
+            "team": "Northern Arizona",
+            "mark": "4:39.17",
+            "heat": 1
+          },
+          {
+            "name": "Claire Stegall",
+            "team": "Florida",
+            "mark": "4:29.02",
+            "heat": 2
+          },
+          {
+            "name": "Juliet Cherubet",
+            "team": "Oregon",
+            "mark": "4:30.12",
+            "heat": 2
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Hayley Burns",
@@ -1265,7 +1326,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "5:05 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
@@ -1453,7 +1514,56 @@
             "mark": "23.40"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Adaejah Hodge",
+            "team": "Georgia",
+            "mark": "22.28",
+            "heat": 4
+          },
+          {
+            "name": "JaMeesia Ford",
+            "team": "South Carolina",
+            "mark": "22.54",
+            "heat": 3
+          },
+          {
+            "name": "Tiriah Kelley",
+            "team": "Baylor",
+            "mark": "22.67",
+            "heat": 3
+          },
+          {
+            "name": "Gabrielle Matthews",
+            "team": "Florida",
+            "mark": "22.71",
+            "heat": 4
+          },
+          {
+            "name": "Camryn Dickson",
+            "team": "Texas A&M",
+            "mark": "22.72",
+            "heat": 2
+          },
+          {
+            "name": "Indya Mayberry",
+            "team": "TCU",
+            "mark": "22.80",
+            "heat": 4
+          },
+          {
+            "name": "Elise Cooper",
+            "team": "Texas",
+            "mark": "22.84",
+            "heat": 1
+          },
+          {
+            "name": "Dajaz Defrand",
+            "team": "USC",
+            "mark": "22.86",
+            "heat": 1
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Dajaz Defrand",
@@ -1515,7 +1625,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "7:45 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
@@ -1882,7 +1992,56 @@
             "mark": "51.65"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Ella Onojuvwevwo",
+            "team": "LSU",
+            "mark": "50.28",
+            "heat": 4
+          },
+          {
+            "name": "Madison Whyte",
+            "team": "USC",
+            "mark": "50.68",
+            "heat": 4
+          },
+          {
+            "name": "Sanaria Butler",
+            "team": "Arkansas",
+            "mark": "50.70",
+            "heat": 4
+          },
+          {
+            "name": "Rachel Joseph",
+            "team": "Iowa State",
+            "mark": "51.20",
+            "heat": 1
+          },
+          {
+            "name": "Sydney Sutton",
+            "team": "Florida",
+            "mark": "51.25",
+            "heat": 2
+          },
+          {
+            "name": "Kaylyn Brown",
+            "team": "Arkansas",
+            "mark": "51.29",
+            "heat": 2
+          },
+          {
+            "name": "Shaquena Foote",
+            "team": "Georgia",
+            "mark": "51.43",
+            "heat": 2
+          },
+          {
+            "name": "Dejanea Oakley",
+            "team": "Georgia",
+            "mark": "51.43",
+            "heat": 3
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Dejanea Oakley",
@@ -1944,7 +2103,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "5:55 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
@@ -2330,7 +2489,56 @@
             "mark": "7.26"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Shenese Walker",
+            "team": "Florida State",
+            "mark": "7.07",
+            "heat": 1
+          },
+          {
+            "name": "Nayla Harris",
+            "team": "UT-Rio Grande Valley",
+            "mark": "7.16",
+            "heat": 1
+          },
+          {
+            "name": "Victoria Cameron",
+            "team": "Tarleton State",
+            "mark": "7.09",
+            "heat": 2
+          },
+          {
+            "name": "Adaejah Hodge",
+            "team": "Georgia",
+            "mark": "7.12",
+            "heat": 2
+          },
+          {
+            "name": "Alicia Burnett",
+            "team": "Ole Miss",
+            "mark": "7.16",
+            "heat": 1
+          },
+          {
+            "name": "Dajaz Defrand",
+            "team": "USC",
+            "mark": "7.16",
+            "heat": 2
+          },
+          {
+            "name": "Kaila Jackson",
+            "team": "Georgia",
+            "mark": "7.20",
+            "heat": 1
+          },
+          {
+            "name": "Brianna Selby",
+            "team": "USC",
+            "mark": "7.21",
+            "heat": 1
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Kaila Jackson",
@@ -2392,7 +2600,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "5:35 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
@@ -2556,7 +2764,56 @@
             "mark": "8.17"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Aaliyah McCormick",
+            "team": "Oregon",
+            "mark": "7.96",
+            "heat": 2
+          },
+          {
+            "name": "Jaiya Covington",
+            "team": "Texas A&M",
+            "mark": "8.02",
+            "heat": 2
+          },
+          {
+            "name": "Yanla Ndjip-Nyemeck",
+            "team": "UCLA",
+            "mark": "7.96",
+            "heat": 1
+          },
+          {
+            "name": "Maddi Cooper",
+            "team": "Georgia",
+            "mark": "8.04",
+            "heat": 1
+          },
+          {
+            "name": "Emmi Scales",
+            "team": "Kentucky",
+            "mark": "8.04",
+            "heat": 1
+          },
+          {
+            "name": "Akala Garrett",
+            "team": "South Carolina",
+            "mark": "8.05",
+            "heat": 2
+          },
+          {
+            "name": "Ana-Liese Torian",
+            "team": "Auburn",
+            "mark": "8.06",
+            "heat": 1
+          },
+          {
+            "name": "Oneka Wilson",
+            "team": "Clemson",
+            "mark": "8.07",
+            "heat": 2
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Ana-Liese Torian",
@@ -2618,7 +2875,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "6:45 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
@@ -2782,7 +3039,56 @@
             "mark": "2:03.02"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Gladys Chepngetich",
+            "team": "Clemson",
+            "mark": "2:01.56",
+            "heat": 2
+          },
+          {
+            "name": "Juliette Whittaker",
+            "team": "Stanford",
+            "mark": "2:01.99",
+            "heat": 2
+          },
+          {
+            "name": "Analisse Batista",
+            "team": "Arkansas",
+            "mark": "2:02.12",
+            "heat": 2
+          },
+          {
+            "name": "Sanu Jallow",
+            "team": "Arkansas",
+            "mark": "2:03.18",
+            "heat": 1
+          },
+          {
+            "name": "Vanice Kerubo Nyagisera",
+            "team": "Kentucky",
+            "mark": "2:03.30",
+            "heat": 1
+          },
+          {
+            "name": "Makayla Paige",
+            "team": "North Carolina",
+            "mark": "2:03.36",
+            "heat": 1
+          },
+          {
+            "name": "Sophia Gorriaran",
+            "team": "Harvard",
+            "mark": "2:02.30",
+            "heat": 2
+          },
+          {
+            "name": "Zoie Dundon",
+            "team": "Minnesota",
+            "mark": "2:02.51",
+            "heat": 2
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Analisse Batista",
@@ -2844,7 +3150,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "6:25 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
@@ -5509,7 +5815,7 @@
         "mc_forecast": 24.0,
         "premeet_projection": 17,
         "win_probability": 0.0,
-        "top4_probability": 100.0,
+        "top4_probability": 0.0,
         "events_scored": [
           "Men 60 Meter Dash (14pt)",
           "Men 60 Meter Hurdles (10pt)"
@@ -5523,7 +5829,7 @@
         "mc_forecast": 24.0,
         "premeet_projection": 23,
         "win_probability": 0.0,
-        "top4_probability": 0.0,
+        "top4_probability": 100.0,
         "events_scored": [
           "Men Long Jump (10pt)",
           "Men Triple Jump (13pt)",
@@ -6570,7 +6876,68 @@
             "mark": "4:01.32"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Gary Martin",
+            "team": "Virginia",
+            "mark": "3:55.13",
+            "heat": 1
+          },
+          {
+            "name": "Thomas Diamond",
+            "team": "Washington",
+            "mark": "3:55.38",
+            "heat": 1
+          },
+          {
+            "name": "George Couttie",
+            "team": "Virginia Tech",
+            "mark": "3:56.12",
+            "heat": 1
+          },
+          {
+            "name": "Tomas Palfrey",
+            "team": "Oregon",
+            "mark": "3:56.20",
+            "heat": 1
+          },
+          {
+            "name": "Carter Cutting",
+            "team": "BYU",
+            "mark": "3:56.72",
+            "heat": 2
+          },
+          {
+            "name": "Trent McFarland",
+            "team": "Michigan",
+            "mark": "3:56.80",
+            "heat": 2
+          },
+          {
+            "name": "Reuben Reina",
+            "team": "Washington",
+            "mark": "3:57.27",
+            "heat": 2
+          },
+          {
+            "name": "Matthew Endrody",
+            "team": "New Mexico",
+            "mark": "3:57.48",
+            "heat": 2
+          },
+          {
+            "name": "Paul Specht",
+            "team": "Wake Forest",
+            "mark": "3:56.59",
+            "heat": 1
+          },
+          {
+            "name": "Jaouad Khchina",
+            "team": "South Carolina",
+            "mark": "3:57.22",
+            "heat": 1
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Paul Specht",
@@ -6644,7 +7011,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "5:20 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
@@ -6820,7 +7187,56 @@
             "mark": "20.99"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Garrett Kaalund",
+            "team": "USC",
+            "mark": "20.11",
+            "heat": 4
+          },
+          {
+            "name": "Jelani Watkins",
+            "team": "Arkansas",
+            "mark": "20.11",
+            "heat": 4
+          },
+          {
+            "name": "Wanya McCoy",
+            "team": "Florida",
+            "mark": "20.40",
+            "heat": 3
+          },
+          {
+            "name": "Amir Thompson",
+            "team": "Arizona State",
+            "mark": "20.49",
+            "heat": 1
+          },
+          {
+            "name": "Ian Dossman",
+            "team": "Cal St. Fullerton",
+            "mark": "20.57",
+            "heat": 3
+          },
+          {
+            "name": "Denzel Simusialela",
+            "team": "Kentucky",
+            "mark": "20.60",
+            "heat": 2
+          },
+          {
+            "name": "Tyson Williams",
+            "team": "South Carolina",
+            "mark": "20.64",
+            "heat": 1
+          },
+          {
+            "name": "Trelee Banks",
+            "team": "Indiana",
+            "mark": "20.66",
+            "heat": 3
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Trelee Banks",
@@ -6882,7 +7298,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "8:00 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
@@ -7243,7 +7659,56 @@
             "mark": "46.61"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Justin Braun",
+            "team": "Florida",
+            "mark": "44.77",
+            "heat": 3
+          },
+          {
+            "name": "Samuel Ogazi",
+            "team": "Alabama",
+            "mark": "45.00",
+            "heat": 4
+          },
+          {
+            "name": "Jordan Pierre",
+            "team": "Arkansas",
+            "mark": "45.01",
+            "heat": 3
+          },
+          {
+            "name": "Josiah Wrice",
+            "team": "South Carolina",
+            "mark": "45.55",
+            "heat": 2
+          },
+          {
+            "name": "Samuel Vessat",
+            "team": "Purdue",
+            "mark": "45.59",
+            "heat": 1
+          },
+          {
+            "name": "Jonathan Simms",
+            "team": "Georgia",
+            "mark": "45.62",
+            "heat": 4
+          },
+          {
+            "name": "Jake Palermo",
+            "team": "Penn State",
+            "mark": "45.77",
+            "heat": 2
+          },
+          {
+            "name": "Jayden Horton-Mims",
+            "team": "Florida",
+            "mark": "45.83",
+            "heat": 1
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Jayden Horton-Mims",
@@ -7305,7 +7770,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "6:10 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
@@ -7701,7 +8166,56 @@
             "mark": "6.66"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Jelani Watkins",
+            "team": "Arkansas",
+            "mark": "6.46",
+            "heat": 2
+          },
+          {
+            "name": "Kanyinsola Ajayi",
+            "team": "Auburn",
+            "mark": "6.51",
+            "heat": 2
+          },
+          {
+            "name": "Israel Okon",
+            "team": "Auburn",
+            "mark": "6.48",
+            "heat": 1
+          },
+          {
+            "name": "Kalen Walker",
+            "team": "Iowa",
+            "mark": "6.50",
+            "heat": 1
+          },
+          {
+            "name": "Malachi Snow",
+            "team": "Texas Tech",
+            "mark": "6.54",
+            "heat": 1
+          },
+          {
+            "name": "Darwin Jimenez",
+            "team": "Iowa",
+            "mark": "6.55",
+            "heat": 2
+          },
+          {
+            "name": "Ajani Dwyer",
+            "team": "Penn State",
+            "mark": "6.56",
+            "heat": 1
+          },
+          {
+            "name": "Mason Lawyer",
+            "team": "Arizona",
+            "mark": "6.57",
+            "heat": 2
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Ajani Dwyer",
@@ -7763,7 +8277,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "5:45 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
@@ -7927,7 +8441,56 @@
             "mark": "7.58"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Ja'Kobe Tharp",
+            "team": "Auburn",
+            "mark": "7.36",
+            "heat": 1
+          },
+          {
+            "name": "Malachi Snow",
+            "team": "Texas Tech",
+            "mark": "7.43",
+            "heat": 1
+          },
+          {
+            "name": "Bradley Franklin",
+            "team": "Samford",
+            "mark": "7.42",
+            "heat": 2
+          },
+          {
+            "name": "Ja'Qualon Scott",
+            "team": "Texas A&M",
+            "mark": "7.47",
+            "heat": 2
+          },
+          {
+            "name": "Abdoul Sysavane",
+            "team": "Arkansas",
+            "mark": "7.46",
+            "heat": 1
+          },
+          {
+            "name": "Demario Prince",
+            "team": "Baylor",
+            "mark": "7.49",
+            "heat": 1
+          },
+          {
+            "name": "Kendrick Smallwood",
+            "team": "Texas",
+            "mark": "7.51",
+            "heat": 2
+          },
+          {
+            "name": "Vashaun Vascianna",
+            "team": "Arkansas",
+            "mark": "7.54",
+            "heat": 2
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Kendrick Smallwood",
@@ -7989,7 +8552,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "6:55 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
@@ -8153,7 +8716,56 @@
             "mark": "1:48.02"
           }
         ],
-        "prelim_results": [],
+        "prelim_results": [
+          {
+            "name": "Tyrice Taylor",
+            "team": "Arkansas",
+            "mark": "1:46.16",
+            "heat": 1
+          },
+          {
+            "name": "Handal Roban",
+            "team": "Penn State",
+            "mark": "1:46.17",
+            "heat": 1
+          },
+          {
+            "name": "Rivaldo Marshall",
+            "team": "Arkansas",
+            "mark": "1:46.55",
+            "heat": 1
+          },
+          {
+            "name": "Peter Narumbe",
+            "team": "Texas A&M",
+            "mark": "1:47.18",
+            "heat": 2
+          },
+          {
+            "name": "Allon Clay",
+            "team": "Penn State",
+            "mark": "1:47.30",
+            "heat": 2
+          },
+          {
+            "name": "Joseph Socarras",
+            "team": "Penn",
+            "mark": "1:47.31",
+            "heat": 2
+          },
+          {
+            "name": "Yukichi Ishii",
+            "team": "Penn State",
+            "mark": "1:47.13",
+            "heat": 1
+          },
+          {
+            "name": "James Harding",
+            "team": "Oregon",
+            "mark": "1:47.23",
+            "heat": 1
+          }
+        ],
         "start_list_entries": [
           {
             "name": "Allon Clay",
@@ -8215,7 +8827,7 @@
         "scores_url": null,
         "day": "Friday",
         "start_time": "6:35 PM",
-        "status": "prelim_done",
+        "status": "scheduled",
         "results": [],
         "prelim_results": [
           {
